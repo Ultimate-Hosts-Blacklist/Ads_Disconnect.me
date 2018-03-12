@@ -34,9 +34,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -74,7 +72,6 @@
             "adserver.dotcommedia.de",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
-            "adserver.realhomesex.net",
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
@@ -90,7 +87,9 @@
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
-            "aylarl.com",
+            "aylarl.com"
+        ],
+        "to_test": [
             "banner.alphacool.de",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
