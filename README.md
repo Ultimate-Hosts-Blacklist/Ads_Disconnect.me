@@ -1,8 +1,10 @@
-# About [Ads_Disconnect.me]
+# About Ads_Disconnect.me
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/Ads_Disconnect.me.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/Ads_Disconnect.me)
 
-[Description]
+```
+Ad filter list by Disconnect
+```
 
 --------------------------------------------------------------------------------
 
