@@ -35,9 +35,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -71,7 +69,6 @@
             "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
-            "adserver.digitoday.com",
             "adserver.dotcommedia.de",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
@@ -89,7 +86,9 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
             "aylarl.com",
             "banner.alphacool.de",
             "banner.featuredusers.com",
