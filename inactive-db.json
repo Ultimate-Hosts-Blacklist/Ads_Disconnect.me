@@ -36,7 +36,14 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
+            "ads.groundspeak.com",
+            "a.collective-media.net",
+            "ads.mdotm.com",
+            "ads.mediaturf.net",
+            "ads.movieflix.com",
+            "ads.netclusive.de",
+            "ads.newsquest.co.uk",
+            "ads.newtention.net"
         ],
         "to_test": [
             "ads.ookla.com",
@@ -146,14 +153,7 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
-            "ads.mdotm.com",
-            "ads.mediaturf.net",
-            "ads.movieflix.com",
-            "ads.netclusive.de",
-            "ads.newsquest.co.uk",
-            "ads.newtention.net",
-            "a.collective-media.net"
+            "wads.webteh.com"
         ]
     }
 }
