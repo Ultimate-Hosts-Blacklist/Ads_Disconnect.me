@@ -38,7 +38,12 @@
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
             "ads.mdotm.com",
-            "ads.mediaturf.net"
+            "ads.mediaturf.net",
+            "a.collective-media.net",
+            "ads.movieflix.com",
+            "ads.netclusive.de",
+            "ads.newsquest.co.uk",
+            "ads.newtention.net"
         ],
         "to_test": [
             "ads.ookla.com",
@@ -148,12 +153,7 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
-            "ads.movieflix.com",
-            "ads.netclusive.de",
-            "ads.newsquest.co.uk",
-            "ads.newtention.net",
-            "a.collective-media.net"
+            "wads.webteh.com"
         ]
     }
 }
