@@ -1,6 +1,14 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1521888656": [
+        "1521976870": [
+            "accounts.pkr.com.invalid",
+            "ad-images.suntimes.com",
+            "ad.980x.com",
+            "ad.about.com",
+            "ad.aboutit.de",
+            "ad.directrev.com",
+            "ad.pandora.tv",
+            "ad.playground.ru",
             "ad.top50.to",
             "ad.watch.impress.co.jp",
             "ad2.ip.ro",
@@ -30,20 +38,7 @@
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
             "ads.mdotm.com",
-            "ads.mediaturf.net",
-            "ads.movieflix.com",
-            "ads.netclusive.de",
-            "ads.newsquest.co.uk",
-            "ads.newtention.net",
-            "a.collective-media.net",
-            "accounts.pkr.com.invalid",
-            "ad-images.suntimes.com",
-            "ad.980x.com",
-            "ad.about.com",
-            "ad.aboutit.de",
-            "ad.directrev.com",
-            "ad.pandora.tv",
-            "ad.playground.ru"
+            "ads.mediaturf.net"
         ],
         "to_test": [
             "ads.ookla.com",
@@ -153,7 +148,12 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com"
+            "wads.webteh.com",
+            "ads.movieflix.com",
+            "ads.netclusive.de",
+            "ads.newsquest.co.uk",
+            "ads.newtention.net",
+            "a.collective-media.net"
         ]
     }
 }
