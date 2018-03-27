@@ -1,6 +1,12 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1522063272": [
+        "1522149675": [
+            "ad.watch.impress.co.jp",
+            "ad2.ip.ro",
+            "adi.mainichi.co.jp",
+            "adimage.asiaone.com.sg",
+            "adlantic.nl",
+            "adlink.de",
             "adman.in.gr",
             "admob.comadwhirl.com",
             "adprojekt.pl",
@@ -27,23 +33,7 @@
             "ads.movieflix.com",
             "ads.netclusive.de",
             "ads.newsquest.co.uk",
-            "ads.newtention.net",
-            "a.collective-media.net",
-            "accounts.pkr.com.invalid",
-            "ad-images.suntimes.com",
-            "ad.980x.com",
-            "ad.about.com",
-            "ad.aboutit.de",
-            "ad.directrev.com",
-            "ad.pandora.tv",
-            "ad.playground.ru",
-            "ad.top50.to",
-            "ad.watch.impress.co.jp",
-            "ad2.ip.ro",
-            "adi.mainichi.co.jp",
-            "adimage.asiaone.com.sg",
-            "adlantic.nl",
-            "adlink.de"
+            "ads.newtention.net"
         ],
         "to_test": [
             "ads.pickmeup-ltd.com",
@@ -153,7 +143,17 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "ads.ookla.com",
-            "ads.pheedo.com"
+            "ads.pheedo.com",
+            "a.collective-media.net",
+            "accounts.pkr.com.invalid",
+            "ad-images.suntimes.com",
+            "ad.980x.com",
+            "ad.about.com",
+            "ad.aboutit.de",
+            "ad.directrev.com",
+            "ad.pandora.tv",
+            "ad.playground.ru",
+            "ad.top50.to"
         ]
     }
 }
