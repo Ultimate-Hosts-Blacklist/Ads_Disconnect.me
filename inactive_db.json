@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1522281859": [
-            "a.collective-media.net",
+        "1522420398": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -13,6 +12,7 @@
             "ad.top50.to",
             "ad.watch.impress.co.jp",
             "ad2.ip.ro",
+            "adcenter.mdf.se",
             "adi.mainichi.co.jp",
             "adimage.asiaone.com.sg",
             "adlantic.nl",
@@ -27,7 +27,9 @@
             "ads.beenetworks.net",
             "ads.billiton.de",
             "ads.brain.pk",
-            "ads.cimedia.com",
+            "ads.cimedia.com"
+        ],
+        "to_test": [
             "ads.discovery.com",
             "ads.einmedia.com",
             "ads.esmas.com",
@@ -154,8 +156,8 @@
             "wads.webteh.com",
             "adserver.kyoceramita-europe.com",
             "adserver.realhomesex.net",
-            "stats.cts-bv.nl"
-        ],
-        "to_test": []
+            "stats.cts-bv.nl",
+            "a.collective-media.net"
+        ]
     }
 }
