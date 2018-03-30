@@ -130,9 +130,7 @@
             "partner.topcities.com",
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
-            "quarterserver.de"
-        ],
-        "to_test": [
+            "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
             "rythmxchange.com",
@@ -144,6 +142,7 @@
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
+            "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
@@ -154,8 +153,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
-            "stats.cts-bv.nl",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
