@@ -79,9 +79,7 @@
             "adserver2.popdata.de",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "adworx.at"
-        ],
-        "to_test": [
+            "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
@@ -104,6 +102,7 @@
             "bigads.guj.de",
             "bravenet.com.invalid",
             "c.compete.com",
+            "click.absoluteagency.com",
             "clients.tbo.com",
             "coretalk.co",
             "count6.rbc.ru",
@@ -115,7 +114,9 @@
             "dmtracking2.alibaba.com",
             "emonitor.takeit.cz",
             "engine.awaps.net",
-            "euro-linkindex.de",
+            "euro-linkindex.de"
+        ],
+        "to_test": [
             "go-clicks.de",
             "iliillliO00OO0.321.cn",
             "kt-g.de",
