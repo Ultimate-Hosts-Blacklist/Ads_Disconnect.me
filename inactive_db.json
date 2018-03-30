@@ -27,9 +27,7 @@
             "ads.beenetworks.net",
             "ads.billiton.de",
             "ads.brain.pk",
-            "ads.cimedia.com"
-        ],
-        "to_test": [
+            "ads.cimedia.com",
             "ads.discovery.com",
             "ads.einmedia.com",
             "ads.esmas.com",
@@ -81,7 +79,9 @@
             "adserver2.popdata.de",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "adworx.at",
+            "adworx.at"
+        ],
+        "to_test": [
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
@@ -154,8 +154,6 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "adserver.kyoceramita-europe.com",
-            "adserver.realhomesex.net",
             "stats.cts-bv.nl",
             "a.collective-media.net"
         ]
