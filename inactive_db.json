@@ -144,9 +144,7 @@
             "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
-            "suavalds.com"
-        ],
-        "to_test": [
+            "suavalds.com",
             "textads.opera.com",
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
@@ -154,7 +152,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
