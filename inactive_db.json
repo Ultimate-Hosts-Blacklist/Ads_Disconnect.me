@@ -94,9 +94,7 @@
             "banner.blogranking.net",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
-            "banner.joylandcasino.com"
-        ],
-        "to_test": [
+            "banner.joylandcasino.com",
             "banner.prestigecasino.com",
             "banners.apnuk.com",
             "banners.ebay.com",
@@ -104,7 +102,6 @@
             "bigads.guj.de",
             "bravenet.com.invalid",
             "c.compete.com",
-            "click.absoluteagency.com",
             "clients.tbo.com",
             "coretalk.co",
             "count6.rbc.ru",
@@ -121,7 +118,9 @@
             "iliillliO00OO0.321.cn",
             "kt-g.de",
             "lct.salesforce.com",
-            "leanoisgo.com",
+            "leanoisgo.com"
+        ],
+        "to_test": [
             "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
