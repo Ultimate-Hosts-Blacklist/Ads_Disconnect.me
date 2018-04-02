@@ -40,9 +40,7 @@
             "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
-            "ads.movieflix.com"
-        ],
-        "to_test": [
+            "ads.movieflix.com",
             "ads.netclusive.de",
             "ads.newsquest.co.uk",
             "ads.newtention.net",
@@ -96,7 +94,9 @@
             "banner.blogranking.net",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
-            "banner.joylandcasino.com",
+            "banner.joylandcasino.com"
+        ],
+        "to_test": [
             "banner.prestigecasino.com",
             "banners.apnuk.com",
             "banners.ebay.com",
