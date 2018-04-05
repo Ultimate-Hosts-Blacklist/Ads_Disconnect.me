@@ -39,9 +39,7 @@
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
             "ads.mdotm.com",
-            "ads.mediaturf.net"
-        ],
-        "to_test": [
+            "ads.mediaturf.net",
             "ads.movieflix.com",
             "ads.netclusive.de",
             "ads.newsquest.co.uk",
@@ -92,7 +90,9 @@
             "as2.advfn.com",
             "assets.loomia.com",
             "aylarl.com",
-            "banner.alphacool.de",
+            "banner.alphacool.de"
+        ],
+        "to_test": [
             "banner.blogranking.net",
             "banner.featuredusers.com",
             "banner.jobsahead.com",
