@@ -116,14 +116,13 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "go-clicks.de",
-            "iliillliO00OO0.321.cn"
-        ],
-        "to_test": [
+            "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
             "memorix.sdv.fr",
             "mobilewithsms.net",
+            "mpstat.us",
             "netflame.cc",
             "network.business.com",
             "ngs.impress.co.jp",
@@ -143,7 +142,9 @@
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
-            "stats.cts-bv.nl",
+            "stats.cts-bv.nl"
+        ],
+        "to_test": [
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "suavalds.com",
