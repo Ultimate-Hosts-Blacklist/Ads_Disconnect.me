@@ -37,9 +37,8 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
+            "ads.groundspeak.com",
+            "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -63,6 +62,7 @@
             "ads.timeout.com",
             "ads.tjwi.info",
             "ads.trinitymirror.co.uk",
+            "ads.vnumedia.com",
             "ads.whi.co.nz",
             "ads.wunderground.com",
             "ads1.theglobeandmail.com",
@@ -81,6 +81,7 @@
             "adserver2.popdata.de",
             "adsrv.eacdn.com",
             "adtrading.de",
+            "adverts.carltononline.com",
             "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
@@ -88,7 +89,9 @@
             "affiliates.ige.com",
             "affiliates.jlist.com",
             "aidu-ads.de",
-            "arc1.msn.com",
+            "arc1.msn.com"
+        ],
+        "to_test": [
             "as2.advfn.com",
             "assets.loomia.com",
             "aylarl.com",
