@@ -41,9 +41,7 @@
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
-            "ads.movieflix.com"
-        ],
-        "to_test": [
+            "ads.movieflix.com",
             "ads.netclusive.de",
             "ads.newsquest.co.uk",
             "ads.newtention.net",
@@ -64,7 +62,6 @@
             "ads.timeout.com",
             "ads.tjwi.info",
             "ads.trinitymirror.co.uk",
-            "ads.vnumedia.com",
             "ads.whi.co.nz",
             "ads.wunderground.com",
             "ads1.theglobeandmail.com",
@@ -78,12 +75,12 @@
             "adserver.dotcommedia.de",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
+            "adserver.ngz-network.de",
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "adverts.carltononline.com",
             "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
@@ -101,7 +98,9 @@
             "banner.featuredusers.com",
             "banner.jobsahead.com",
             "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
+            "banner.prestigecasino.com"
+        ],
+        "to_test": [
             "banners.apnuk.com",
             "banners.ebay.com",
             "banners.lifeserv.com",
