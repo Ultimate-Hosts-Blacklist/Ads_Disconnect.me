@@ -138,9 +138,7 @@
             "rad.msn.com",
             "rank-master.de",
             "rythmxchange.com",
-            "seeq.com.invalid"
-        ],
-        "to_test": [
+            "seeq.com.invalid",
             "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
@@ -160,7 +158,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
