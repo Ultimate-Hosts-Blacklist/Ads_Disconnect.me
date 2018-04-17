@@ -39,9 +39,7 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "ads.linuxjournal.com"
-        ],
-        "to_test": [
+            "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
@@ -79,6 +77,7 @@
             "adserver.freenet.de",
             "adserver.motorpresse.de",
             "adserver.ngz-network.de",
+            "adserver.omroepzeeland.nl",
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
@@ -94,7 +93,9 @@
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
-            "aylarl.com",
+            "aylarl.com"
+        ],
+        "to_test": [
             "b4psads.com",
             "banner.alphacool.de",
             "banner.blogranking.net",
