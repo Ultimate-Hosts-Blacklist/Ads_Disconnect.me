@@ -38,14 +38,13 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "ads.hardwaresecrets.com"
-        ],
-        "to_test": [
+            "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
             "ads.movieflix.com",
             "ads.netclusive.de",
+            "ads.netmechanic.com",
             "ads.newsquest.co.uk",
             "ads.newtention.net",
             "ads.ookla.com",
@@ -96,7 +95,9 @@
             "as2.advfn.com",
             "assets.loomia.com",
             "aylarl.com",
-            "b4psads.com",
+            "b4psads.com"
+        ],
+        "to_test": [
             "banner.alphacool.de",
             "banner.blogranking.net",
             "banner.featuredusers.com",
