@@ -144,11 +144,10 @@
             "seeq.com.invalid",
             "sexaddpro.de",
             "sitebrand.geeks.com",
-            "sitemerkezi.net"
-        ],
-        "to_test": [
+            "sitemerkezi.net",
             "sma.punto.net",
             "smartbase.cdnservices.com",
+            "sponsorpro.de",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
             "stats.cts-bv.nl",
@@ -163,7 +162,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
