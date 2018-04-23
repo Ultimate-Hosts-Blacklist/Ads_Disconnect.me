@@ -41,9 +41,7 @@
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
-            "ads.mediaturf.net"
-        ],
-        "to_test": [
+            "ads.mediaturf.net",
             "ads.movieflix.com",
             "ads.netclusive.de",
             "ads.netmechanic.com",
@@ -99,7 +97,9 @@
             "aylarl.com",
             "b4psads.com",
             "banner.alphacool.de",
-            "banner.blogranking.net",
+            "banner.blogranking.net"
+        ],
+        "to_test": [
             "banner.featuredusers.com",
             "banner.jobsahead.com",
             "banner.joylandcasino.com",
