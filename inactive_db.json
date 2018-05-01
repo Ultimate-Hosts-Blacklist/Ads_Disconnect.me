@@ -125,9 +125,7 @@
             "euro-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
-            "hit-ranking.de"
-        ],
-        "to_test": [
+            "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
@@ -145,7 +143,9 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "rank-master.de",
+            "rank-master.de"
+        ],
+        "to_test": [
             "rythmxchange.com",
             "seeq.com.invalid",
             "sexaddpro.de",
