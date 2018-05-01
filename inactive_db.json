@@ -143,9 +143,7 @@
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
-            "rank-master.de"
-        ],
-        "to_test": [
+            "rank-master.de",
             "rythmxchange.com",
             "seeq.com.invalid",
             "sexaddpro.de",
@@ -168,6 +166,9 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
