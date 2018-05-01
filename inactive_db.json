@@ -39,9 +39,7 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "ads.hardwaresecrets.com"
-        ],
-        "to_test": [
+            "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.mediaturf.net",
@@ -79,6 +77,7 @@
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
+            "adserver.finditquick.com",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
             "adserver.ngz-network.de",
@@ -97,7 +96,9 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
             "aylarl.com",
             "b4psads.com",
             "banner.alphacool.de",
