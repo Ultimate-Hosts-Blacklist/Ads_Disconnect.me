@@ -144,9 +144,7 @@
             "rad.msn.com",
             "rythmxchange.com",
             "seeq.com.invalid",
-            "sexaddpro.de"
-        ],
-        "to_test": [
+            "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
             "sma.punto.net",
@@ -158,7 +156,6 @@
             "stats.surfaid.ihost.com",
             "suavalds.com",
             "textads.opera.com",
-            "top-casting-termine.de",
             "touchclarity.natwest.com",
             "tracking.yourfilehost.com",
             "traffic.liveuniversenetwork.com",
@@ -166,7 +163,9 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
