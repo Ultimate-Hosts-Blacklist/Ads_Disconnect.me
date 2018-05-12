@@ -42,9 +42,7 @@
             "ads.groundspeak.com",
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
-            "ads.mdotm.com"
-        ],
-        "to_test": [
+            "ads.mdotm.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
             "ads.netclusive.de",
@@ -89,13 +87,16 @@
             "adserver2.popdata.de",
             "adsrv.eacdn.com",
             "adtrading.de",
+            "advertising.guildlaunch.net",
             "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
-            "aidu-ads.de",
+            "aidu-ads.de"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
