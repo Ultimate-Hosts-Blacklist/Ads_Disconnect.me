@@ -41,9 +41,7 @@
             "ads.groundspeak.com",
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
-            "ads.mdotm.com"
-        ],
-        "to_test": [
+            "ads.mdotm.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
             "ads.netclusive.de",
@@ -101,7 +99,9 @@
             "assets.loomia.com",
             "aylarl.com",
             "banner.alphacool.de",
-            "banner.blogranking.net",
+            "banner.blogranking.net"
+        ],
+        "to_test": [
             "banner.featuredusers.com",
             "banner.jobsahead.com",
             "banner.joylandcasino.com",
