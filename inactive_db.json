@@ -38,9 +38,7 @@
             "ads.futurenet.com",
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
-            "ads.godlikeproductions.com"
-        ],
-        "to_test": [
+            "ads.godlikeproductions.com",
             "ads.groundspeak.com",
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
@@ -62,6 +60,7 @@
             "ads.sift.co.uk",
             "ads.stationplay.com",
             "ads.struq.com",
+            "ads.t-online.de",
             "ads.techweb.com",
             "ads.theglobeandmail.com",
             "ads.thewebfreaks.com",
@@ -73,6 +72,7 @@
             "ads1.theglobeandmail.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
+            "adserv.evo-x.de",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
             "adserver-live.yoc.mobi",
@@ -99,7 +99,9 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
             "aylarl.com",
             "banner.alphacool.de",
             "banner.blogranking.net",
