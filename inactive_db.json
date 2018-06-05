@@ -142,9 +142,7 @@
             "partner.topcities.com",
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
-            "promo1.webcams.nl"
-        ],
-        "to_test": [
+            "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
@@ -169,7 +167,9 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "a.collective-media.net"
         ]
     }
