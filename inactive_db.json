@@ -145,9 +145,7 @@
             "openad.tf1.fr",
             "partner.topcities.com",
             "pixel.jumptap.com",
-            "pro.i-doctor.co.kr"
-        ],
-        "to_test": [
+            "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
@@ -156,6 +154,7 @@
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
+            "serving-sys.com",
             "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
@@ -174,7 +173,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
-            "wads.webteh.com",
+            "wads.webteh.com"
+        ],
+        "to_test": [
             "www1.gto-media.com",
             "zde-affinity.edgecaching.net",
             "a.collective-media.net"
