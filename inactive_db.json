@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1532777684": [
+        "1533122971": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -29,7 +29,6 @@
             "ads.batpmturner.com",
             "ads.beenetworks.net",
             "ads.billiton.de",
-            "ads.brain.pk",
             "ads.cimedia.com",
             "ads.discovery.com",
             "ads.einmedia.com",
@@ -39,7 +38,9 @@
             "ads.futurenet.com",
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
-            "ads.godlikeproductions.com",
+            "ads.godlikeproductions.com"
+        ],
+        "to_test": [
             "ads.groundspeak.com",
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
@@ -175,9 +176,7 @@
             "tsms-ad.tsms.com",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
+            "zde-affinity.edgecaching.net",
             "a.collective-media.net"
         ]
     }
