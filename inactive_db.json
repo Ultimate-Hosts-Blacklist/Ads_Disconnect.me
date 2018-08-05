@@ -100,9 +100,7 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com"
-        ],
-        "to_test": [
+            "assets.loomia.com",
             "aylarl.com",
             "b.aol.com",
             "b.engadget.com",
@@ -112,6 +110,7 @@
             "banner.jobsahead.com",
             "banner.joylandcasino.com",
             "banner.prestigecasino.com",
+            "banner.webmersion.com",
             "banners.apnuk.com",
             "banners.audioholics.com",
             "banners.ebay.com",
@@ -131,7 +130,9 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "fonecta.leiki.com",
-            "german-linkindex.de",
+            "german-linkindex.de"
+        ],
+        "to_test": [
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
