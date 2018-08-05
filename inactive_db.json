@@ -130,9 +130,7 @@
             "engine.awaps.net",
             "euro-linkindex.de",
             "fonecta.leiki.com",
-            "german-linkindex.de"
-        ],
-        "to_test": [
+            "german-linkindex.de",
             "go-clicks.de",
             "gpr.hu",
             "hit-ranking.de",
@@ -154,7 +152,9 @@
             "promo1.webcams.nl",
             "quarterserver.de",
             "qwapi.apple.com",
-            "rad.msn.com",
+            "rad.msn.com"
+        ],
+        "to_test": [
             "rythmxchange.com",
             "seeq.com.invalid",
             "service1.adten.de",
