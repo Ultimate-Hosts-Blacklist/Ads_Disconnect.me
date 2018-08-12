@@ -80,9 +80,7 @@
             "adserv.evo-x.de",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
-            "adserver-live.yoc.mobi"
-        ],
-        "to_test": [
+            "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -122,7 +120,9 @@
             "bigads.guj.de",
             "bravenet.com.invalid",
             "c.compete.com",
-            "clients.tbo.com",
+            "clients.tbo.com"
+        ],
+        "to_test": [
             "count6.rbc.ru",
             "counter.avtoindex.com",
             "creative.ak.facebook.com",
