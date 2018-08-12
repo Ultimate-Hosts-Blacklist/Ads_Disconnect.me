@@ -19,12 +19,12 @@
             "ad2.ip.ro",
             "adi.mainichi.co.jp",
             "adimage.asiaone.com.sg",
-            "adimages.omroepzeeland.nl"
-        ],
-        "to_test": [
+            "adimages.omroepzeeland.nl",
             "adlink.de",
             "adman.in.gr",
+            "admedia.ro",
             "admob.comadwhirl.com",
+            "adnxs.com",
             "ads.adultswim.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
@@ -42,7 +42,9 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com",
+            "ads.groundspeak.com"
+        ],
+        "to_test": [
             "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
