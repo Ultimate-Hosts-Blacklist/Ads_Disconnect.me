@@ -120,9 +120,7 @@
             "bigads.guj.de",
             "bravenet.com.invalid",
             "c.compete.com",
-            "clients.tbo.com"
-        ],
-        "to_test": [
+            "clients.tbo.com",
             "count6.rbc.ru",
             "counter.avtoindex.com",
             "creative.ak.facebook.com",
@@ -144,7 +142,9 @@
             "m.webtrends.com",
             "m4n.nl",
             "memorix.sdv.fr",
-            "mobilewithsms.net",
+            "mobilewithsms.net"
+        ],
+        "to_test": [
             "netflame.cc",
             "network.business.com",
             "ngs.impress.co.jp",
