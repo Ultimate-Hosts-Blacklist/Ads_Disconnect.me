@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1533814393": [
+        "1534074606": [
+            "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -18,7 +19,9 @@
             "ad2.ip.ro",
             "adi.mainichi.co.jp",
             "adimage.asiaone.com.sg",
-            "adimages.omroepzeeland.nl",
+            "adimages.omroepzeeland.nl"
+        ],
+        "to_test": [
             "adlink.de",
             "adman.in.gr",
             "admob.comadwhirl.com",
@@ -175,10 +178,8 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "a.collective-media.net"
+            "zde-affinity.edgecaching.net",
+            "518ad.com"
         ]
     }
 }
