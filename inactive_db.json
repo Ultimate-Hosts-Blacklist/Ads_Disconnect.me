@@ -154,9 +154,7 @@
             "promo1.webcams.nl",
             "promotion-campaigns.com",
             "pulse360.com",
-            "quarterserver.de"
-        ],
-        "to_test": [
+            "quarterserver.de",
             "qwapi.apple.com",
             "rad.msn.com",
             "rythmxchange.com",
@@ -182,7 +180,9 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net",
+            "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
             "518ad.com"
         ]
     }
