@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1534074606": [
-            "a.collective-media.net",
+        "1534419426": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -22,9 +21,7 @@
             "adimages.omroepzeeland.nl",
             "adlink.de",
             "adman.in.gr",
-            "admedia.ro",
             "admob.comadwhirl.com",
-            "adnxs.com",
             "ads.adultswim.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
@@ -43,7 +40,9 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
+            "ads.hardwaresecrets.com"
+        ],
+        "to_test": [
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
@@ -180,10 +179,8 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "518ad.com"
+            "zde-affinity.edgecaching.net",
+            "a.collective-media.net"
         ]
     }
 }
