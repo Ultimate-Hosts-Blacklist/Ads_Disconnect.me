@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1534419426": [
+        "1534679403": [
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -40,7 +40,23 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
+            "ads.hardwaresecrets.com"
+        ],
+        "to_test": [
+            "ads.linuxjournal.com",
+            "ads.mdotm.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
+            "banners.apnuk.com",
+            "banners.audioholics.com",
+            "sitebrand.geeks.com",
+            "sitemerkezi.net",
+            "sma.punto.net",
+            "smartbase.cdnservices.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
             "ads.netclusive.de",
@@ -163,23 +179,7 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads.linuxjournal.com",
-            "ads.mdotm.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "banners.apnuk.com",
-            "banners.audioholics.com",
-            "sitebrand.geeks.com",
-            "sitemerkezi.net",
-            "sma.punto.net",
-            "smartbase.cdnservices.com",
+            "zde-affinity.edgecaching.net",
             "a.collective-media.net"
         ]
     }
