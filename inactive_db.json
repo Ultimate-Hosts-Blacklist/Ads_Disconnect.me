@@ -151,20 +151,7 @@
             "sitebrand.geeks.com",
             "sitemerkezi.net",
             "sma.punto.net",
-            "smartbase.cdnservices.com"
-        ],
-        "to_test": [
-            "ads.hardwaresecrets.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "banners.apnuk.com",
-            "banners.audioholics.com",
-            "sprinks-clicks.about.com",
-            "stat.tudou.com",
+            "smartbase.cdnservices.com",
             "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
@@ -180,6 +167,19 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "ads.hardwaresecrets.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
+            "banners.apnuk.com",
+            "banners.audioholics.com",
+            "sprinks-clicks.about.com",
+            "stat.tudou.com"
         ]
     }
 }
