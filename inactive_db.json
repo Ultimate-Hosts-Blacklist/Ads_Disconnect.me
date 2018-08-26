@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1535024369": [
+        "1535283681": [
+            "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
             "ad.980x.com",
@@ -38,8 +39,14 @@
             "ads.futurenet.com",
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
+            "ads.godlikeproductions.com",
+            "ads.groundspeak.com"
+        ],
+        "to_test": [
+            "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
+            "ads.mediaturf.net",
             "ads.moceanads.com",
             "ads.movieflix.com",
             "ads.netclusive.de",
@@ -51,6 +58,7 @@
             "ads.pheedo.com",
             "ads.pickmeup-ltd.com",
             "ads.pkr.com",
+            "ads.rottentomatoes.com",
             "ads.rpgdot.com",
             "ads.savannahnow.com",
             "ads.saymedia.com",
@@ -73,6 +81,7 @@
             "adserv.evo-x.de",
             "adserv.qconline.com",
             "adserv.quality-channel.de",
+            "adserver-live.yoc.mobi",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
@@ -99,12 +108,21 @@
             "aylarl.com",
             "b.aol.com",
             "b.engadget.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
+            "banners.apnuk.com",
+            "banners.audioholics.com",
             "banners.ebay.com",
             "banners.lifeserv.com",
             "bigads.guj.de",
             "bravenet.com.invalid",
             "c.compete.com",
             "clients.tbo.com",
+            "coretalk.co",
             "count6.rbc.ru",
             "counter.avtoindex.com",
             "creative.ak.facebook.com",
@@ -122,6 +140,7 @@
             "hit-ranking.de",
             "idot.cz",
             "iliillliO00OO0.321.cn",
+            "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
@@ -146,6 +165,8 @@
             "seeq.com.invalid",
             "service1.adten.de",
             "sexaddpro.de",
+            "sitebrand.geeks.com",
+            "sitemerkezi.net",
             "sma.punto.net",
             "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
@@ -165,22 +186,6 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "banner.prestigecasino.com",
-            "banners.apnuk.com",
-            "banners.audioholics.com",
-            "ads.godlikeproductions.com",
-            "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "sitebrand.geeks.com",
-            "sitemerkezi.net",
-            "a.collective-media.net"
         ]
     }
 }
