@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1535283681": [
+        "1535542962": [
             "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
@@ -22,8 +22,10 @@
             "adimages.omroepzeeland.nl",
             "adlink.de",
             "adman.in.gr",
+            "admedia.ro",
             "admob.comadwhirl.com",
             "ads.adultswim.com",
+            "ads.allvatar.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
             "ads.asia1.com.sg",
@@ -40,7 +42,10 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com",
+            "ads.groundspeak.com"
+        ],
+        "to_test": [
+            "ads.hardwaresecrets.com",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
@@ -101,6 +106,14 @@
             "assets.loomia.com",
             "b.aol.com",
             "b.engadget.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
+            "banners.apnuk.com",
+            "banners.audioholics.com",
             "banners.ebay.com",
             "banners.lifeserv.com",
             "bigads.guj.de",
@@ -152,6 +165,8 @@
             "sitemerkezi.net",
             "sma.punto.net",
             "smartbase.cdnservices.com",
+            "sprinks-clicks.about.com",
+            "stat.tudou.com",
             "stats.cts-bv.nl",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
@@ -167,19 +182,6 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads.hardwaresecrets.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "banners.apnuk.com",
-            "banners.audioholics.com",
-            "sprinks-clicks.about.com",
-            "stat.tudou.com"
         ]
     }
 }
