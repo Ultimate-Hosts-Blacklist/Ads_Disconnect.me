@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1535542962": [
+        "1535888673": [
             "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
@@ -17,6 +17,7 @@
             "ad.top50.to",
             "ad.watch.impress.co.jp",
             "ad2.ip.ro",
+            "adbanner.ro",
             "adi.mainichi.co.jp",
             "adimage.asiaone.com.sg",
             "adimages.omroepzeeland.nl",
@@ -39,10 +40,14 @@
             "ads.ezboard.com",
             "ads.foxkidseurope.net",
             "ads.futurenet.com",
-            "ads.gameforgeads.de",
+            "ads.gameforgeads.de"
+        ],
+        "to_test": [
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
+            "ads.hardwaresecrets.com",
+            "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
@@ -103,6 +108,14 @@
             "assets.loomia.com",
             "b.aol.com",
             "b.engadget.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
+            "banners.apnuk.com",
+            "banners.audioholics.com",
             "banners.ebay.com",
             "banners.lifeserv.com",
             "bigads.guj.de",
@@ -125,6 +138,7 @@
             "gpr.hu",
             "hit-ranking.de",
             "idot.cz",
+            "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
@@ -149,6 +163,10 @@
             "seeq.com.invalid",
             "service1.adten.de",
             "sexaddpro.de",
+            "sitebrand.geeks.com",
+            "sitemerkezi.net",
+            "sma.punto.net",
+            "smartbase.cdnservices.com",
             "sprinks-clicks.about.com",
             "stat.tudou.com",
             "stats.cts-bv.nl",
@@ -166,23 +184,6 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads.hardwaresecrets.com",
-            "ads.linuxjournal.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "banners.apnuk.com",
-            "banners.audioholics.com",
-            "iliillliO00OO0.321.cn",
-            "sitebrand.geeks.com",
-            "sitemerkezi.net",
-            "sma.punto.net",
-            "smartbase.cdnservices.com"
         ]
     }
 }
