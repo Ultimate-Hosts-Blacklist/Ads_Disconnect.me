@@ -40,13 +40,7 @@
             "ads.ezboard.com",
             "ads.foxkidseurope.net",
             "ads.futurenet.com",
-            "ads.gameforgeads.de"
-        ],
-        "to_test": [
-            "ads.globeandmail.com",
-            "ads.godlikeproductions.com",
-            "ads.groundspeak.com",
-            "ads.hardwaresecrets.com",
+            "ads.gameforgeads.de",
             "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
@@ -92,6 +86,7 @@
             "adserver.startnow.com",
             "adserver1.mokono.com",
             "adserver2.popdata.de",
+            "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
@@ -105,7 +100,13 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
+            "ads.globeandmail.com",
+            "ads.godlikeproductions.com",
+            "ads.groundspeak.com",
+            "ads.hardwaresecrets.com",
             "b.aol.com",
             "b.engadget.com",
             "banner.alphacool.de",
