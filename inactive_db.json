@@ -41,11 +41,7 @@
             "ads.gameforgeads.de",
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
-            "ads.groundspeak.com"
-        ],
-        "to_test": [
-            "ads.hardwaresecrets.com",
-            "ads.linuxjournal.com",
+            "ads.groundspeak.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
@@ -104,7 +100,11 @@
             "aidu-ads.de",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
+            "ads.hardwaresecrets.com",
+            "ads.linuxjournal.com",
             "b.aol.com",
             "b.engadget.com",
             "banner.alphacool.de",
