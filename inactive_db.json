@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1536147931": [
+        "1536493887": [
             "a.collective-media.net",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
@@ -17,14 +17,15 @@
             "ad.top50.to",
             "ad.watch.impress.co.jp",
             "ad2.ip.ro",
+            "adbanner.ro",
             "adi.mainichi.co.jp",
             "adimage.asiaone.com.sg",
             "adimages.omroepzeeland.nl",
             "adlink.de",
             "adman.in.gr",
+            "admedia.ro",
             "admob.comadwhirl.com",
             "ads.adultswim.com",
-            "ads.allvatar.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
             "ads.asia1.com.sg",
@@ -42,6 +43,10 @@
             "ads.globeandmail.com",
             "ads.godlikeproductions.com",
             "ads.groundspeak.com",
+            "ads.hardwaresecrets.com"
+        ],
+        "to_test": [
+            "ads.linuxjournal.com",
             "ads.mdotm.com",
             "ads.moceanads.com",
             "ads.movieflix.com",
@@ -101,6 +106,14 @@
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
+            "b.aol.com",
+            "b.engadget.com",
+            "banner.alphacool.de",
+            "banner.blogranking.net",
+            "banner.featuredusers.com",
+            "banner.jobsahead.com",
+            "banner.joylandcasino.com",
+            "banner.prestigecasino.com",
             "banners.apnuk.com",
             "banners.audioholics.com",
             "banners.ebay.com",
@@ -124,6 +137,7 @@
             "gpr.hu",
             "hit-ranking.de",
             "idot.cz",
+            "iliillliO00OO0.321.cn",
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
@@ -146,6 +160,8 @@
             "ranking-street.de",
             "rythmxchange.com",
             "seeq.com.invalid",
+            "service1.adten.de",
+            "sexaddpro.de",
             "sitebrand.geeks.com",
             "sitemerkezi.net",
             "sma.punto.net",
@@ -168,21 +184,6 @@
             "usmsad.tom.com",
             "wads.webteh.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "ads.hardwaresecrets.com",
-            "ads.linuxjournal.com",
-            "b.aol.com",
-            "b.engadget.com",
-            "banner.alphacool.de",
-            "banner.blogranking.net",
-            "banner.featuredusers.com",
-            "banner.jobsahead.com",
-            "banner.joylandcasino.com",
-            "banner.prestigecasino.com",
-            "iliillliO00OO0.321.cn",
-            "service1.adten.de",
-            "sexaddpro.de"
         ]
     }
 }
