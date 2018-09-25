@@ -1,14 +1,9 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1537703767": [
-            "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "a.collective-media.net",
+        "1537876674": [
             "accounts.pkr.com.invalid",
-            "ad-images.suntimes.com",
-            "ad.980x.com",
+            "a.collective-media.net",
+            "ad2.ip.ro",
             "ad.about.com",
             "ad.aboutit.de",
             "ad.choiceradio.com",
@@ -16,20 +11,19 @@
             "ad.e-kolay.net",
             "ad.eurosport.com",
             "ad.f1cd.ru",
-            "ad.pandora.tv",
-            "ad.playground.ru",
-            "ad.top50.to",
-            "ad.watch.impress.co.jp",
-            "ad2.ip.ro",
-            "adbanner.ro",
-            "adi.mainichi.co.jp",
             "adimage.asiaone.com.sg",
             "adimages.omroepzeeland.nl",
+            "ad-images.suntimes.com",
+            "adi.mainichi.co.jp",
             "adlink.de",
             "adman.in.gr",
             "admedia.ro",
             "admob.comadwhirl.com",
+            "ad.pandora.tv",
+            "ad.playground.ru",
+            "ads1.theglobeandmail.com",
             "ads.adultswim.com",
+            "ads.allvatar.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
             "ads.asia1.com.sg",
@@ -39,6 +33,12 @@
             "ads.cimedia.com",
             "ads.discovery.com",
             "ads.einmedia.com",
+            "adserver1.mokono.com",
+            "adserver2.popdata.de"
+        ],
+        "to_test": [
+            "ad.top50.to",
+            "ad.watch.impress.co.jp",
             "ads.esmas.com",
             "ads.ezboard.com",
             "ads.foxkidseurope.net",
@@ -77,7 +77,6 @@
             "ads.trinitymirror.co.uk",
             "ads.whi.co.nz",
             "ads.wunderground.com",
-            "ads1.theglobeandmail.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.evo-x.de",
@@ -92,8 +91,6 @@
             "adserver.motorpresse.de",
             "adserver.omroepzeeland.nl",
             "adserver.startnow.com",
-            "adserver1.mokono.com",
-            "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
@@ -185,7 +182,9 @@
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
             "tvas-c.pw",
-            "usmsad.tom.com"
+            "usmsad.tom.com",
+            "wads.webteh.com",
+            "zde-affinity.edgecaching.net"
         ]
     }
 }
