@@ -1,14 +1,9 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1539519044": [
-            "usmsad.tom.com",
-            "wads.webteh.com",
-            "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "a.collective-media.net",
+        "1539778658": [
             "accounts.pkr.com.invalid",
-            "ad-images.suntimes.com",
+            "a.collective-media.net",
+            "ad2.ip.ro",
             "ad.about.com",
             "ad.aboutit.de",
             "ad.choiceradio.com",
@@ -16,27 +11,31 @@
             "ad.e-kolay.net",
             "ad.eurosport.com",
             "ad.f1cd.ru",
+            "adimage.asiaone.com.sg",
+            "adimages.omroepzeeland.nl",
+            "ad-images.suntimes.com",
+            "adi.mainichi.co.jp",
+            "adlink.de",
+            "adman.in.gr",
+            "admedia.ro",
+            "admob.comadwhirl.com",
             "ad.onad.eu",
             "ad.pandora.tv",
             "ad.playground.ru",
-            "ad.top50.to",
-            "ad.watch.impress.co.jp",
-            "ad2.ip.ro",
-            "adbanner.ro",
-            "adi.mainichi.co.jp",
-            "adimage.asiaone.com.sg",
-            "adimages.omroepzeeland.nl",
-            "adlink.de",
-            "adman.in.gr",
-            "admob.comadwhirl.com",
+            "ads1.theglobeandmail.com",
             "ads.adultswim.com",
+            "ads.allvatar.com",
             "ads.alwayson-network.com",
             "ads.aol.com",
             "ads.asia1.com.sg",
             "ads.batpmturner.com",
             "ads.beenetworks.net",
             "ads.billiton.de",
-            "ads.cimedia.com",
+            "ads.cimedia.com"
+        ],
+        "to_test": [
+            "ad.top50.to",
+            "ad.watch.impress.co.jp",
             "ads.discovery.com",
             "ads.esmas.com",
             "ads.ezboard.com",
@@ -76,7 +75,6 @@
             "ads.trinitymirror.co.uk",
             "ads.whi.co.nz",
             "ads.wunderground.com",
-            "ads1.theglobeandmail.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adserv.evo-x.de",
@@ -187,7 +185,10 @@
             "traffic.liveuniversenetwork.com",
             "trafficcdn.liveuniversenetwork.com",
             "tsms-ad.tsms.com",
-            "tvas-c.pw"
+            "tvas-c.pw",
+            "usmsad.tom.com",
+            "wads.webteh.com",
+            "zde-affinity.edgecaching.net"
         ]
     }
 }
