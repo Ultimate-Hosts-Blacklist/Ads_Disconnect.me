@@ -2160,6 +2160,11 @@
             "expiration_date": "06-aug-2019",
             "state": "future"
         },
+        "comprabanner.it": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
         "connextra.com": {
             "epoch": "1754956800",
             "expiration_date": "12-aug-2025",
@@ -3530,6 +3535,16 @@
             "expiration_date": "15-sep-2019",
             "state": "future"
         },
+        "ip.ro": {
+            "epoch": "1625529600",
+            "expiration_date": "06-jul-2021",
+            "state": "future"
+        },
+        "ip193.cn": {
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
+            "state": "future"
+        },
         "iperceptions.com": {
             "epoch": "1581811200",
             "expiration_date": "16-feb-2020",
@@ -3606,8 +3621,8 @@
             "state": "future"
         },
         "justrelevant.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "justwebads.com": {
@@ -3678,7 +3693,7 @@
         "leadboltads.net": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "leadclick.com": {
             "epoch": "1564012800",
@@ -3940,6 +3955,101 @@
             "expiration_date": "13-sep-2020",
             "state": "future"
         },
+        "measuremap.com": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "media-servers.net": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "media.net": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "media6degrees.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "mediaarmor.com": {
+            "epoch": "1552867200",
+            "expiration_date": "18-mar-2019",
+            "state": "future"
+        },
+        "mediabrix.com": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "mediacharger.com": {
+            "epoch": "1553817600",
+            "expiration_date": "29-mar-2019",
+            "state": "future"
+        },
+        "mediadvertising.ro": {
+            "epoch": "1565568000",
+            "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "mediageneral.com": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "medialets.com": {
+            "epoch": "1602720000",
+            "expiration_date": "15-oct-2020",
+            "state": "future"
+        },
+        "medialytics.com": {
+            "epoch": "1561420800",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "mediamath.com": {
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
+            "state": "future"
+        },
+        "mediamind.com": {
+            "epoch": "1567123200",
+            "expiration_date": "30-aug-2019",
+            "state": "future"
+        },
+        "mediaplazza.com": {
+            "epoch": "1587859200",
+            "expiration_date": "26-apr-2020",
+            "state": "future"
+        },
+        "mediaplex.com": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
+            "state": "future"
+        },
+        "mediashakers.com": {
+            "epoch": "1699315200",
+            "expiration_date": "07-nov-2023",
+            "state": "future"
+        },
+        "mediatext.com": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "medio.com": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "medleyads.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
         "medyanetads.com": {
             "epoch": "1595635200",
             "expiration_date": "25-jul-2020",
@@ -3998,6 +4108,11 @@
         "miarroba.com": {
             "epoch": "1553299200",
             "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "microstatic.pl": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
             "state": "future"
         },
         "microticker.com": {
@@ -4104,6 +4219,11 @@
             "epoch": "1579910400",
             "expiration_date": "25-jan-2020",
             "state": "future"
+        },
+        "mobile-ent.biz": {
+            "epoch": "1538870400",
+            "expiration_date": "07-oct-2018",
+            "state": "past"
         },
         "mobileactive.com": {
             "epoch": "1557446400",
@@ -4225,6 +4345,11 @@
             "expiration_date": "04-apr-2022",
             "state": "future"
         },
+        "mpstat.us": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
         "mrskincash.com": {
             "epoch": "1570147200",
             "expiration_date": "04-oct-2019",
@@ -4288,6 +4413,11 @@
         "mystat-in.net": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
+            "state": "future"
+        },
+        "mystat.pl": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
             "state": "future"
         },
         "mythings.com": {
@@ -4368,6 +4498,11 @@
         "netaffiliation.com": {
             "epoch": "1622246400",
             "expiration_date": "29-may-2021",
+            "state": "future"
+        },
+        "netagent.cz": {
+            "epoch": "1548374400",
+            "expiration_date": "25-jan-2019",
             "state": "future"
         },
         "netclickstats.com": {
