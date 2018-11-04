@@ -1705,6 +1705,11 @@
             "expiration_date": "22-feb-2020",
             "state": "future"
         },
+        "billboard.cz": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
         "bimlocal.com": {
             "epoch": "1536537600",
             "expiration_date": "10-sep-2018",
@@ -1789,6 +1794,11 @@
             "epoch": "1549497600",
             "expiration_date": "07-feb-2019",
             "state": "future"
+        },
+        "boom.ro": {
+            "epoch": "1533686400",
+            "expiration_date": "08-aug-2018",
+            "state": "past"
         },
         "boomads.com": {
             "epoch": "1594512000",
@@ -1928,6 +1938,116 @@
         "cashlayer.com": {
             "epoch": "1566777600",
             "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
+        "cashpartner.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "casinogames.com": {
+            "epoch": "1559433600",
+            "expiration_date": "02-jun-2019",
+            "state": "future"
+        },
+        "casinopays.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "casinorewards.com": {
+            "epoch": "1615852800",
+            "expiration_date": "16-mar-2021",
+            "state": "future"
+        },
+        "casinotraffic.com": {
+            "epoch": "1544400000",
+            "expiration_date": "10-dec-2018",
+            "state": "future"
+        },
+        "casinotreasure.com": {
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "cben1.net": {
+            "epoch": "1554854400",
+            "expiration_date": "10-apr-2019",
+            "state": "future"
+        },
+        "cbmall.com": {
+            "epoch": "1569542400",
+            "expiration_date": "27-sep-2019",
+            "state": "future"
+        },
+        "cbx.net": {
+            "epoch": "1551830400",
+            "expiration_date": "06-mar-2019",
+            "state": "future"
+        },
+        "cecash.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "celltick.com": {
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
+        },
+        "celtra.com": {
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "cetrk.com": {
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "chango.com": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "channelintelligence.com": {
+            "epoch": "1554422400",
+            "expiration_date": "05-apr-2019",
+            "state": "future"
+        },
+        "chart.dk": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "chartbeat.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "chartbeat.net": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "checkm8.com": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "chestionar.ro": {
+            "epoch": "1538611200",
+            "expiration_date": "04-oct-2018",
+            "state": "past"
+        },
+        "chitika.com": {
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
+        "chitika.net": {
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "cibleclick.com": {
