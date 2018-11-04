@@ -6250,6 +6250,11 @@
             "expiration_date": "18-jun-2019",
             "state": "future"
         },
+        "top66.ro": {
+            "epoch": "1538352000",
+            "expiration_date": "01-oct-2018",
+            "state": "past"
+        },
         "top90.ro": {
             "epoch": "1571011200",
             "expiration_date": "14-oct-2019",
@@ -6538,7 +6543,7 @@
         "ukbanners.com": {
             "epoch": "1541289600",
             "expiration_date": "04-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ultramercial.com": {
             "epoch": "1562544000",
