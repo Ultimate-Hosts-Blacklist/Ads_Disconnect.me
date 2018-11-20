@@ -2170,6 +2170,11 @@
             "expiration_date": "01-feb-2019",
             "state": "future"
         },
+        "clickmedia.ro": {
+            "epoch": "1539820800",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
+        },
         "clicksor.com": {
             "epoch": "1580083200",
             "expiration_date": "27-jan-2020",
@@ -2263,7 +2268,7 @@
         "comboapp.com": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "comclick.com": {
             "epoch": "1549929600",
