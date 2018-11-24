@@ -3230,6 +3230,11 @@
             "expiration_date": "01-dec-2020",
             "state": "future"
         },
+        "grafstat.ro": {
+            "epoch": "1538092800",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
+        },
         "greystripe.com": {
             "epoch": "1572566400",
             "expiration_date": "01-nov-2019",
@@ -4058,7 +4063,7 @@
         "maroonspider.com": {
             "epoch": "1543017600",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "mastermind.com": {
             "epoch": "1569456000",
@@ -4356,9 +4361,9 @@
             "state": "future"
         },
         "mobile-ent.biz": {
-            "epoch": "1538870400",
-            "expiration_date": "07-oct-2018",
-            "state": "past"
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
         },
         "mobileactive.com": {
             "epoch": "1557446400",
@@ -5096,9 +5101,9 @@
             "state": "future"
         },
         "politads.com": {
-            "epoch": "1535932800",
-            "expiration_date": "03-sep-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "pontiflex.com": {
             "epoch": "1546732800",
