@@ -178,7 +178,7 @@
         "abc-ads.com": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "absoluteclickscom.com": {
             "epoch": "1548028800",
@@ -671,8 +671,8 @@
             "state": "future"
         },
         "adnection.com": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
             "state": "future"
         },
         "adnet-media.net": {
