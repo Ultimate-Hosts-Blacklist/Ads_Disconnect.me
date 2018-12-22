@@ -3423,7 +3423,7 @@
         "humandemand.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hurricanedigitalmedia.com": {
             "epoch": "1563753600",
@@ -3946,8 +3946,8 @@
             "state": "future"
         },
         "linkshighway.net": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "linkstorms.com": {
