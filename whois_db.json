@@ -2438,7 +2438,7 @@
         "crawlability.com": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "crazypopups.com": {
             "epoch": "1579132800",
@@ -3336,9 +3336,9 @@
             "state": "future"
         },
         "herbalaffiliateprogram.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "here.com": {
             "epoch": "1560124800",
@@ -4171,8 +4171,8 @@
             "state": "future"
         },
         "media6degrees.com": {
-            "epoch": "1551312000",
-            "expiration_date": "28-feb-2019",
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "mediaarmor.com": {
