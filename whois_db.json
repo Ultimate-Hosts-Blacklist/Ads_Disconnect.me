@@ -2441,9 +2441,9 @@
             "state": "future"
         },
         "crawlability.com": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
-            "state": "past"
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
         },
         "crazypopups.com": {
             "epoch": "1579132800",
@@ -2633,6 +2633,11 @@
         "dmtracker.com": {
             "epoch": "1580256000",
             "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
+        "dnps.com": {
+            "epoch": "1597104000",
+            "expiration_date": "11-aug-2020",
             "state": "future"
         },
         "domaining.in": {
