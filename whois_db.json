@@ -1523,7 +1523,7 @@
         "audience2media.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "autohits.dk": {
             "epoch": "1580428800",
@@ -2031,8 +2031,8 @@
             "state": "future"
         },
         "cbx.net": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "cecash.com": {
@@ -2343,7 +2343,7 @@
         "comprabanner.it": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "connextra.com": {
             "epoch": "1754956800",
@@ -3196,8 +3196,8 @@
             "state": "future"
         },
         "gamesitestop100.com": {
-            "epoch": "1551744000",
-            "expiration_date": "05-mar-2019",
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "gator.com": {
