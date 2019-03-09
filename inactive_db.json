@@ -114,9 +114,7 @@
             "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com"
-        ],
-        "to_test": [
+            "adsrv.eacdn.com",
             "adtrading.de",
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
@@ -150,6 +148,7 @@
             "bravenet.com.invalid",
             "c.compete.com",
             "ch.questionmarket.com",
+            "click.absoluteagency.com",
             "clickthrucash.com",
             "count6.rbc.ru",
             "counter.avtoindex.com",
@@ -173,7 +172,9 @@
             "m.webtrends.com",
             "m1.webstats4u.com",
             "mads.aol.com",
-            "media.ftv-publicite.fr",
+            "media.ftv-publicite.fr"
+        ],
+        "to_test": [
             "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
