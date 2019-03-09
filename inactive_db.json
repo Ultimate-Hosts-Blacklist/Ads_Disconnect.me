@@ -172,9 +172,7 @@
             "m.webtrends.com",
             "m1.webstats4u.com",
             "mads.aol.com",
-            "media.ftv-publicite.fr"
-        ],
-        "to_test": [
+            "media.ftv-publicite.fr",
             "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
@@ -260,7 +258,9 @@
             "www.appsdt.com",
             "www.appsfire.net",
             "www.arcadebanners.com",
-            "www.are-ter.com",
+            "www.are-ter.com"
+        ],
+        "to_test": [
             "www.atwola.com",
             "www.aylarl.com",
             "www.azfront.com",
