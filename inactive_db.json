@@ -261,10 +261,7 @@
             "www.aylarl.com",
             "www.azfront.com",
             "www.banner-link.com.br",
-            "www.baypops.com"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "www.baypops.com",
             "www.blogrush.com",
             "www.btrll.com",
             "www.burstmedia.com",
@@ -371,7 +368,6 @@
             "www.realtracker.com",
             "www.reklamer.com.ua",
             "www.rotabanner.com",
-            "www.rtbidder.net",
             "www.rtbpop.com",
             "www.ru4.com",
             "www.rythmxchange.com",
@@ -404,7 +400,10 @@
             "www.topblogarea.se",
             "www.toplistcity.com",
             "www.topmmorpgsites.com",
-            "www.trafficadept.com",
+            "www.trafficadept.com"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net",
             "www.trafficspaces.net",
             "www.trhunt.com",
             "www.tvas-c.pw",
