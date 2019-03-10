@@ -171,10 +171,7 @@
             "m1.webstats4u.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
@@ -261,11 +258,13 @@
             "www.arcadebanners.com",
             "www.are-ter.com",
             "www.atwola.com",
-            "www.avres.net",
             "www.aylarl.com",
             "www.azfront.com",
             "www.banner-link.com.br",
-            "www.baypops.com",
+            "www.baypops.com"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net",
             "www.blogrush.com",
             "www.btrll.com",
             "www.burstmedia.com",
