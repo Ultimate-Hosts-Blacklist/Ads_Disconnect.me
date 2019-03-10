@@ -400,10 +400,7 @@
             "www.topblogarea.se",
             "www.toplistcity.com",
             "www.topmmorpgsites.com",
-            "www.trafficadept.com"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "www.trafficadept.com",
             "www.trafficspaces.net",
             "www.trhunt.com",
             "www.tvas-c.pw",
@@ -427,6 +424,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net"
         ]
     }
 }
