@@ -396,11 +396,7 @@
             "www.tacoda.net",
             "www.tailsweep.co.uk",
             "www.tapjoyads.com",
-            "www.tapsense.com"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
-            "adverts.carltononline.com",
+            "www.tapsense.com",
             "www.textads.biz",
             "www.thrnt.com",
             "www.tizers.net",
@@ -431,6 +427,10 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net",
+            "adverts.carltononline.com"
         ]
     }
 }
