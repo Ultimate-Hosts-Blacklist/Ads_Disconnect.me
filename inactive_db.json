@@ -115,11 +115,7 @@
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
-            "adtrading.de"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
-            "adverts.carltononline.com",
+            "adtrading.de",
             "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
@@ -150,7 +146,6 @@
             "bravenet.com.invalid",
             "c.compete.com",
             "ch.questionmarket.com",
-            "click.absoluteagency.com",
             "clickthrucash.com",
             "count6.rbc.ru",
             "counter.avtoindex.com",
@@ -175,7 +170,11 @@
             "m1.webstats4u.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr",
+            "memorix.sdv.fr"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net",
+            "adverts.carltononline.com",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
