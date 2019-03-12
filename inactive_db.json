@@ -170,11 +170,7 @@
             "m1.webstats4u.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
-            "adverts.carltononline.com",
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
@@ -237,7 +233,6 @@
             "www.ads.cc",
             "www.adscpm.com",
             "www.adsdk.com",
-            "www.adserver.pl",
             "www.adsfac.net",
             "www.adsfac.us",
             "www.adsmogo.com",
@@ -260,7 +255,11 @@
             "www.appsfire.net",
             "www.arcadebanners.com",
             "www.are-ter.com",
-            "www.atwola.com",
+            "www.atwola.com"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net",
+            "adverts.carltononline.com",
             "www.aylarl.com",
             "www.azfront.com",
             "www.banner-link.com.br",
