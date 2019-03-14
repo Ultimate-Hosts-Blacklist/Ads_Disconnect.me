@@ -116,9 +116,7 @@
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
-            "adtrading.de"
-        ],
-        "to_test": [
+            "adtrading.de",
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
             "adworx.at",
@@ -175,7 +173,9 @@
             "m1.webstats4u.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr",
+            "memorix.sdv.fr"
+        ],
+        "to_test": [
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
