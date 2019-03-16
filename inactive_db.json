@@ -398,10 +398,7 @@
             "www.textads.biz",
             "www.thrnt.com",
             "www.tizers.net",
-            "www.topblogarea.se"
-        ],
-        "to_test": [
-            "adx.gainesvillesun.com",
+            "www.topblogarea.se",
             "www.toplistcity.com",
             "www.topmmorpgsites.com",
             "www.trafficadept.com",
@@ -414,7 +411,6 @@
             "www.updated.com",
             "www.videoegg.com",
             "www.w3i.com",
-            "www.webstats4u.com",
             "www.webtraffic.se",
             "www.wegcash.com",
             "www.whereapps.com",
@@ -428,6 +424,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "adx.gainesvillesun.com"
         ]
     }
 }
