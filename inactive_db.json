@@ -172,10 +172,7 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "adx.gainesvillesun.com",
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
@@ -239,7 +236,6 @@
             "www.adsdk.com",
             "www.adsfac.net",
             "www.adsfac.us",
-            "www.adsmarket.com",
             "www.adsmogo.com",
             "www.adsonar.com",
             "www.adspace.ro",
@@ -265,7 +261,10 @@
             "www.azfront.com",
             "www.banner-link.com.br",
             "www.baypops.com",
-            "www.best-pr.info",
+            "www.best-pr.info"
+        ],
+        "to_test": [
+            "adx.gainesvillesun.com",
             "www.blogrush.com",
             "www.btrll.com",
             "www.burstmedia.com",
