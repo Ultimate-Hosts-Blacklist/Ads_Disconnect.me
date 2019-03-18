@@ -390,15 +390,13 @@
             "www.suptullog.com",
             "www.swissadsolutions.com",
             "www.switchadhub.com",
-            "www.switchads.com"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "www.switchads.com",
             "www.tacoda.net",
             "www.tailsweep.co.uk",
             "www.tapjoyads.com",
             "www.tapsense.com",
             "www.textads.biz",
+            "www.therichkids.com",
             "www.thrnt.com",
             "www.tizers.net",
             "www.topblogarea.se",
@@ -414,6 +412,7 @@
             "www.updated.com",
             "www.videoegg.com",
             "www.w3i.com",
+            "www.webpower.com",
             "www.webtraffic.se",
             "www.wegcash.com",
             "www.whereapps.com",
@@ -426,7 +425,11 @@
             "www.yoc.mobi",
             "www.zeepmedia.com",
             "www.zenkreka.com",
+            "www.zintext.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net"
         ]
     }
 }
