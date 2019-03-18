@@ -172,10 +172,7 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
@@ -258,7 +255,10 @@
             "www.appsdt.com",
             "www.appsfire.net",
             "www.arcadebanners.com",
-            "www.are-ter.com",
+            "www.are-ter.com"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net",
             "www.atwola.com",
             "www.aylarl.com",
             "www.azfront.com",
