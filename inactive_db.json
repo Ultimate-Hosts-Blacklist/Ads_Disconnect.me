@@ -399,10 +399,7 @@
             "www.tailsweep.co.uk",
             "www.tapjoyads.com",
             "www.tapsense.com",
-            "www.textads.biz"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "www.textads.biz",
             "www.thrnt.com",
             "www.tizers.net",
             "www.topblogarea.se",
@@ -418,13 +415,11 @@
             "www.updated.com",
             "www.videoegg.com",
             "www.w3i.com",
-            "www.webcash.nl",
             "www.webreseau.com",
             "www.webtraffic.se",
             "www.wegcash.com",
             "www.whereapps.com",
             "www.wonderlandads.com",
-            "www.x-traceur.com",
             "www.xtendmedia.com",
             "www.xxxmyself.com",
             "www.yabuka.com",
@@ -434,6 +429,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net"
         ]
     }
 }
