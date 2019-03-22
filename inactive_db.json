@@ -1,12 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1553088265": [
+        "1553261018": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
             "accounts.pkr.com.invalid",
             "ad-images.suntimes.com",
-            "ad.about.com",
             "ad.aboutit.de",
             "ad.afy11.net",
             "ad.choiceradio.com",
@@ -15,6 +14,7 @@
             "ad.eurosport.com",
             "ad.f1cd.ru",
             "ad.globe7.com",
+            "ad.nozonedata.com",
             "ad.onad.eu",
             "ad.pandora.tv",
             "ad.playground.ru",
@@ -91,6 +91,7 @@
             "ads.trinitymirror.co.uk",
             "ads.tripod.spray.se",
             "ads.virtualcountries.com",
+            "ads.vnumedia.com",
             "ads.web.aol.com",
             "ads.web.cs.com",
             "ads.whi.co.nz",
@@ -116,7 +117,9 @@
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
-            "adtrading.de",
+            "adtrading.de"
+        ],
+        "to_test": [
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
             "adworx.at",
@@ -428,7 +431,6 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": []
+        ]
     }
 }
