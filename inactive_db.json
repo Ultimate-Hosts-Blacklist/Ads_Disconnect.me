@@ -175,17 +175,13 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
             "oewabox.at",
             "openad.tf1.fr",
             "pagerank-submitter.com",
-            "pagerank-united.de",
             "pagerank4u.eu",
             "partner.topcities.com",
             "perf.weborama.fr",
@@ -242,6 +238,7 @@
             "www.adsdk.com",
             "www.adsfac.net",
             "www.adsfac.us",
+            "www.adsmart.co.uk",
             "www.adsmogo.com",
             "www.adsonar.com",
             "www.adspace.ro",
@@ -265,7 +262,10 @@
             "www.atwola.com",
             "www.aylarl.com",
             "www.azfront.com",
-            "www.banner-link.com.br",
+            "www.banner-link.com.br"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net",
             "www.baypops.com",
             "www.best-pr.info",
             "www.blogrush.com",
