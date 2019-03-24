@@ -409,10 +409,7 @@
             "www.trhunt.com",
             "www.tvas-c.pw",
             "www.ultramercial.com",
-            "www.ultsearch.com"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "www.ultsearch.com",
             "www.unanimis.co.uk",
             "www.updated.com",
             "www.videoegg.com",
@@ -431,6 +428,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net"
         ]
     }
 }
