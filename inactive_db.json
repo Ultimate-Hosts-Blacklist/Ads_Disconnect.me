@@ -173,9 +173,7 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
@@ -270,7 +268,9 @@
             "www.bvalphaserver.com",
             "www.casinotreasure.com",
             "www.cbmall.com",
-            "www.cbx.net",
+            "www.cbx.net"
+        ],
+        "to_test": [
             "www.cjbmanagement.com",
             "www.clickhype.com",
             "www.clickthrucash.com",
