@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1553559478": [
+        "1553695322": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -102,8 +102,10 @@
             "adserv.qconline.com",
             "adserv.quality-channel.de",
             "adserver-live.yoc.mobi",
+            "adserver.43plc.com",
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
+            "adserver.digitoday.com",
             "adserver.dotcommedia.de",
             "adserver.finditquick.com",
             "adserver.freenet.de",
@@ -114,7 +116,9 @@
             "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com",
+            "adsrv.eacdn.com"
+        ],
+        "to_test": [
             "adtrading.de",
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
@@ -423,7 +427,6 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": []
+        ]
     }
 }
