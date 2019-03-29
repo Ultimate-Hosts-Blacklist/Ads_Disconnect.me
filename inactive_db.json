@@ -402,10 +402,7 @@
             "www.toplistcity.com",
             "www.topmmorpgsites.com",
             "www.trafficadept.com",
-            "www.trafficspaces.net"
-        ],
-        "to_test": [
-            "advertising.guildlaunch.net",
+            "www.trafficspaces.net",
             "www.trhunt.com",
             "www.tvas-c.pw",
             "www.ultramercial.com",
@@ -428,6 +425,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "advertising.guildlaunch.net"
         ]
     }
 }
