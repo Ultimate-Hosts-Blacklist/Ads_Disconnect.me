@@ -1346,9 +1346,9 @@
             "state": "future"
         },
         "allstarmediagroup.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
-            "state": "past"
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
         },
         "amazingcounters.com": {
             "epoch": "1557792000",
@@ -1936,8 +1936,8 @@
             "state": "future"
         },
         "callloop.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "caniamedia.com": {
@@ -2396,8 +2396,8 @@
             "state": "future"
         },
         "cpays.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1617235200",
+            "expiration_date": "01-apr-2021",
             "state": "future"
         },
         "cpmaffiliation.com": {
@@ -3465,6 +3465,11 @@
             "expiration_date": "21-oct-2019",
             "state": "future"
         },
+        "htmlhubing.xyz": {
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
+        },
         "httpool.com": {
             "epoch": "1711670400",
             "expiration_date": "29-mar-2024",
@@ -3626,8 +3631,8 @@
             "state": "future"
         },
         "imrworldwide.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "inboxdollars.com": {
@@ -3778,7 +3783,7 @@
         "its-that-easy.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "itsptp.com": {
             "epoch": "1574726400",
