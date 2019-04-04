@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1554212891": [
+        "1554385132": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -36,6 +36,7 @@
             "ads.asia1.com.sg",
             "ads.beenetworks.net",
             "ads.billiton.de",
+            "ads.canalblog.com",
             "ads.cgnetworks.com",
             "ads.cimedia.com",
             "ads.datinggold.com",
@@ -106,7 +107,6 @@
             "adserver.beggarspromo.com",
             "adserver.clashmusic.com",
             "adserver.dotcommedia.de",
-            "adserver.finditquick.com",
             "adserver.freenet.de",
             "adserver.motorpresse.de",
             "adserver.omroepzeeland.nl",
@@ -119,7 +119,10 @@
             "adtrading.de",
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
-            "adworx.at",
+            "adworx.at"
+        ],
+        "to_test": [
+            "adx.gainesvillesun.com",
             "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
@@ -423,9 +426,6 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "adx.gainesvillesun.com"
         ]
     }
 }
