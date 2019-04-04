@@ -402,10 +402,7 @@
             "www.trafficadept.com",
             "www.trafficspaces.net",
             "www.trhunt.com",
-            "www.tvas-c.pw"
-        ],
-        "to_test": [
-            "adx.gainesvillesun.com",
+            "www.tvas-c.pw",
             "www.ultramercial.com",
             "www.ultsearch.com",
             "www.unanimis.co.uk",
@@ -413,7 +410,6 @@
             "www.veruta.com",
             "www.videoegg.com",
             "www.w3i.com",
-            "www.webreseau.com",
             "www.webtraffic.se",
             "www.wegcash.com",
             "www.whereapps.com",
@@ -427,6 +423,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "adx.gainesvillesun.com"
         ]
     }
 }
