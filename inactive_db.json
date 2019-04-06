@@ -177,9 +177,7 @@
             "media.ftv-publicite.fr",
             "memorix.sdv.fr",
             "network.business.com",
-            "ngs.impress.co.jp"
-        ],
-        "to_test": [
+            "ngs.impress.co.jp",
             "oas.salon.com",
             "oewabox.at",
             "openad.tf1.fr",
@@ -222,6 +220,7 @@
             "www.2mdn.net",
             "www.518ad.com",
             "www.5thfinger.com",
+            "www.600z.com",
             "www.absoluteclickscom.com",
             "www.ad-balancer.net",
             "www.ad-serverparc.nl",
@@ -276,7 +275,9 @@
             "www.cjbmanagement.com",
             "www.clickhype.com",
             "www.clickthrucash.com",
-            "www.clickzxc.com",
+            "www.clickzxc.com"
+        ],
+        "to_test": [
             "www.cmpstar.com",
             "www.commindo-media-ressourcen.de",
             "www.company-target.com",
