@@ -120,9 +120,7 @@
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
             "adworx.at",
-            "adx.gainesvillesun.com"
-        ],
-        "to_test": [
+            "adx.gainesvillesun.com",
             "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
@@ -151,7 +149,6 @@
             "bravenet.com.invalid",
             "c.compete.com",
             "ch.questionmarket.com",
-            "click.absoluteagency.com",
             "clickthrucash.com",
             "clients.tbo.com",
             "count6.rbc.ru",
@@ -172,6 +169,7 @@
             "hit-ranking.de",
             "iliillliO00OO0.321.cn",
             "interstat.hu",
+            "kt-g.de",
             "lct.salesforce.com",
             "leanoisgo.com",
             "m.webtrends.com",
@@ -179,7 +177,9 @@
             "media.ftv-publicite.fr",
             "memorix.sdv.fr",
             "network.business.com",
-            "ngs.impress.co.jp",
+            "ngs.impress.co.jp"
+        ],
+        "to_test": [
             "oas.salon.com",
             "oewabox.at",
             "openad.tf1.fr",
