@@ -403,10 +403,7 @@
             "www.toplistcity.com",
             "www.topmmorpgsites.com",
             "www.trafficspaces.net",
-            "www.trhunt.com"
-        ],
-        "to_test": [
-            "adverts.carltononline.com",
+            "www.trhunt.com",
             "www.tvas-c.pw",
             "www.ultramercial.com",
             "www.ultsearch.com",
@@ -428,6 +425,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "adverts.carltononline.com"
         ]
     }
 }
