@@ -410,10 +410,7 @@
             "www.ultramercial.com",
             "www.ultsearch.com",
             "www.unanimis.co.uk",
-            "www.updated.com"
-        ],
-        "to_test": [
-            "adx.gainesvillesun.com",
+            "www.updated.com",
             "www.veruta.com",
             "www.videoegg.com",
             "www.w3i.com",
@@ -430,6 +427,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "adx.gainesvillesun.com"
         ]
     }
 }
