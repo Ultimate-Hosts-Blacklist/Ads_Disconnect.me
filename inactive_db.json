@@ -280,10 +280,7 @@
             "www.company-target.com",
             "www.cpmaffiliation.com",
             "www.creafi.com",
-            "www.cybermonitor.com"
-        ],
-        "to_test": [
-            "affiliates.devilfishpartners.com",
+            "www.cybermonitor.com",
             "www.dapper.net",
             "www.de17a.com",
             "www.dedicatedmedia.com",
@@ -375,7 +372,6 @@
             "www.reefaquarium.biz",
             "www.reklamer.com.ua",
             "www.rotabanner.com",
-            "www.rtbidder.net",
             "www.rtbpop.com",
             "www.ru4.com",
             "www.rythmxchange.com",
@@ -426,7 +422,10 @@
             "www.yabuka.com",
             "www.yieldads.com",
             "www.yieldmanager.com",
-            "www.yoc.mobi",
+            "www.yoc.mobi"
+        ],
+        "to_test": [
+            "affiliates.devilfishpartners.com",
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
