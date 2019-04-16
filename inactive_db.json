@@ -176,10 +176,7 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "adverts.carltononline.com",
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
@@ -228,6 +225,7 @@
             "www.ad-balancer.net",
             "www.ad-serverparc.nl",
             "www.adboost.net",
+            "www.adcept.net",
             "www.addealing.com",
             "www.addesktop.com",
             "www.adjuggler.com",
@@ -255,7 +253,6 @@
             "www.aidu-ads.de",
             "www.aistat.net",
             "www.alclick.com",
-            "www.alladvantage.com",
             "www.amazon-adsystem.com",
             "www.appads.com",
             "www.appsdt.com",
@@ -263,10 +260,14 @@
             "www.arcadebanners.com",
             "www.are-ter.com",
             "www.atwola.com",
+            "www.avres.net",
             "www.aylarl.com",
             "www.azfront.com",
             "www.banner-link.com.br",
-            "www.baypops.com",
+            "www.baypops.com"
+        ],
+        "to_test": [
+            "adverts.carltononline.com",
             "www.best-pr.info",
             "www.blogrush.com",
             "www.btrll.com",
