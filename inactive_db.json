@@ -117,10 +117,7 @@
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "advertising.guildlaunch.net"
-        ],
-        "to_test": [
-            "adverts.carltononline.com",
+            "advertising.guildlaunch.net",
             "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
@@ -179,7 +176,10 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr",
+            "memorix.sdv.fr"
+        ],
+        "to_test": [
+            "adverts.carltononline.com",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
