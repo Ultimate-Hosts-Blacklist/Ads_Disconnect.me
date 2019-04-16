@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1555249437": [
+        "1555422745": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -117,11 +117,14 @@
             "adsremote.scrippsnetworks.com",
             "adsrv.eacdn.com",
             "adtrading.de",
-            "advertising.guildlaunch.net",
+            "advertising.guildlaunch.net"
+        ],
+        "to_test": [
             "adverts.carltononline.com",
             "adworx.at",
             "adx.gainesvillesun.com",
             "affiliate.7host.com",
+            "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
             "aidu-ads.de",
@@ -426,9 +429,6 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "affiliates.devilfishpartners.com"
         ]
     }
 }
