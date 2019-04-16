@@ -403,10 +403,7 @@
             "www.textads.biz",
             "www.thrnt.com",
             "www.tizers.net",
-            "www.topblogarea.se"
-        ],
-        "to_test": [
-            "adverts.carltononline.com",
+            "www.topblogarea.se",
             "www.toplistcity.com",
             "www.topmmorpgsites.com",
             "www.trafficspaces.net",
@@ -423,6 +420,7 @@
             "www.wegcash.com",
             "www.whereapps.com",
             "www.wonderlandads.com",
+            "www.xq1.net",
             "www.xtendmedia.com",
             "www.xxxmyself.com",
             "www.yabuka.com",
@@ -432,6 +430,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "adverts.carltononline.com"
         ]
     }
 }
