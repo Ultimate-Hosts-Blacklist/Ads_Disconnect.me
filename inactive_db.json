@@ -407,10 +407,7 @@
             "www.ultramercial.com",
             "www.ultsearch.com",
             "www.unanimis.co.uk",
-            "www.updated.com"
-        ],
-        "to_test": [
-            "affiliates.devilfishpartners.com",
+            "www.updated.com",
             "www.veruta.com",
             "www.videoegg.com",
             "www.w3i.com",
@@ -418,7 +415,6 @@
             "www.wegcash.com",
             "www.whereapps.com",
             "www.wonderlandads.com",
-            "www.xq1.net",
             "www.xtendmedia.com",
             "www.xxxmyself.com",
             "www.yabuka.com",
@@ -428,6 +424,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "affiliates.devilfishpartners.com"
         ]
     }
 }
