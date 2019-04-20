@@ -119,11 +119,7 @@
             "adsrv.eacdn.com",
             "adtrading.de",
             "advertising.guildlaunch.net",
-            "adverts.carltononline.com"
-        ],
-        "to_test": [
-            "adworx.at",
-            "adx.gainesvillesun.com",
+            "adverts.carltononline.com",
             "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
@@ -153,6 +149,7 @@
             "bravenet.com.invalid",
             "c.compete.com",
             "ch.questionmarket.com",
+            "click.absoluteagency.com",
             "clickthrucash.com",
             "clients.tbo.com",
             "count6.rbc.ru",
@@ -180,7 +177,11 @@
             "mads.aol.com",
             "media.ftv-publicite.fr",
             "memorix.sdv.fr",
-            "network.business.com",
+            "network.business.com"
+        ],
+        "to_test": [
+            "adworx.at",
+            "adx.gainesvillesun.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
             "oewabox.at",
