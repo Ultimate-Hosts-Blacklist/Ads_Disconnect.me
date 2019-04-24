@@ -1423,7 +1423,7 @@
         "appolicious.com": {
             "epoch": "1556064000",
             "expiration_date": "24-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "apprebates.com": {
             "epoch": "1559952000",
@@ -2721,8 +2721,8 @@
             "state": "future"
         },
         "ebayadvertising.com": {
-            "epoch": "1555977600",
-            "expiration_date": "23-apr-2019",
+            "epoch": "1587600000",
+            "expiration_date": "23-apr-2020",
             "state": "future"
         },
         "ebocornac.com": {
