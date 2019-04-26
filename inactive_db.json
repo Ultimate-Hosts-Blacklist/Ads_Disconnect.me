@@ -413,10 +413,7 @@
             "www.ultsearch.com",
             "www.unanimis.co.uk",
             "www.updated.com",
-            "www.veruta.com"
-        ],
-        "to_test": [
-            "affiliates.devilfishpartners.com",
+            "www.veruta.com",
             "www.videoegg.com",
             "www.w3i.com",
             "www.webtraffic.se",
@@ -432,6 +429,9 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
+        ],
+        "to_test": [
+            "affiliates.devilfishpartners.com"
         ]
     }
 }
