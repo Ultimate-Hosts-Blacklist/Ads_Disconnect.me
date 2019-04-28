@@ -122,9 +122,7 @@
             "adverts.carltononline.com",
             "adworx.at",
             "adx.gainesvillesun.com",
-            "affiliate.7host.com"
-        ],
-        "to_test": [
+            "affiliate.7host.com",
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
@@ -153,6 +151,7 @@
             "bravenet.com.invalid",
             "c.compete.com",
             "ch.questionmarket.com",
+            "clicktag.de",
             "clickthrucash.com",
             "clients.tbo.com",
             "count.rbc.ru",
@@ -183,7 +182,9 @@
             "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
-            "oas.salon.com",
+            "oas.salon.com"
+        ],
+        "to_test": [
             "oewabox.at",
             "openad.tf1.fr",
             "pagerank-submitter.com",
