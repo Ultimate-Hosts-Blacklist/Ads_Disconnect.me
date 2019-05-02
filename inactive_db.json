@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1556632695": [
+        "1556804795": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -38,7 +38,6 @@
             "ads.asia1.com.sg",
             "ads.beenetworks.net",
             "ads.billiton.de",
-            "ads.canalblog.com",
             "ads.cgnetworks.com",
             "ads.cimedia.com",
             "ads.datinggold.com",
@@ -117,7 +116,10 @@
             "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com",
+            "adsrv.eacdn.com"
+        ],
+        "to_test": [
+            "adtrading.de",
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
             "adworx.at",
@@ -402,6 +404,7 @@
             "www.tizers.net",
             "www.topblogarea.se",
             "www.toplistcity.com",
+            "www.topmmorpgsites.com",
             "www.touchclarity.com",
             "www.trafficspaces.net",
             "www.trhunt.com",
@@ -427,10 +430,6 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": [
-            "adtrading.de",
-            "www.topmmorpgsites.com"
         ]
     }
 }
