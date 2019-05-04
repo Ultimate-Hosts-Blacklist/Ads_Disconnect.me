@@ -179,10 +179,7 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "adtrading.de",
+            "memorix.sdv.fr",
             "netpool.netbookia.net",
             "network.business.com",
             "ngs.impress.co.jp",
@@ -270,7 +267,10 @@
             "www.azfront.com",
             "www.banner-link.com.br",
             "www.baypops.com",
-            "www.blogrush.com",
+            "www.blogrush.com"
+        ],
+        "to_test": [
+            "adtrading.de",
             "www.btrll.com",
             "www.burstmedia.com",
             "www.buyhitscheap.com",
