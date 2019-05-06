@@ -397,9 +397,7 @@
             "www.tacoda.net",
             "www.tailsweep.co.uk",
             "www.tapjoyads.com",
-            "www.tapsense.com"
-        ],
-        "to_test": [
+            "www.tapsense.com",
             "www.textads.biz",
             "www.thrnt.com",
             "www.tizers.net",
@@ -415,11 +413,13 @@
             "www.updated.com",
             "www.veruta.com",
             "www.videoegg.com",
+            "www.visualrevenue.com",
             "www.w3i.com",
             "www.webtraffic.se",
             "www.wegcash.com",
             "www.whereapps.com",
             "www.wonderlandads.com",
+            "www.xq1.net",
             "www.xtendmedia.com",
             "www.xxxmyself.com",
             "www.yabuka.com",
@@ -429,6 +429,7 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ]
+        ],
+        "to_test": []
     }
 }
