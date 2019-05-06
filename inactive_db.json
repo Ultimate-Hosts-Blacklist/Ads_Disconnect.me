@@ -179,10 +179,7 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr"
-        ],
-        "to_test": [
-            "netpool.netbookia.net",
+            "memorix.sdv.fr",
             "network.business.com",
             "ngs.impress.co.jp",
             "oas.salon.com",
@@ -224,6 +221,7 @@
             "tvas-c.pw",
             "usmsad.tom.com",
             "wads.webteh.com",
+            "www.101order.com",
             "www.2mdn.net",
             "www.518ad.com",
             "www.5thfinger.com",
@@ -254,7 +252,9 @@
             "www.adtrading.de",
             "www.adultmoda.com",
             "www.adviva.net",
-            "www.adwhirl.com",
+            "www.adwhirl.com"
+        ],
+        "to_test": [
             "www.aidu-ads.de",
             "www.aistat.net",
             "www.alclick.com",
