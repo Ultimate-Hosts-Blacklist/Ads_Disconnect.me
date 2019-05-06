@@ -116,9 +116,7 @@
             "adserver2.popdata.de",
             "adspace.ro",
             "adsremote.scrippsnetworks.com",
-            "adsrv.eacdn.com"
-        ],
-        "to_test": [
+            "adsrv.eacdn.com",
             "adtrading.de",
             "advertising.guildlaunch.net",
             "adverts.carltononline.com",
@@ -181,7 +179,9 @@
             "m.webtrends.com",
             "mads.aol.com",
             "media.ftv-publicite.fr",
-            "memorix.sdv.fr",
+            "memorix.sdv.fr"
+        ],
+        "to_test": [
             "netpool.netbookia.net",
             "network.business.com",
             "ngs.impress.co.jp",
