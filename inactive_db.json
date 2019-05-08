@@ -130,9 +130,7 @@
             "an.tacoda.net",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com"
-        ],
-        "to_test": [
+            "assets.loomia.com",
             "b.aol.com",
             "b.engadget.com",
             "banner-link.com.br",
@@ -191,7 +189,9 @@
             "pagerank4u.eu",
             "partner.topcities.com",
             "perf.weborama.fr",
-            "pixel.jumptap.com",
+            "pixel.jumptap.com"
+        ],
+        "to_test": [
             "pro.i-doctor.co.kr",
             "promo1.webcams.nl",
             "quarterserver.de",
