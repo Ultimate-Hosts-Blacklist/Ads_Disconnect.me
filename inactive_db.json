@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1557151156": [
+        "1557323501": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -38,7 +38,6 @@
             "ads.asia1.com.sg",
             "ads.beenetworks.net",
             "ads.billiton.de",
-            "ads.canalblog.com",
             "ads.cgnetworks.com",
             "ads.cimedia.com",
             "ads.datinggold.com",
@@ -97,6 +96,7 @@
             "ads.web.cs.com",
             "ads.whi.co.nz",
             "ads.wunderground.com",
+            "ads.yourfreedvds.com",
             "ads1.theglobeandmail.com",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
@@ -130,7 +130,9 @@
             "an.tacoda.net",
             "arc1.msn.com",
             "as2.advfn.com",
-            "assets.loomia.com",
+            "assets.loomia.com"
+        ],
+        "to_test": [
             "b.aol.com",
             "b.engadget.com",
             "banner-link.com.br",
@@ -429,7 +431,6 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": []
+        ]
     }
 }
