@@ -191,9 +191,7 @@
             "pagerank-submitter.com",
             "pagerank-united.de",
             "pagerank4u.eu",
-            "partner.topcities.com"
-        ],
-        "to_test": [
+            "partner.topcities.com",
             "perf.weborama.fr",
             "pixel.jumptap.com",
             "pro.i-doctor.co.kr",
@@ -286,7 +284,9 @@
             "www.company-target.com",
             "www.cpmaffiliation.com",
             "www.creafi.com",
-            "www.cybermonitor.com",
+            "www.cybermonitor.com"
+        ],
+        "to_test": [
             "www.dapper.net",
             "www.de17a.com",
             "www.dedicatedmedia.com",
