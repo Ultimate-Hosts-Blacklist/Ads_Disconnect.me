@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Ads_Disconnect.me/domains.list": {
-        "1557323501": [
+        "1557496498": [
             "a.0day.kiev.ua",
             "a.collective-media.net",
             "a32.g.a.yimg.com",
@@ -38,12 +38,12 @@
             "ads.asia1.com.sg",
             "ads.beenetworks.net",
             "ads.billiton.de",
+            "ads.canalblog.com",
             "ads.cgnetworks.com",
             "ads.cimedia.com",
             "ads.datinggold.com",
             "ads.discovery.com",
             "ads.eatinparis.com",
-            "ads.einmedia.com",
             "ads.esmas.com",
             "ads.expedia.com",
             "ads.ezboard.com",
@@ -127,7 +127,9 @@
             "affiliates.ige.com",
             "affiliates.jlist.com",
             "aidu-ads.de",
-            "an.tacoda.net",
+            "an.tacoda.net"
+        ],
+        "to_test": [
             "arc1.msn.com",
             "as2.advfn.com",
             "assets.loomia.com",
@@ -429,7 +431,6 @@
             "www.zeepmedia.com",
             "www.zenkreka.com",
             "zde-affinity.edgecaching.net"
-        ],
-        "to_test": []
+        ]
     }
 }
