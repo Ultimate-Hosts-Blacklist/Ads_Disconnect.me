@@ -220,8 +220,8 @@
         "state": "future"
     },
     "ad-balancer.net": {
-        "epoch": "1558310400",
-        "expiration_date": "20-may-2019",
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "ad-center.com": {
@@ -910,9 +910,9 @@
         "state": "future"
     },
     "adsk2.co": {
-        "epoch": "1558656000",
+        "epoch": 1558656000,
         "expiration_date": "24-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "adskape.ru": {
         "epoch": "1564272000",
@@ -1055,8 +1055,8 @@
         "state": "future"
     },
     "adtoma.com": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "adtrace.org": {
@@ -2595,8 +2595,8 @@
         "state": "future"
     },
     "directivepub.com": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "directleads.com": {
@@ -4385,8 +4385,8 @@
         "state": "future"
     },
     "mmismm.com": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
         "state": "future"
     },
     "mmtro.com": {
@@ -4405,8 +4405,8 @@
         "state": "future"
     },
     "mobcdn.com": {
-        "epoch": "1557705600",
-        "expiration_date": "13-may-2019",
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "mobclix.com": {
