@@ -1579,6 +1579,11 @@
         "expiration_date": "19-aug-2019",
         "state": "future"
     },
+    "banner-link.com.br": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "banner.cz": {
         "epoch": "1571529600",
         "expiration_date": "20-oct-2019",
@@ -4925,8 +4930,8 @@
         "state": "future"
     },
     "openmarket.com": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1653350400,
+        "expiration_date": "24-may-2022",
         "state": "future"
     },
     "openx.com": {
@@ -5525,8 +5530,8 @@
         "state": "future"
     },
     "redmas.com": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "reduxmedia.com": {
