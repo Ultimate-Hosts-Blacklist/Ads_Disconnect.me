@@ -1,8 +1,10 @@
 {
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
     "end_datetime": "Sun Jun  9 14:53:44 2019",
     "end_epoch": 1560092024.510764,
+    "last_autosave_datetime": "Sun Jun  9 15:11:18 2019",
+    "last_autosave_epoch": 1560093078.131024,
     "last_test": 1557502579,
     "name": "Ads_Disconnect.me",
     "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
