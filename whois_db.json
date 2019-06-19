@@ -205,8 +205,8 @@
         "state": "future"
     },
     "actionsplash.com": {
-        "epoch": "1560384000",
-        "expiration_date": "13-jun-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "actualdeals.com": {
@@ -775,8 +775,8 @@
         "state": "future"
     },
     "adprofile.net": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "adprojekt.pl": {
@@ -1425,8 +1425,8 @@
         "state": "future"
     },
     "apprebates.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "appredeem.com": {
@@ -6520,9 +6520,9 @@
         "state": "future"
     },
     "trademob.com": {
-        "epoch": "1560902400",
+        "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "traffic-exchange.com": {
         "epoch": "1588118400",
