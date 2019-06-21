@@ -4270,8 +4270,8 @@
         "state": "future"
     },
     "medio.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "medleyads.com": {
@@ -5420,8 +5420,8 @@
         "state": "future"
     },
     "questaffiliates.net": {
-        "epoch": "1560643200",
-        "expiration_date": "16-jun-2019",
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "quigo.com": {
@@ -5940,8 +5940,8 @@
         "state": "future"
     },
     "smaato.com": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "smart4ads.com": {
@@ -6520,9 +6520,9 @@
         "state": "future"
     },
     "trademob.com": {
-        "epoch": 1560902400,
-        "expiration_date": "19-jun-2019",
-        "state": "past"
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
     },
     "traffic-exchange.com": {
         "epoch": "1588118400",
