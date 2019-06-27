@@ -2485,8 +2485,8 @@
         "state": "future"
     },
     "criteo.com": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "crowdgravity.com": {
@@ -3000,8 +3000,8 @@
         "state": "future"
     },
     "f5biz.com": {
-        "epoch": "1561420800",
-        "expiration_date": "25-jun-2019",
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "fast-adv.it": {
@@ -3725,8 +3725,8 @@
         "state": "future"
     },
     "instantmadness.com": {
-        "epoch": "1561248000",
-        "expiration_date": "23-jun-2019",
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "intelliads.com": {
@@ -4235,8 +4235,8 @@
         "state": "future"
     },
     "medialytics.com": {
-        "epoch": "1561420800",
-        "expiration_date": "25-jun-2019",
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "mediamath.com": {
@@ -4300,8 +4300,8 @@
         "state": "future"
     },
     "memeglobal.com": {
-        "epoch": "1561334400",
-        "expiration_date": "24-jun-2019",
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "metaffiliation.com": {
@@ -5665,9 +5665,9 @@
         "state": "future"
     },
     "rocketfuel.com": {
-        "epoch": 1561420800,
-        "expiration_date": "25-jun-2019",
-        "state": "past"
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
     },
     "roia.biz": {
         "epoch": "1606780800",
@@ -5755,9 +5755,9 @@
         "state": "future"
     },
     "searchmarketing.com": {
-        "epoch": 1561420800,
-        "expiration_date": "25-jun-2019",
-        "state": "past"
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
     },
     "searchramp.com": {
         "epoch": "1573257600",
@@ -6275,8 +6275,8 @@
         "state": "future"
     },
     "test.com": {
-        "epoch": "1560729600",
-        "expiration_date": "17-jun-2019",
+        "epoch": 1623888000,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "text-link-ads.com": {
