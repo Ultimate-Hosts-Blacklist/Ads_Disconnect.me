@@ -2650,9 +2650,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": "1562544000",
+        "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "domainsponsor.com": {
         "epoch": "1564531200",
@@ -3990,8 +3990,8 @@
         "state": "future"
     },
     "linkbuddies.com": {
-        "epoch": "1561939200",
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "linkexchange.com": {
@@ -6245,8 +6245,8 @@
         "state": "future"
     },
     "targetnet.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "targetpoint.com": {
