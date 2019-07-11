@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 66,
+            "invalid": 0,
+            "tested": 1635,
+            "up": 1569
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Tue Jul  9 14:56:14 2019",
     "end_epoch": 1562684174.04066,
-    "last_autosave_datetime": "Tue Jul  9 14:48:42 2019",
-    "last_autosave_epoch": 1562683722.421494,
+    "last_autosave_datetime": "Thu Jul 11 14:38:21 2019",
+    "last_autosave_epoch": 1562855901.400477,
     "name": "Ads_Disconnect.me",
     "previous_stats": {
         "builds": 3,
@@ -20,6 +29,6 @@
         "whitelisted.list": 3920
     },
     "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-    "start_datetime": "Tue Jul  9 14:26:56 2019",
-    "start_epoch": 1562682416.078958
+    "start_datetime": "Thu Jul 11 14:27:51 2019",
+    "start_epoch": 1562855271.696672
 }
