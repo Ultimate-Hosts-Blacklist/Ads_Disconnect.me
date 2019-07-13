@@ -2265,9 +2265,9 @@
         "state": "future"
     },
     "clickxchange.com": {
-        "epoch": "1562976000",
+        "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickz.com": {
         "epoch": "1584835200",
@@ -5175,8 +5175,8 @@
         "state": "future"
     },
     "play4traffic.com": {
-        "epoch": "1562544000",
-        "expiration_date": "08-jul-2019",
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
         "state": "future"
     },
     "playhaven.com": {
