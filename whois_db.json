@@ -4170,9 +4170,9 @@
         "state": "future"
     },
     "matomy.com": {
-        "epoch": "1563148800",
+        "epoch": 1563148800,
         "expiration_date": "15-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "maximumcash.com": {
         "epoch": "1635206400",
@@ -5125,8 +5125,8 @@
         "state": "future"
     },
     "phluant.com": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "phonearena.com": {
