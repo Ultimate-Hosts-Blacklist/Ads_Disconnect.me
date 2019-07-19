@@ -2510,8 +2510,8 @@
         "state": "future"
     },
     "cyberbounty.com": {
-        "epoch": "1563321600",
-        "expiration_date": "17-jul-2019",
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "cybermonitor.com": {
@@ -3565,9 +3565,9 @@
         "state": "future"
     },
     "idot.cz": {
-        "epoch": "1562976000",
+        "epoch": 1562976000,
         "expiration_date": "13-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "idregie.com": {
         "epoch": "1585526400",
@@ -4055,8 +4055,8 @@
         "state": "future"
     },
     "loading321.com": {
-        "epoch": "1560384000",
-        "expiration_date": "13-jun-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "localmantra.com": {
@@ -5840,8 +5840,8 @@
         "state": "future"
     },
     "sexlist.com": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "sextracker.com": {
