@@ -3140,8 +3140,8 @@
         "state": "future"
     },
     "freestats.tv": {
-        "epoch": "1563926400",
-        "expiration_date": "24-jul-2019",
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "freewebcounter.com": {
@@ -5570,9 +5570,9 @@
         "state": "future"
     },
     "reinvigorate.net": {
-        "epoch": "1564358400",
+        "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "reklamer.com.ua": {
         "epoch": "1580774400",
@@ -7290,8 +7290,8 @@
         "state": "future"
     },
     "zmedia.com": {
-        "epoch": "1564185600",
-        "expiration_date": "27-jul-2019",
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "zumobi.com": {
