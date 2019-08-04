@@ -505,8 +505,8 @@
         "state": "future"
     },
     "adisfy.com": {
-        "epoch": "1564531200",
-        "expiration_date": "31-jul-2019",
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "adition.com": {
@@ -1595,8 +1595,8 @@
         "state": "future"
     },
     "banner.kiev.ua": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "bannerboxes.com": {
@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "chartbeat.com": {
-        "epoch": "1564704000",
-        "expiration_date": "02-aug-2019",
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "chartbeat.net": {
@@ -4800,9 +4800,9 @@
         "state": "future"
     },
     "newtopsites.com": {
-        "epoch": 1564185600,
-        "expiration_date": "27-jul-2019",
-        "state": "past"
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
     },
     "nexac.com": {
         "epoch": "1572393600",
