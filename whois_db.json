@@ -1975,8 +1975,8 @@
         "state": "future"
     },
     "cash4members.com": {
-        "epoch": "1565049600",
-        "expiration_date": "06-aug-2019",
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
         "state": "future"
     },
     "cashcrate.com": {
@@ -2385,9 +2385,9 @@
         "state": "future"
     },
     "coretalk.co": {
-        "epoch": "1563840000",
+        "epoch": 1563840000,
         "expiration_date": "23-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "counted.com": {
         "epoch": "1586822400",
