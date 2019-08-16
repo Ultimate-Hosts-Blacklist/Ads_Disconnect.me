@@ -380,8 +380,8 @@
         "state": "future"
     },
     "adcolony.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "adcomplete.com": {
@@ -2755,8 +2755,8 @@
         "state": "future"
     },
     "ecircle-ag.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "eclickz.com": {
@@ -4070,9 +4070,9 @@
         "state": "future"
     },
     "localmediabuying.com": {
-        "epoch": "1565913600",
+        "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "logua.com": {
         "epoch": "1572480000",
@@ -4780,8 +4780,8 @@
         "state": "future"
     },
     "netseer.com": {
-        "epoch": "1564790400",
-        "expiration_date": "03-aug-2019",
+        "epoch": 1596412800,
+        "expiration_date": "03-aug-2020",
         "state": "future"
     },
     "netshelter.net": {
