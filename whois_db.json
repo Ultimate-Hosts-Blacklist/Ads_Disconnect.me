@@ -855,8 +855,8 @@
         "state": "future"
     },
     "adsdaq.com": {
-        "epoch": "1565568000",
-        "expiration_date": "12-aug-2019",
+        "epoch": 1628726400,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "adsdk.com": {
@@ -1825,9 +1825,9 @@
         "state": "future"
     },
     "blueadvertise.com": {
-        "epoch": "1565913600",
+        "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "bluecava.com": {
         "epoch": "1580515200",
@@ -1985,8 +1985,8 @@
         "state": "future"
     },
     "cashengines.com": {
-        "epoch": "1565913600",
-        "expiration_date": "16-aug-2019",
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "cashfiesta.com": {
@@ -2682,6 +2682,11 @@
     "doublepimp.com": {
         "epoch": "1591142400",
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "drawbrid.ge": {
+        "epoch": 1573344000,
+        "expiration_date": "10-nov-2019",
         "state": "future"
     },
     "drumcash.com": {
