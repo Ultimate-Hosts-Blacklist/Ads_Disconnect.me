@@ -3205,8 +3205,8 @@
         "state": "future"
     },
     "gamesites100.net": {
-        "epoch": "1565740800",
-        "expiration_date": "14-aug-2019",
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "gamesites200.com": {
@@ -4070,9 +4070,9 @@
         "state": "future"
     },
     "localmediabuying.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "logua.com": {
         "epoch": "1572480000",
@@ -4230,9 +4230,9 @@
         "state": "future"
     },
     "mediadvertising.ro": {
-        "epoch": "1565568000",
+        "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediageneral.com": {
         "epoch": "1586649600",
