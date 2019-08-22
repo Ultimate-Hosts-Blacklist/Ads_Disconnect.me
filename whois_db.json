@@ -1290,8 +1290,8 @@
         "state": "future"
     },
     "affiliation-france.com": {
-        "epoch": "1566259200",
-        "expiration_date": "20-aug-2019",
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "ah-ha.com": {
@@ -2415,9 +2415,9 @@
         "state": "future"
     },
     "cpmstar.com": {
-        "epoch": "1566432000",
+        "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "cpxadroit.com": {
         "epoch": "1572998400",
@@ -3680,8 +3680,8 @@
         "state": "future"
     },
     "inetlog.ru": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "infinite-ads.com": {
@@ -6870,8 +6870,8 @@
         "state": "future"
     },
     "visual-pagerank.fr": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "visualrevenue.com": {
