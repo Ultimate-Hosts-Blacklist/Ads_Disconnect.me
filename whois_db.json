@@ -1090,8 +1090,8 @@
         "state": "future"
     },
     "adultadvertising.com": {
-        "epoch": "1565395200",
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "adultmoda.com": {
@@ -2650,9 +2650,9 @@
         "state": "future"
     },
     "domaining.in": {
-        "epoch": 1562544000,
-        "expiration_date": "08-jul-2019",
-        "state": "past"
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
     },
     "domainsponsor.com": {
         "epoch": 1596153600,
