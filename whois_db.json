@@ -3420,8 +3420,8 @@
         "state": "future"
     },
     "hitexchange.net": {
-        "epoch": "1565481600",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "hitfarm.com": {
@@ -4935,8 +4935,8 @@
         "state": "future"
     },
     "openclick.com": {
-        "epoch": "1566518400",
-        "expiration_date": "23-aug-2019",
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "openmarket.com": {
@@ -5330,9 +5330,9 @@
         "state": "future"
     },
     "projectwonderful.com": {
-        "epoch": "1566777600",
+        "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "promobenef.com": {
         "epoch": 1591315200,
@@ -5470,9 +5470,9 @@
         "state": "future"
     },
     "rank-master.com": {
-        "epoch": 1566604800,
-        "expiration_date": "24-aug-2019",
-        "state": "past"
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
     },
     "rankingscout.com": {
         "epoch": 1593993600,
