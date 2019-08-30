@@ -4025,8 +4025,8 @@
         "state": "future"
     },
     "linkshighway.com": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "linkshighway.net": {
@@ -4255,8 +4255,8 @@
         "state": "future"
     },
     "mediamind.com": {
-        "epoch": "1567123200",
-        "expiration_date": "30-aug-2019",
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "mediaplazza.com": {
@@ -4740,8 +4740,8 @@
         "state": "future"
     },
     "net-filter.com": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "netaffiliation.com": {
@@ -5690,8 +5690,8 @@
         "state": "future"
     },
     "roxr.net": {
-        "epoch": "1567036800",
-        "expiration_date": "29-aug-2019",
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "rtbidder.net": {
@@ -6575,9 +6575,9 @@
         "state": "future"
     },
     "trafficspaces.net": {
-        "epoch": "1567123200",
+        "epoch": 1567123200,
         "expiration_date": "30-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "trafficstrategies.com": {
         "epoch": "1583712000",
