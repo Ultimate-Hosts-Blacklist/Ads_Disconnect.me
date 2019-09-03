@@ -1155,8 +1155,8 @@
         "state": "future"
     },
     "advertmarket.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
         "state": "future"
     },
     "advertserve.com": {
@@ -2535,8 +2535,8 @@
         "state": "future"
     },
     "datashreddergold.com": {
-        "epoch": "1567382400",
-        "expiration_date": "02-sep-2019",
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "dataxu.com": {
@@ -3385,8 +3385,8 @@
         "state": "future"
     },
     "hgads.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "hightrafficads.com": {
@@ -4885,8 +4885,8 @@
         "state": "future"
     },
     "onenetworkdirect.com": {
-        "epoch": "1567209600",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "onestat.com": {
@@ -5270,9 +5270,9 @@
         "state": "future"
     },
     "potenza.cz": {
-        "epoch": "1566691200",
+        "epoch": 1566691200,
         "expiration_date": "25-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "pr5dir.com": {
         "epoch": "1574985600",
