@@ -4375,9 +4375,9 @@
         "state": "future"
     },
     "mintrace.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "misstrends.com": {
         "epoch": "1569369600",
