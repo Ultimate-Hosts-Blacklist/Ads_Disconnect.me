@@ -2315,9 +2315,9 @@
         "state": "future"
     },
     "code-server.biz": {
-        "epoch": "1567987200",
+        "epoch": 1567987200,
         "expiration_date": "09-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "colonize.com": {
         "epoch": 1719792000,
@@ -6665,8 +6665,8 @@
         "state": "future"
     },
     "tubedspots.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "tubemogul.com": {
@@ -6870,8 +6870,8 @@
         "state": "future"
     },
     "visistat.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "visual-pagerank.fr": {
