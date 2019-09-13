@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "iloopmobile.com": {
-        "epoch": "1568246400",
-        "expiration_date": "12-sep-2019",
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "ilovecheating.com": {
@@ -4635,9 +4635,9 @@
         "state": "future"
     },
     "mypagerank.net": {
-        "epoch": "1568332800",
+        "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mypagerank.ru": {
         "epoch": 1595462400,
@@ -4950,8 +4950,8 @@
         "state": "future"
     },
     "opienetwork.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "optimost.com": {
@@ -5705,8 +5705,8 @@
         "state": "future"
     },
     "rtbpopd.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "ru-traffic.com": {
