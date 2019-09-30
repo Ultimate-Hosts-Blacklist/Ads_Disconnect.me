@@ -2035,8 +2035,8 @@
         "state": "future"
     },
     "cbmall.com": {
-        "epoch": "1569542400",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "cbx.net": {
@@ -4475,9 +4475,9 @@
         "state": "future"
     },
     "mobilefuse.nu": {
-        "epoch": 1552089600,
-        "expiration_date": "09-mar-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "mobilemessenger.com": {
         "epoch": "1570406400",
@@ -5910,8 +5910,8 @@
         "state": "future"
     },
     "simplycast.com": {
-        "epoch": "1569110400",
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "sinoa.com": {
