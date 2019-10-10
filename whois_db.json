@@ -164,6 +164,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "atwola.com": {
+        "epoch": 1635465600,
+        "expiration_date": "29-oct-2021",
+        "state": "future"
+    },
     "aylarl.com": {
         "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
@@ -177,6 +182,11 @@
     "baypops.com": {
         "epoch": 1574726400,
         "expiration_date": "26-nov-2019",
+        "state": "future"
+    },
+    "bitads.net": {
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "burstmedia.com": {
@@ -247,6 +257,11 @@
     "dedicatedmedia.com": {
         "epoch": 1575417600,
         "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "directorym.com": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "directtrack.com": {
@@ -324,14 +339,29 @@
         "expiration_date": "29-may-2023",
         "state": "future"
     },
+    "googlesyndication.com": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
     "harrenmedianetwork.com": {
         "epoch": 1576022400,
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
+    "hits4pay.com": {
+        "epoch": 1587513600,
+        "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
     "hurricanedigitalmedia.com": {
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "iasds01.com": {
+        "epoch": 1704758400,
+        "expiration_date": "09-jan-2024",
         "state": "future"
     },
     "idcounter.com": {
@@ -439,6 +469,16 @@
         "expiration_date": "10-mar-2021",
         "state": "future"
     },
+    "mmismm.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "mobgold.com": {
+        "epoch": 1622505600,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
+    },
     "mobilewithsms.net": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
@@ -447,6 +487,11 @@
     "mocean.mobi": {
         "epoch": 1689984000,
         "expiration_date": "22-jul-2023",
+        "state": "future"
+    },
+    "moversa.com": {
+        "epoch": 1649030400,
+        "expiration_date": "04-apr-2022",
         "state": "future"
     },
     "muwmedia.com": {
@@ -549,6 +594,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "pop-under.ru": {
+        "epoch": 1588464000,
+        "expiration_date": "03-may-2020",
+        "state": "future"
+    },
     "postrelease.com": {
         "epoch": 1597708800,
         "expiration_date": "18-aug-2020",
@@ -619,6 +669,16 @@
         "expiration_date": "11-dec-2025",
         "state": "future"
     },
+    "stat.su": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "strikead.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "swissadsolutions.com": {
         "epoch": 1603238400,
         "expiration_date": "21-oct-2020",
@@ -637,6 +697,11 @@
     "tacoda.net": {
         "epoch": 1642377600,
         "expiration_date": "17-jan-2022",
+        "state": "future"
+    },
+    "tapjoyads.com": {
+        "epoch": 1609545600,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "tapsense.com": {
@@ -669,6 +734,11 @@
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "topblogarea.se": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
     "trafficspaces.net": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
@@ -677,6 +747,11 @@
     "trekblue.com": {
         "epoch": 1578873600,
         "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "trhunt.com": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
         "state": "future"
     },
     "ultramercial.com": {
