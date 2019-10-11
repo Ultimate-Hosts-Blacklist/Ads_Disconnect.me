@@ -74,6 +74,11 @@
         "expiration_date": "02-nov-2023",
         "state": "future"
     },
+    "admedia.ro": {
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "admotion.com.ar": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
@@ -117,6 +122,11 @@
     "adultmoda.com": {
         "epoch": 1621123200,
         "expiration_date": "16-may-2021",
+        "state": "future"
+    },
+    "adwhirl.com": {
+        "epoch": 1587254400,
+        "expiration_date": "19-apr-2020",
         "state": "future"
     },
     "adyea.com": {
@@ -174,6 +184,11 @@
         "expiration_date": "26-aug-2019",
         "state": "past"
     },
+    "banner-link.com.br": {
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
     "baypops.com": {
         "epoch": 1574726400,
         "expiration_date": "26-nov-2019",
@@ -182,6 +197,11 @@
     "bhclicks.com": {
         "epoch": 1578268800,
         "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "bidtrk.com": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
         "state": "future"
     },
     "bimlocal.com": {
@@ -414,6 +434,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "i-lookup.com": {
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
+        "state": "future"
+    },
     "i1img.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
@@ -634,9 +659,19 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "newtopsites.com": {
+        "epoch": 1564185600,
+        "expiration_date": "27-jul-2019",
+        "state": "past"
+    },
     "nexac.com": {
         "epoch": 1604016000,
         "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "offerfusion.com": {
+        "epoch": 1741651200,
+        "expiration_date": "11-mar-2025",
         "state": "future"
     },
     "on-mobi.com": {
@@ -682,6 +717,11 @@
     "pgmediaserve.com": {
         "epoch": 1589500800,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "pheedo.com": {
+        "epoch": 1574121600,
+        "expiration_date": "19-nov-2019",
         "state": "future"
     },
     "photo-ads.co.uk": {
@@ -859,6 +899,11 @@
         "expiration_date": "17-jan-2022",
         "state": "future"
     },
+    "tapjoyads.com": {
+        "epoch": 1609545600,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
     "tapsense.com": {
         "epoch": 1610323200,
         "expiration_date": "11-jan-2021",
@@ -919,6 +964,11 @@
         "expiration_date": "27-nov-2019",
         "state": "future"
     },
+    "ultramercial.com": {
+        "epoch": 1594166400,
+        "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
     "ultsearch.com": {
         "epoch": 1581897600,
         "expiration_date": "17-feb-2020",
@@ -932,6 +982,11 @@
     "updated.com": {
         "epoch": 1810857600,
         "expiration_date": "21-may-2027",
+        "state": "future"
+    },
+    "vertadnet.com": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
         "state": "future"
     },
     "veruta.com": {
@@ -987,6 +1042,11 @@
     "yieldads.com": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
+    "yieldmanager.com": {
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "yoc.mobi": {
