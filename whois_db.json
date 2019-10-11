@@ -29,9 +29,19 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "a-counter.kiev.ua": {
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "ad-balancer.net": {
         "epoch": 1589932800,
         "expiration_date": "20-may-2020",
+        "state": "future"
+    },
+    "adbanner.ro": {
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
         "state": "future"
     },
     "adboost.net": {
@@ -102,6 +112,16 @@
     "adswitcher.com": {
         "epoch": 1573776000,
         "expiration_date": "15-nov-2019",
+        "state": "future"
+    },
+    "adultmoda.com": {
+        "epoch": 1621123200,
+        "expiration_date": "16-may-2021",
+        "state": "future"
+    },
+    "adyea.com": {
+        "epoch": 1590364800,
+        "expiration_date": "25-may-2020",
         "state": "future"
     },
     "aim4media.com": {
@@ -299,6 +319,11 @@
         "expiration_date": "12-jan-2024",
         "state": "future"
     },
+    "euroclick.com": {
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
     "exitexchange.com": {
         "epoch": 1625788800,
         "expiration_date": "09-jul-2021",
@@ -468,6 +493,11 @@
         "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
         "state": "past"
+    },
+    "medialets.com": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
     },
     "megago.com": {
         "epoch": 1582156800,
@@ -642,6 +672,11 @@
     "pop-under.ru": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "popupmoney.com": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "pr5dir.com": {
