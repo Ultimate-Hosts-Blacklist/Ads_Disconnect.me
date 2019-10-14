@@ -9,6 +9,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "adbot.com": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
     "addme.com": {
         "epoch": 1722124800,
         "expiration_date": "28-jul-2024",
@@ -59,9 +64,29 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "adsoldier.com": {
+        "epoch": 1581811200,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "adxpansion.com": {
+        "epoch": 1609977600,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
     "adyea.com": {
         "epoch": 1590364800,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "ah-ha.com": {
+        "epoch": 1633219200,
+        "expiration_date": "03-oct-2021",
+        "state": "future"
+    },
+    "alladvantage.com": {
+        "epoch": 1614297600,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "anahtars.com": {
@@ -74,9 +99,19 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "appier.com": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
     "apture.com": {
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "bluelithium.com": {
+        "epoch": 1578355200,
+        "expiration_date": "07-jan-2020",
         "state": "future"
     },
     "bpath.com": {
@@ -104,6 +139,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "clkads.com": {
+        "epoch": 1580428800,
+        "expiration_date": "31-jan-2020",
+        "state": "future"
+    },
     "code-server.biz": {
         "epoch": 1567987200,
         "expiration_date": "09-sep-2019",
@@ -112,6 +152,11 @@
     "comclick.com": {
         "epoch": 1581465600,
         "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "commissionmonster.com": {
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "cqcounter.com": {
@@ -124,9 +169,19 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "doubleclick.com": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "fiksu.com": {
         "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
+        "state": "future"
+    },
+    "gator.com": {
+        "epoch": 1647734400,
+        "expiration_date": "20-mar-2022",
         "state": "future"
     },
     "gtop.ro": {
@@ -154,6 +209,11 @@
         "expiration_date": "14-feb-2021",
         "state": "future"
     },
+    "link4ads.com": {
+        "epoch": 1602115200,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "linkreferral.com": {
         "epoch": 1579737600,
         "expiration_date": "23-jan-2020",
@@ -164,6 +224,11 @@
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
+    "lop.com": {
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
     "media6degrees.com": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
@@ -172,6 +237,11 @@
     "mediaplazza.com": {
         "epoch": 1587859200,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "mediaplex.com": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "misstrends.com": {
@@ -194,9 +264,19 @@
         "expiration_date": "08-dec-2019",
         "state": "future"
     },
+    "nuseek.com": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "openx.com": {
         "epoch": 1604707200,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "pagerank-ranking.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
         "state": "future"
     },
     "pgpartner.com": {
@@ -219,9 +299,19 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
+    "prchecker.info": {
+        "epoch": 1631059200,
+        "expiration_date": "08-sep-2021",
+        "state": "future"
+    },
     "proton-tm.com": {
         "epoch": 1587859200,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "qctop.com": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "radiate.com": {
@@ -242,6 +332,11 @@
     "slicktext.com": {
         "epoch": 1760227200,
         "expiration_date": "12-oct-2025",
+        "state": "future"
+    },
+    "snapads.com": {
+        "epoch": 1765411200,
+        "expiration_date": "11-dec-2025",
         "state": "future"
     },
     "socialspark.com": {
@@ -274,6 +369,11 @@
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
+    "text-link-ads.com": {
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "tlvmedia.com": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
@@ -294,9 +394,19 @@
         "expiration_date": "20-mar-2020",
         "state": "future"
     },
+    "trafic.ro": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "visualrevenue.com": {
         "epoch": 1606694400,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "webgains.com": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "webtrendslive.com": {
@@ -312,6 +422,11 @@
     "xplusone.com": {
         "epoch": 1583798400,
         "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
+    "zencudo.co.uk": {
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
         "state": "future"
     },
     "zeusclicks.com": {
