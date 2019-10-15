@@ -1,4 +1,9 @@
 {
+    "207.net": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "50websads.com": {
         "epoch": 1588636800,
         "expiration_date": "05-may-2020",
@@ -7,6 +12,11 @@
     "aaddzz.com": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "ad-tech.com": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "adbot.com": {
@@ -89,9 +99,19 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "ads180.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "adsrvr.org": {
         "epoch": 1616976000,
         "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
+    "adtegrity.net": {
+        "epoch": 1632441600,
+        "expiration_date": "24-sep-2021",
         "state": "future"
     },
     "advariant.com": {
@@ -252,6 +272,16 @@
     "crwdcntrl.net": {
         "epoch": 1605916800,
         "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "cubics.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "danban.com": {
+        "epoch": 1609200000,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "dataxu.com": {
@@ -419,6 +449,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "industrybrains.com": {
+        "epoch": 1587859200,
+        "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
     "ivypixel.com": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
@@ -459,6 +494,11 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "mediacharger.com": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
     "mediashakers.com": {
         "epoch": 1699315200,
         "expiration_date": "07-nov-2023",
@@ -487,6 +527,11 @@
     "mobilda.com": {
         "epoch": 1579910400,
         "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
+    "moolahmedia.com": {
+        "epoch": 1633392000,
+        "expiration_date": "05-oct-2021",
         "state": "future"
     },
     "mouseflow.com": {
@@ -569,6 +614,11 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "pointroll.com": {
+        "epoch": 1614729600,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
     "porngraph.com": {
         "epoch": 1590192000,
         "expiration_date": "23-may-2020",
@@ -577,6 +627,11 @@
     "porntrack.com": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "privatecash.com": {
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "pubmatic.com": {
@@ -764,9 +819,19 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "usapromotravel.com": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "valuead.com": {
         "epoch": 1616198400,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "vdopia.com": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "ventivmedia.com": {
@@ -782,6 +847,11 @@
     "viewwonder.com": {
         "epoch": 1590969600,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "visistat.com": {
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "webangel.ru": {
