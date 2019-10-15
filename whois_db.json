@@ -9,6 +9,16 @@
         "expiration_date": "22-dec-2020",
         "state": "future"
     },
+    "adimpact.com": {
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "adizio.com": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
     "adnetwork.net": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
@@ -34,6 +44,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "anahtars.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
     "appads.com": {
         "epoch": 1625702400,
         "expiration_date": "08-jul-2021",
@@ -54,6 +69,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "apptera.com": {
+        "epoch": 1581552000,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
     "auctionads.com": {
         "epoch": 1666828800,
         "expiration_date": "27-oct-2022",
@@ -62,6 +82,16 @@
     "bhclicks.com": {
         "epoch": 1578268800,
         "expiration_date": "06-jan-2020",
+        "state": "future"
+    },
+    "bitmedianetwork.com": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "cjbmanagement.com": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "clickbrokers.com": {
@@ -74,6 +104,11 @@
         "expiration_date": "05-aug-2021",
         "state": "future"
     },
+    "creafi-online-media.com": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "crispwireless.com": {
         "epoch": 1592784000,
         "expiration_date": "22-jun-2020",
@@ -82,6 +117,11 @@
     "dataxu.com": {
         "epoch": 1788652800,
         "expiration_date": "06-sep-2026",
+        "state": "future"
+    },
+    "dialerporn.com": {
+        "epoch": 1578009600,
+        "expiration_date": "03-jan-2020",
         "state": "future"
     },
     "directivepub.com": {
@@ -134,6 +174,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "freeonlineusers.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "greystripe.com": {
         "epoch": 1604188800,
         "expiration_date": "01-nov-2020",
@@ -164,6 +209,11 @@
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
+    "mediashakers.com": {
+        "epoch": 1699315200,
+        "expiration_date": "07-nov-2023",
+        "state": "future"
+    },
     "memeglobal.com": {
         "epoch": 1592956800,
         "expiration_date": "24-jun-2020",
@@ -177,6 +227,11 @@
     "nedstat.com": {
         "epoch": 1589846400,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "nedstatbasic.net": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "perfectaudience.com": {
@@ -214,14 +269,39 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "serv0.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "servedby-buysellads.com": {
         "epoch": 1579737600,
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "sharepointads.com": {
+        "epoch": 1589587200,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "smowtion.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "sponsorpay.com": {
         "epoch": 1600819200,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "switchadhub.com": {
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "tlvmedia.com": {
+        "epoch": 1586649600,
+        "expiration_date": "12-apr-2020",
         "state": "future"
     },
     "traffic-exchange.com": {
@@ -234,6 +314,11 @@
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
+    "valuead.com": {
+        "epoch": 1616198400,
+        "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
     "webpower.com": {
         "epoch": 1659052800,
         "expiration_date": "29-jul-2022",
@@ -242,6 +327,11 @@
     "xius.com": {
         "epoch": 1633651200,
         "expiration_date": "08-oct-2021",
+        "state": "future"
+    },
+    "xplusone.com": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
         "state": "future"
     },
     "yesads.com": {
