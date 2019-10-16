@@ -354,6 +354,11 @@
         "expiration_date": "19-apr-2020",
         "state": "future"
     },
+    "bidswitch.net": {
+        "epoch": 1662076800,
+        "expiration_date": "02-sep-2022",
+        "state": "future"
+    },
     "bigbangmedia.com": {
         "epoch": 1604361600,
         "expiration_date": "03-nov-2020",
@@ -512,6 +517,11 @@
     "cpays.com": {
         "epoch": 1617235200,
         "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "cpmaffiliation.com": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
         "state": "future"
     },
     "cqcounter.com": {
@@ -859,6 +869,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "ip193.cn": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
     "ivypixel.com": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
@@ -867,6 +882,11 @@
     "joetec.net": {
         "epoch": 1611619200,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "justwebads.com": {
+        "epoch": 1572739200,
+        "expiration_date": "03-nov-2019",
         "state": "future"
     },
     "kaplanindex.com": {
@@ -937,6 +957,11 @@
     "mdotm.com": {
         "epoch": 1599955200,
         "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "media6degrees.com": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "mediacharger.com": {
@@ -1264,6 +1289,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "reduxmediagroup.com": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "regnow.com": {
         "epoch": 1584230400,
         "expiration_date": "15-mar-2020",
@@ -1317,6 +1347,11 @@
     "rubiconproject.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "searchramp.com": {
+        "epoch": 1604880000,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "sedotracker.com": {
@@ -1397,6 +1432,11 @@
     "sparkstudios.com": {
         "epoch": 1707091200,
         "expiration_date": "05-feb-2024",
+        "state": "future"
+    },
+    "specificpop.com": {
+        "epoch": 1578441600,
+        "expiration_date": "08-jan-2020",
         "state": "future"
     },
     "sponsorpay.com": {
