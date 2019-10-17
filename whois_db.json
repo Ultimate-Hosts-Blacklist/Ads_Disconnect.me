@@ -1,4 +1,9 @@
 {
+    "101order.com": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
     "123found.com": {
         "epoch": 1572998400,
         "expiration_date": "06-nov-2019",
@@ -162,6 +167,11 @@
     "admarketplace.com": {
         "epoch": 1642464000,
         "expiration_date": "18-jan-2022",
+        "state": "future"
+    },
+    "admarvel.com": {
+        "epoch": 1698883200,
+        "expiration_date": "02-nov-2023",
         "state": "future"
     },
     "admedia.ro": {
@@ -334,6 +344,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "all4spy.com": {
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
     "anahtars.com": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
@@ -413,6 +428,11 @@
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
         "state": "future"
+    },
+    "aylarl.com": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "past"
     },
     "bannerlandia.com.ar": {
         "epoch": 1587945600,
@@ -612,6 +632,11 @@
     "clickdensity.com": {
         "epoch": 1615075200,
         "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
+    "clickhype.com": {
+        "epoch": 1580515200,
+        "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "clicksor.com": {
@@ -1194,6 +1219,11 @@
         "expiration_date": "26-jan-2021",
         "state": "future"
     },
+    "justrelevant.com": {
+        "epoch": 1572307200,
+        "expiration_date": "29-oct-2019",
+        "state": "future"
+    },
     "justwebads.com": {
         "epoch": 1572739200,
         "expiration_date": "03-nov-2019",
@@ -1492,6 +1522,11 @@
     "n69.com": {
         "epoch": 1646179200,
         "expiration_date": "02-mar-2022",
+        "state": "future"
+    },
+    "namimedia.com": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "nbjmp.com": {
@@ -2164,6 +2199,11 @@
         "expiration_date": "05-jul-2021",
         "state": "future"
     },
+    "tubedspots.com": {
+        "epoch": 1567468800,
+        "expiration_date": "03-sep-2019",
+        "state": "past"
+    },
     "ubermedia.com": {
         "epoch": 1577923200,
         "expiration_date": "02-jan-2020",
@@ -2182,6 +2222,11 @@
     "vdopia.com": {
         "epoch": 1585008000,
         "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "veille-referencement.com": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "ventivmedia.com": {
