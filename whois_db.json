@@ -134,6 +134,11 @@
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
+    "adk2.com": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
     "adland.ru": {
         "epoch": 1590019200,
         "expiration_date": "21-may-2020",
@@ -479,6 +484,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "brightinfo.com": {
+        "epoch": 1572048000,
+        "expiration_date": "26-oct-2019",
+        "state": "future"
+    },
     "budsinc.com": {
         "epoch": 1590969600,
         "expiration_date": "01-jun-2020",
@@ -487,6 +497,11 @@
     "burstmedia.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "buysellads.com": {
+        "epoch": 1825113600,
+        "expiration_date": "02-nov-2027",
         "state": "future"
     },
     "buzzonclick.com": {
@@ -499,6 +514,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "cashlayer.com": {
+        "epoch": 1598400000,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "casinopays.com": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
@@ -507,6 +527,11 @@
     "casinotraffic.com": {
         "epoch": 1607558400,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "channelintelligence.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "chart.dk": {
@@ -1214,6 +1239,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "misstrends.com": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "miva.com": {
         "epoch": 1602547200,
         "expiration_date": "13-oct-2020",
@@ -1489,9 +1519,24 @@
         "expiration_date": "24-jun-2020",
         "state": "future"
     },
+    "promobenef.com": {
+        "epoch": 1591315200,
+        "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
     "proranktracker.com": {
         "epoch": 1606953600,
         "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "protexting.com": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "provexia.com": {
+        "epoch": 1573430400,
+        "expiration_date": "11-nov-2019",
         "state": "future"
     },
     "pubmatic.com": {
@@ -1512,6 +1557,11 @@
     "rankingscout.com": {
         "epoch": 1593993600,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "rate.ru": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "realclix.com": {
