@@ -224,6 +224,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "adapt.tv": {
+        "epoch": 1576713600,
+        "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
     "adbard.net": {
         "epoch": 1578873600,
         "expiration_date": "13-jan-2020",
@@ -1629,6 +1634,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "cbmall.com": {
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "cbx.net": {
         "epoch": 1583452800,
         "expiration_date": "06-mar-2020",
@@ -2107,6 +2117,11 @@
     "directorym.com": {
         "epoch": 1597881600,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "directtrack.com": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "discountclick.com": {
@@ -4852,6 +4867,11 @@
     "siccash.com": {
         "epoch": 1591056000,
         "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "signalhq.com": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "simpletexting.com": {
