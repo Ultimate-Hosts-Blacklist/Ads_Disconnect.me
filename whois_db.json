@@ -2514,6 +2514,11 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "dedicatedmedia.com": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
     "demandbase.com": {
         "epoch": 1618185600,
         "expiration_date": "12-apr-2021",
@@ -4932,6 +4937,11 @@
     "paycounter.com": {
         "epoch": 1590883200,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "paypopup.com": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "pbnet.ru": {
