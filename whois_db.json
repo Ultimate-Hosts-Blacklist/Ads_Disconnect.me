@@ -444,6 +444,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "adforce.com": {
+        "epoch": 1596326400,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
     "adform.com": {
         "epoch": 1689465600,
         "expiration_date": "16-jul-2023",
@@ -467,6 +472,11 @@
     "adgroups.net": {
         "epoch": 1579564800,
         "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "adhese.com": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "adimpact.com": {
