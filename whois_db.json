@@ -2310,8 +2310,8 @@
         "state": "future"
     },
     "compactbanner.com": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "company-target.com": {
@@ -3880,8 +3880,8 @@
         "state": "future"
     },
     "leadboltads.net": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1667260800,
+        "expiration_date": "01-nov-2022",
         "state": "future"
     },
     "leadclick.com": {
@@ -4065,8 +4065,8 @@
         "state": "future"
     },
     "madisonavenue.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "madserve.org": {
@@ -4959,6 +4959,11 @@
         "expiration_date": "01-jan-2020",
         "state": "future"
     },
+    "papayamobile.com": {
+        "epoch": 1636416000,
+        "expiration_date": "09-nov-2021",
+        "state": "future"
+    },
     "partage-facile.com": {
         "epoch": 1573430400,
         "expiration_date": "11-nov-2019",
@@ -5772,6 +5777,11 @@
     "sexinyourcity.com": {
         "epoch": 1593302400,
         "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "sexlist.com": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "sextracker.com": {
