@@ -837,7 +837,6 @@
             "www.videoegg.com": "INACTIVE"
         },
         "1572623950": {
-            "moadnet.com": "INACTIVE",
             "www.moadnet.com": "INACTIVE"
         },
         "1572623955": {
@@ -1587,7 +1586,6 @@
         "1572796298": {
             "ads.saymedia.com": "INACTIVE",
             "c.compete.com": "INACTIVE",
-            "moadnet.com": "INACTIVE",
             "www.moadnet.com": "INACTIVE"
         },
         "1572796299": {
@@ -5066,8 +5064,8 @@
             "euro-linkindex.de": "INACTIVE"
         },
         "1573342966": {
-            "adserver.portalofevil.com": "INACTIVE"
-        },
+            "adserver.portalofevil.com": "INACTIVE"},
+      },
         "1573342968": {
             "banners.sexsearch.com": "INACTIVE"
         },
@@ -5269,6 +5267,10 @@
             "adserver.sanomawsoy.fi": "INACTIVE"
         },
         "1573343501": {
+            "ad.freecity.de": "INACTIVE"
+        }
+    }
+}    "1573343501": {
             "ad.freecity.de": "INACTIVE"
         }
     }
