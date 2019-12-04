@@ -2550,9 +2550,9 @@
         "state": "future"
     },
     "dedicatedmedia.com": {
-        "epoch": 1575417600,
+        "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "demandbase.com": {
         "epoch": 1618185600,
