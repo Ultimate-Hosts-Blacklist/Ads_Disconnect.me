@@ -5885,9 +5885,9 @@
         "state": "future"
     },
     "sinoa.com": {
-        "epoch": 1576627200,
+        "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "sitemeter.com": {
         "epoch": 1617408000,
