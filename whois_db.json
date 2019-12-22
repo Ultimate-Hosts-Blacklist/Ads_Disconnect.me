@@ -350,9 +350,9 @@
         "state": "future"
     },
     "adcentriconline.com": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1608422400.0,
+        "expiration_date": "20-dec-2020",
+        "state": "future"
     },
     "adcept.net": {
         "epoch": 1577664000,
@@ -3475,9 +3475,9 @@
         "state": "future"
     },
     "humandemand.com": {
-        "epoch": 1576972800,
+        "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hurricanedigitalmedia.com": {
         "epoch": 1595376000,
