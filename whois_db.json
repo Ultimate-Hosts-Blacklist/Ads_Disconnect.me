@@ -865,8 +865,8 @@
         "state": "future"
     },
     "adserver.com": {
-        "epoch": 1578441600,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "adserver.pl": {
@@ -5985,9 +5985,9 @@
         "state": "future"
     },
     "specificpop.com": {
-        "epoch": 1578441600,
+        "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "sponsorpay.com": {
         "epoch": 1600819200,
