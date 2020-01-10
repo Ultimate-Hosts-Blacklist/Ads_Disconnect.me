@@ -390,8 +390,8 @@
         "state": "future"
     },
     "adconion.com": {
-        "epoch": 1578528000,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "adcycle.com": {
@@ -545,9 +545,9 @@
         "state": "future"
     },
     "adk2.com": {
-        "epoch": 1578614400,
+        "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adland.ru": {
         "epoch": 1590019200,
@@ -3950,8 +3950,8 @@
         "state": "future"
     },
     "ligatus.com": {
-        "epoch": 1578614400,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1641772800.0,
+        "expiration_date": "10-jan-2022",
         "state": "future"
     },
     "lightningcast.net": {
