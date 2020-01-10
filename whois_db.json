@@ -2055,9 +2055,9 @@
         "state": "future"
     },
     "cetrk.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
-        "state": "past"
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
+        "state": "future"
     },
     "chango.com": {
         "epoch": 1582761600,
@@ -3790,9 +3790,9 @@
         "state": "future"
     },
     "ivypixel.com": {
-        "epoch": 1578614400,
+        "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "jatxt.com": {
         "epoch": 1603670400,
@@ -4595,8 +4595,8 @@
         "state": "future"
     },
     "mybloglog.com": {
-        "epoch": 1578528000,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "mycounter.ua": {
