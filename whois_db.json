@@ -880,8 +880,8 @@
         "state": "future"
     },
     "adserversolutions.com": {
-        "epoch": 1578700800,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "adservinginternational.com": {
@@ -4475,9 +4475,9 @@
         "state": "future"
     },
     "mobilewithsms.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "mobivity.com": {
         "epoch": 1584230400,
