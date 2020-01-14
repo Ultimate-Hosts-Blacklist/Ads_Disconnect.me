@@ -290,9 +290,9 @@
         "state": "future"
     },
     "adbard.net": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "adblade.com": {
         "epoch": 1604016000,
@@ -1375,9 +1375,9 @@
         "state": "future"
     },
     "anahtars.com": {
-        "epoch": 1578960000,
+        "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "apex-ad.com": {
         "epoch": 1610323200.0,
@@ -2855,8 +2855,8 @@
         "state": "future"
     },
     "etargetnet.com": {
-        "epoch": 1578960000,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "ethicalads.net": {
@@ -5150,9 +5150,9 @@
         "state": "future"
     },
     "planetactive.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "play4traffic.com": {
         "epoch": 1594166400,
