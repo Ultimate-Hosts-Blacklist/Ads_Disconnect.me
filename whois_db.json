@@ -3665,9 +3665,9 @@
         "state": "future"
     },
     "infinite-ads.com": {
-        "epoch": 1578960000,
+        "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "infinityads.com": {
         "epoch": 1599264000,
@@ -6050,8 +6050,8 @@
         "state": "future"
     },
     "stat.su": {
-        "epoch": 1578960000,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "stat24.com": {
