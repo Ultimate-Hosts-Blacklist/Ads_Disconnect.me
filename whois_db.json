@@ -2680,9 +2680,9 @@
         "state": "future"
     },
     "drumcash.com": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
-        "state": "past"
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
     },
     "e-bannerx.com": {
         "epoch": 1599609600,
@@ -2710,9 +2710,9 @@
         "state": "future"
     },
     "eadexchange.com": {
-        "epoch": 1579651200,
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "earnify.com": {
         "epoch": 1634256000,
@@ -5900,8 +5900,8 @@
         "state": "future"
     },
     "sixsigmatraffic.com": {
-        "epoch": 1579651200,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "slickaffiliate.com": {
