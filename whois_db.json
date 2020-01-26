@@ -2710,9 +2710,9 @@
         "state": "future"
     },
     "eadexchange.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
-        "state": "past"
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
     },
     "earnify.com": {
         "epoch": 1634256000,
@@ -5030,8 +5030,8 @@
         "state": "future"
     },
     "payserve.com": {
-        "epoch": 1579910400,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "pbnet.ru": {
@@ -5840,8 +5840,8 @@
         "state": "future"
     },
     "shareasale.com": {
-        "epoch": 1579910400,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "sharepointads.com": {
