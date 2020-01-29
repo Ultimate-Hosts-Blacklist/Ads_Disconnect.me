@@ -4190,9 +4190,9 @@
         "state": "future"
     },
     "media6degrees.com": {
-        "epoch": 1580169600,
+        "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mediaarmor.com": {
         "epoch": 1584489600,
