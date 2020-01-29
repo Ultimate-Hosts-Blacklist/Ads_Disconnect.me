@@ -1545,9 +1545,9 @@
         "state": "future"
     },
     "avsads.com": {
-        "epoch": 1580256000,
+        "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "awempire.com": {
         "epoch": 1606780800,
@@ -2095,8 +2095,8 @@
         "state": "future"
     },
     "chitika.com": {
-        "epoch": 1580256000,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "chitika.net": {
@@ -5805,8 +5805,8 @@
         "state": "future"
     },
     "sexcounter.com": {
-        "epoch": 1580256000,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "sexinyourcity.com": {
