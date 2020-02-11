@@ -3873,7 +3873,10 @@
         "ads.gradfinder.com",
         "banner-link.com.br",
         "adserver.43plc.com",
-        "ads.newsquest.co.uk"
+        "ads.newsquest.co.uk",
+        "ads.brabys.com",
+        "a.aproductmsg.com",
+        "banners.babylon-x.com"
     ],
     "INACTIVE": [
         "www.rotabanner.com",
@@ -4297,10 +4300,41 @@
         "stats.directnic.com",
         "emonitor.takeit.cz",
         "ad.twitchguru.com",
-        "adsremote.scrippsnetworks.com"
+        "adsremote.scrippsnetworks.com",
+        "ads.betfair.com.au",
+        "wads.webteh.com",
+        "zde-affinity.edgecaching.net",
+        "c.compete.com",
+        "bannerexchange.cjb.net",
+        "ads.cricbuzz.com",
+        "affiliates.internationaljock.com",
+        "ads1.theglobeandmail.com",
+        "jnova.cjt1.net",
+        "trafficcdn.liveuniversenetwork.com",
+        "t.pusk.ru",
+        "images.v3.com",
+        "ads.returnpath.net",
+        "smartbase.cdnservices.com",
+        "ads.linuxsecurity.com",
+        "banner.jobsahead.com",
+        "ads.iafrica.com",
+        "adi.mainichi.co.jp",
+        "b.engadget.com",
+        "stats.surfaid.ihost.com",
+        "ad1.emediate.dk",
+        "ads.resoom.de",
+        "ads.s3.sitepoint.com",
+        "bigads.guj.de",
+        "adserv.quality-channel.de",
+        "banners.apnuk.com",
+        "ad.afy11.net",
+        "assets.loomia.com",
+        "ad.onad.eu"
     ],
     "INVALID": [
         "accounts.pkr.com.invalid",
-        "seeq.com.invalid"
+        "seeq.com.invalid",
+        "iliillliO00OO0.321.cn",
+        "bravenet.com.invalid"
     ]
 }
