@@ -2320,9 +2320,9 @@
         "state": "future"
     },
     "comclick.com": {
-        "epoch": 1581465600,
+        "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "commissionmonster.com": {
         "epoch": 1604534400,
