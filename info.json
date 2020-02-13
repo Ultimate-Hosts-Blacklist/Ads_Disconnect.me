@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 5,
+        "builds": 6,
         "counter": {
-            "down": 92,
+            "down": 119,
             "invalid": 0,
-            "tested": 2241,
-            "up": 2149
+            "tested": 2794,
+            "up": 2675
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Wed Feb 12 20:13:22 2020",
     "end_epoch": 1581538402.70311,
-    "last_autosave_datetime": "Thu Feb 13 14:42:04 2020",
-    "last_autosave_epoch": 1581604924.530181,
+    "last_autosave_datetime": "Thu Feb 13 15:29:33 2020",
+    "last_autosave_epoch": 1581607773.497448,
     "name": "Ads_Disconnect.me",
     "previous_stats": {
         "builds": 11,
