@@ -755,9 +755,9 @@
         "state": "future"
     },
     "adperium.com": {
-        "epoch": 1581897600,
+        "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adplus.co.id": {
         "epoch": 1619308800,
@@ -3755,8 +3755,8 @@
         "state": "future"
     },
     "iperceptions.com": {
-        "epoch": 1581811200,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
         "state": "future"
     },
     "ipro.com": {
