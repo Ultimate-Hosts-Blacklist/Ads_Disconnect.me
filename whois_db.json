@@ -4815,9 +4815,9 @@
         "state": "future"
     },
     "offerforge.com": {
-        "epoch": 1582329600,
+        "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "offerfusion.com": {
         "epoch": 1741651200,
