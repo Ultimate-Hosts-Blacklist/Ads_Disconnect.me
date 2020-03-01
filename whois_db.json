@@ -2792,7 +2792,7 @@
     "emediate.dk": {
         "epoch": 1582934400.0,
         "expiration_date": "29-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "engagebdr.com": {
         "epoch": 1611273600.0,
@@ -7210,8 +7210,8 @@
         "state": "future"
     },
     "zanox.com": {
-        "epoch": 1583020800,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
         "state": "future"
     },
     "zantracker.com": {
