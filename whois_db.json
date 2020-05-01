@@ -1185,7 +1185,7 @@
         "state": "future"
     },
     "adviva.net": {
-        "epoch": 1597449600,
+        "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
@@ -1550,7 +1550,7 @@
         "state": "future"
     },
     "awempire.com": {
-        "epoch": 1606780800,
+        "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
@@ -1930,7 +1930,7 @@
         "state": "future"
     },
     "bvalphaserver.com": {
-        "epoch": 1598745600,
+        "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
@@ -2195,7 +2195,7 @@
         "state": "future"
     },
     "clickcompare.co.uk": {
-        "epoch": 1614470400,
+        "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
         "state": "future"
     },
@@ -2635,7 +2635,7 @@
         "state": "future"
     },
     "dnps.com": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
@@ -2690,7 +2690,7 @@
         "state": "future"
     },
     "e-debtconsolidation.com": {
-        "epoch": 1602720000,
+        "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
@@ -3395,9 +3395,9 @@
         "state": "future"
     },
     "hitcents.com": {
-        "epoch": 11578009600,
+        "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitexchange.net": {
         "epoch": 1597104000.0,
@@ -4945,7 +4945,7 @@
         "state": "past"
     },
     "out-there-media.com": {
-        "epoch": 1635120000,
+        "epoch": 1635120000.0,
         "expiration_date": "25-oct-2021",
         "state": "future"
     },
@@ -6610,7 +6610,7 @@
         "state": "future"
     },
     "truehits.net": {
-        "epoch": 1660003200,
+        "epoch": 1660003200.0,
         "expiration_date": "09-aug-2022",
         "state": "future"
     },
@@ -6785,8 +6785,8 @@
         "state": "future"
     },
     "vertadnet.com": {
-        "epoch": 1586304000,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "veruta.com": {
@@ -6945,8 +6945,8 @@
         "state": "future"
     },
     "webtrackerplus.com": {
-        "epoch": 1587859200,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "webtraffic.se": {
