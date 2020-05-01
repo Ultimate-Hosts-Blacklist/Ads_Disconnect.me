@@ -835,7 +835,7 @@
         "state": "future"
     },
     "ads4homes.com": {
-        "epoch": 1602028800,
+        "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
@@ -1010,7 +1010,7 @@
         "state": "future"
     },
     "adsymptotic.com": {
-        "epoch": 1694217600,
+        "epoch": 1694217600.0,
         "expiration_date": "09-sep-2023",
         "state": "future"
     },
@@ -1115,7 +1115,7 @@
         "state": "future"
     },
     "adverticum.com": {
-        "epoch": 1601596800,
+        "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
@@ -1155,7 +1155,7 @@
         "state": "future"
     },
     "advertmarket.com": {
-        "epoch": 1598400000,
+        "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
@@ -1290,7 +1290,7 @@
         "state": "future"
     },
     "affiliation-france.com": {
-        "epoch": 1597881600,
+        "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
@@ -1520,7 +1520,7 @@
         "state": "future"
     },
     "auctionads.net": {
-        "epoch": 1597795200,
+        "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
@@ -1570,8 +1570,8 @@
         "state": "future"
     },
     "b4psads.com": {
-        "epoch": 1588204800,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1619740800.0,
+        "expiration_date": "30-apr-2021",
         "state": "future"
     },
     "backbeatmedia.com": {
@@ -1675,7 +1675,7 @@
         "state": "future"
     },
     "bbelements.com": {
-        "epoch": 1590710400,
+        "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
         "state": "future"
     },
@@ -1775,7 +1775,7 @@
         "state": "future"
     },
     "bitmedianetwork.com": {
-        "epoch": 1594512000,
+        "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
@@ -1920,7 +1920,7 @@
         "state": "future"
     },
     "buysellads.com": {
-        "epoch": 1825113600,
+        "epoch": 1825113600.0,
         "expiration_date": "02-nov-2027",
         "state": "future"
     },
@@ -2340,8 +2340,8 @@
         "state": "future"
     },
     "comprabanner.it": {
-        "epoch": 1583452800,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "connextra.com": {
@@ -2395,7 +2395,7 @@
         "state": "future"
     },
     "cpays.com": {
-        "epoch": 1617235200,
+        "epoch": 1617235200.0,
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
@@ -3155,7 +3155,7 @@
         "state": "future"
     },
     "fwmrm.net": {
-        "epoch": 1636761600,
+        "epoch": 1636761600.0,
         "expiration_date": "13-nov-2021",
         "state": "future"
     },
@@ -3215,7 +3215,7 @@
         "state": "future"
     },
     "geovisite.com": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
@@ -3255,8 +3255,8 @@
         "state": "future"
     },
     "goadservices.com": {
-        "epoch": 1583971200,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "goingplatinum.com": {
@@ -3365,7 +3365,7 @@
         "state": "future"
     },
     "hgads.com": {
-        "epoch": 1599091200,
+        "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
@@ -3455,7 +3455,7 @@
         "state": "future"
     },
     "hotlog.ru": {
-        "epoch": 1609372800,
+        "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
         "state": "future"
     },
@@ -3795,7 +3795,7 @@
         "state": "future"
     },
     "jatxt.com": {
-        "epoch": 1603670400,
+        "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
@@ -3890,7 +3890,7 @@
         "state": "future"
     },
     "lbn.ru": {
-        "epoch": 1588377600,
+        "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
         "state": "future"
     },
@@ -4240,8 +4240,8 @@
         "state": "future"
     },
     "mediaplazza.com": {
-        "epoch": 1587859200,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "mediaplex.com": {
@@ -4385,7 +4385,7 @@
         "state": "future"
     },
     "mmismm.com": {
-        "epoch": 1590796800,
+        "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
         "state": "future"
     },
@@ -4700,8 +4700,8 @@
         "state": "future"
     },
     "nedstatpro.net": {
-        "epoch": 1583280000,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "nend.net": {
@@ -5345,7 +5345,7 @@
         "state": "future"
     },
     "protraffic.com": {
-        "epoch": 1590105600,
+        "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
         "state": "future"
     },
@@ -5845,7 +5845,7 @@
         "state": "future"
     },
     "sharepointads.com": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -6215,7 +6215,7 @@
         "state": "future"
     },
     "targetnet.com": {
-        "epoch": 1594166400,
+        "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
@@ -6405,7 +6405,7 @@
         "state": "future"
     },
     "topping.com.ua": {
-        "epoch": 1603929600,
+        "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
@@ -6445,7 +6445,7 @@
         "state": "future"
     },
     "touchads.com": {
-        "epoch": 1590710400,
+        "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
         "state": "future"
     },
@@ -6545,8 +6545,8 @@
         "state": "future"
     },
     "trafficswarm.com": {
-        "epoch": 1584748800,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "traffictrader.net": {
