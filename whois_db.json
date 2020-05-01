@@ -1030,7 +1030,7 @@
         "state": "future"
     },
     "adtegrity.net": {
-        "epoch": 1632441600,
+        "epoch": 1632441600.0,
         "expiration_date": "24-sep-2021",
         "state": "future"
     },
@@ -1065,7 +1065,7 @@
         "state": "future"
     },
     "adtrace.org": {
-        "epoch": 1601942400,
+        "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
@@ -1445,8 +1445,8 @@
         "state": "future"
     },
     "appsdt.com": {
-        "epoch": 1585872000,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1648944000.0,
+        "expiration_date": "03-apr-2022",
         "state": "future"
     },
     "appsfire.com": {
@@ -1865,7 +1865,7 @@
         "state": "future"
     },
     "braincash.com": {
-        "epoch": 1589241600,
+        "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
         "state": "future"
     },
@@ -1980,7 +1980,7 @@
         "state": "future"
     },
     "cashengines.com": {
-        "epoch": 1597536000,
+        "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
         "state": "future"
     },
@@ -2360,7 +2360,7 @@
         "state": "future"
     },
     "conversantmedia.com": {
-        "epoch": 1592438400,
+        "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
@@ -3410,7 +3410,7 @@
         "state": "future"
     },
     "hitiz.com": {
-        "epoch": 1588464000,
+        "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
         "state": "future"
     },
@@ -3630,8 +3630,8 @@
         "state": "future"
     },
     "imrworldwide.com": {
-        "epoch": 1585699200,
-        "expiration_date": "01-apr-2020",
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "inboxdollars.com": {
@@ -3690,7 +3690,7 @@
         "state": "future"
     },
     "inner-active.mobi": {
-        "epoch": 1602374400,
+        "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
@@ -4030,7 +4030,7 @@
         "state": "future"
     },
     "liveintent.com": {
-        "epoch": 1678060800,
+        "epoch": 1678060800.0,
         "expiration_date": "06-mar-2023",
         "state": "future"
     },
@@ -4410,7 +4410,7 @@
         "state": "future"
     },
     "mobday.com": {
-        "epoch": 1595548800,
+        "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
@@ -4860,7 +4860,7 @@
         "state": "future"
     },
     "onenetworkdirect.com": {
-        "epoch": 1598832000,
+        "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
@@ -6045,8 +6045,8 @@
         "state": "future"
     },
     "stat.pl": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "stat.su": {
@@ -6080,8 +6080,8 @@
         "state": "future"
     },
     "statxpress.com": {
-        "epoch": 1584576000,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "steelhouse.com": {
@@ -7260,7 +7260,7 @@
         "state": "future"
     },
     "zumobi.com": {
-        "epoch": 1588636800,
+        "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
         "state": "future"
     }
