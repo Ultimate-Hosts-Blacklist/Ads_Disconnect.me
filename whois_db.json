@@ -1935,9 +1935,9 @@
         "state": "future"
     },
     "callfire.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "callloop.com": {
         "epoch": 1617321600.0,
@@ -4405,8 +4405,8 @@
         "state": "future"
     },
     "mobclix.com": {
-        "epoch": 1584921600,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "mobday.com": {
@@ -6805,7 +6805,7 @@
         "state": "future"
     },
     "vibrantmedia.com": {
-        "epoch": 1612915200,
+        "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
