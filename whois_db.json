@@ -1150,7 +1150,7 @@
         "state": "future"
     },
     "advertisingbox.com": {
-        "epoch": 1604188800,
+        "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
@@ -1255,7 +1255,7 @@
         "state": "future"
     },
     "affili.net": {
-        "epoch": 1665014400,
+        "epoch": 1665014400.0,
         "expiration_date": "06-oct-2022",
         "state": "future"
     },
@@ -1270,7 +1270,7 @@
         "state": "future"
     },
     "affiliatetracking.com": {
-        "epoch": 1649548800,
+        "epoch": 1649548800.0,
         "expiration_date": "10-apr-2022",
         "state": "future"
     },
@@ -1350,8 +1350,8 @@
         "state": "future"
     },
     "allstarmediagroup.com": {
-        "epoch": 1585612800,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "amazingcounters.com": {
@@ -1460,7 +1460,7 @@
         "state": "future"
     },
     "appsnack.com": {
-        "epoch": 1598572800,
+        "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
@@ -1940,8 +1940,8 @@
         "state": "past"
     },
     "callloop.com": {
-        "epoch": 1585785600,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "caniamedia.com": {
@@ -2155,7 +2155,7 @@
         "state": "future"
     },
     "clickability.com": {
-        "epoch": 1603670400,
+        "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
@@ -2200,7 +2200,7 @@
         "state": "future"
     },
     "clickdensity.com": {
-        "epoch": 1615075200,
+        "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
         "state": "future"
     },
@@ -2365,7 +2365,7 @@
         "state": "future"
     },
     "conversionruler.com": {
-        "epoch": 1599955200,
+        "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
@@ -2415,7 +2415,7 @@
         "state": "future"
     },
     "cpxinteractive.com": {
-        "epoch": 1602979200,
+        "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
@@ -2540,8 +2540,8 @@
         "state": "future"
     },
     "dc-storm.com": {
-        "epoch": 1585008000,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "de17a.com": {
@@ -3105,7 +3105,7 @@
         "state": "future"
     },
     "freemyapps.com": {
-        "epoch": 1588464000,
+        "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
         "state": "future"
     },
@@ -3780,8 +3780,8 @@
         "state": "future"
     },
     "its-that-easy.com": {
-        "epoch": 1585785600,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "itsptp.com": {
@@ -3870,7 +3870,7 @@
         "state": "future"
     },
     "komoona.com": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
@@ -3905,7 +3905,7 @@
         "state": "future"
     },
     "leadboltads.net": {
-        "epoch": 1667260800,
+        "epoch": 1667260800.0,
         "expiration_date": "01-nov-2022",
         "state": "future"
     },
@@ -4395,7 +4395,7 @@
         "state": "future"
     },
     "moatads.com": {
-        "epoch": 1649376000,
+        "epoch": 1649376000.0,
         "expiration_date": "08-apr-2022",
         "state": "future"
     },
@@ -4630,7 +4630,7 @@
         "state": "future"
     },
     "mystat-in.net": {
-        "epoch": 1620950400,
+        "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
         "state": "future"
     },
@@ -5155,7 +5155,7 @@
         "state": "future"
     },
     "play4traffic.com": {
-        "epoch": 1594166400,
+        "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
@@ -5445,7 +5445,7 @@
         "state": "future"
     },
     "rank-master.com": {
-        "epoch": 1598227200,
+        "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
@@ -6170,7 +6170,7 @@
         "state": "future"
     },
     "tailsweep.se": {
-        "epoch": 1598659200,
+        "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
@@ -6225,7 +6225,7 @@
         "state": "future"
     },
     "targetspot.com": {
-        "epoch": 1595721600,
+        "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
