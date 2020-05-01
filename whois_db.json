@@ -1165,7 +1165,7 @@
         "state": "future"
     },
     "advertstream.com": {
-        "epoch": 1606348800,
+        "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
@@ -3395,9 +3395,9 @@
         "state": "future"
     },
     "hitcents.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
-        "state": "past"
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
     },
     "hitexchange.net": {
         "epoch": 1597104000.0,
@@ -3590,7 +3590,7 @@
         "state": "future"
     },
     "imagecash.net": {
-        "epoch": 1588723200,
+        "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
         "state": "future"
     },
@@ -3765,7 +3765,7 @@
         "state": "future"
     },
     "ireklama.cz": {
-        "epoch": 1603497600,
+        "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
@@ -4320,7 +4320,7 @@
         "state": "future"
     },
     "mgid.com": {
-        "epoch": 1609286400,
+        "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
@@ -4780,7 +4780,7 @@
         "state": "future"
     },
     "newtopsites.com": {
-        "epoch": 1602720000,
+        "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
@@ -4920,7 +4920,7 @@
         "state": "future"
     },
     "openx.com": {
-        "epoch": 1604707200,
+        "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
@@ -5335,8 +5335,8 @@
         "state": "future"
     },
     "protexting.com": {
-        "epoch": 1587772800,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "proton-tm.com": {
@@ -5620,7 +5620,7 @@
         "state": "future"
     },
     "rightstats.com": {
-        "epoch": 1608249600,
+        "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
         "state": "future"
     },
@@ -6395,7 +6395,7 @@
         "state": "future"
     },
     "toplistcity.com": {
-        "epoch": 1600473600,
+        "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
         "state": "future"
     },
@@ -6825,7 +6825,7 @@
         "state": "future"
     },
     "visistat.com": {
-        "epoch": 1597708800,
+        "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
