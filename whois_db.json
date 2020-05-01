@@ -1575,7 +1575,7 @@
         "state": "future"
     },
     "backbeatmedia.com": {
-        "epoch": 1597795200,
+        "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
@@ -1785,7 +1785,7 @@
         "state": "future"
     },
     "blast4traffic.com": {
-        "epoch": 1597622400,
+        "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
@@ -2255,8 +2255,8 @@
         "state": "future"
     },
     "clicktrade.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
         "state": "future"
     },
     "clickxchange.com": {
@@ -3235,7 +3235,7 @@
         "state": "future"
     },
     "globaltrack.com": {
-        "epoch": 1614729600,
+        "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
         "state": "future"
     },
