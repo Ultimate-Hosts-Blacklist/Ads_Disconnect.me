@@ -2405,7 +2405,7 @@
         "state": "future"
     },
     "cpmstar.com": {
-        "epoch": 1629590400,
+        "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
         "state": "future"
     },
@@ -3205,8 +3205,8 @@
         "state": "future"
     },
     "gayadnetwork.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "gemius.pl": {
@@ -4730,9 +4730,9 @@
         "state": "future"
     },
     "netclickstats.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "netcommunities.com": {
         "epoch": 1614211200.0,
@@ -6300,8 +6300,8 @@
         "state": "future"
     },
     "thinkupfront.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "thrnt.com": {
@@ -7182,7 +7182,7 @@
     "yoc-performance.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "yoc.mobi": {
         "epoch": 1603411200.0,
