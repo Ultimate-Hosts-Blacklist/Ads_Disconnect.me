@@ -1750,7 +1750,7 @@
         "state": "future"
     },
     "bigbangmedia.com": {
-        "epoch": 1604361600,
+        "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
@@ -3580,7 +3580,7 @@
         "state": "future"
     },
     "iloopmobile.com": {
-        "epoch": 1599868800,
+        "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
@@ -6637,7 +6637,7 @@
     "tvas-a.pw": {
         "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "tvmtracker.com": {
         "epoch": 1601856000.0,
