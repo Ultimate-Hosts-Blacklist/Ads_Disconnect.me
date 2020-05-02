@@ -3090,7 +3090,7 @@
         "state": "future"
     },
     "fpctraffic2.com": {
-        "epoch": 1645574400,
+        "epoch": 1645574400.0,
         "expiration_date": "23-feb-2022",
         "state": "future"
     },
@@ -6750,7 +6750,7 @@
         "state": "future"
     },
     "valuecommerce.com": {
-        "epoch": 1588464000,
+        "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
         "state": "future"
     },
