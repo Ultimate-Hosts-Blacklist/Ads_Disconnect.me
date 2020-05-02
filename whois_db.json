@@ -982,7 +982,7 @@
     "adsrevenue.net": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsrvr.org": {
         "epoch": 1616976000.0,
@@ -1070,7 +1070,7 @@
         "state": "future"
     },
     "adtrade.net": {
-        "epoch": 1600128000,
+        "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
