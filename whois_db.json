@@ -2350,7 +2350,7 @@
         "state": "future"
     },
     "contentabc.com": {
-        "epoch": 1628121600,
+        "epoch": 1628121600.0,
         "expiration_date": "05-aug-2021",
         "state": "future"
     },
@@ -3890,8 +3890,8 @@
         "state": "future"
     },
     "lbn.ru": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "leadaffiliates.com": {
@@ -4732,7 +4732,7 @@
     "netclickstats.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "netcommunities.com": {
         "epoch": 1614211200.0,
@@ -5692,7 +5692,7 @@
     "rubiconproject.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "s2d6.com": {
         "epoch": 1608595200.0,
