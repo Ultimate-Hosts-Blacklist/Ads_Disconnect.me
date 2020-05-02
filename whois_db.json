@@ -1410,7 +1410,7 @@
         "state": "future"
     },
     "appier.com": {
-        "epoch": 1598832000,
+        "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
@@ -3310,7 +3310,7 @@
         "state": "future"
     },
     "gtsmobi.com": {
-        "epoch": 1591660800,
+        "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
         "state": "future"
     },
