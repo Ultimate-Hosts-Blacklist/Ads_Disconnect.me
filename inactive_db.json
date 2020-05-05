@@ -94,8 +94,8 @@
         "ad.e-kolay.net": {
             "included_at_epoch": 1588361069.0,
             "included_at_iso": "2020-05-01T19:24:29",
-            "last_retested_at_epoch": 1588549265.192136,
-            "last_retested_at_iso": "2020-05-03T23:41:05.192136",
+            "last_retested_at_epoch": 1588650725.010832,
+            "last_retested_at_iso": "2020-05-05T03:52:05.010832",
             "status": "INACTIVE"
         },
         "ad.eurosport.com": {
@@ -115,8 +115,8 @@
         "ad.globe7.com": {
             "included_at_epoch": 1588512740.0,
             "included_at_iso": "2020-05-03T13:32:20",
-            "last_retested_at_epoch": 1588512740.0,
-            "last_retested_at_iso": "2020-05-03T13:32:20",
+            "last_retested_at_epoch": 1588650744.343294,
+            "last_retested_at_iso": "2020-05-05T03:52:24.343294",
             "status": "INACTIVE"
         },
         "ad.hodomobile.com": {
@@ -1578,8 +1578,8 @@
         "fragmentserv.iac-online.de": {
             "included_at_epoch": 1588455762.0,
             "included_at_iso": "2020-05-02T21:42:42",
-            "last_retested_at_epoch": 1588544067.329252,
-            "last_retested_at_iso": "2020-05-03T22:14:27.329252",
+            "last_retested_at_epoch": 1588650882.861494,
+            "last_retested_at_iso": "2020-05-05T03:54:42.861494",
             "status": "INACTIVE"
         },
         "gbanners.hornymatches.com": {
@@ -2271,8 +2271,8 @@
         "www.addealing.com": {
             "included_at_epoch": 1588469706.0,
             "included_at_iso": "2020-05-03T01:35:06",
-            "last_retested_at_epoch": 1588559791.40861,
-            "last_retested_at_iso": "2020-05-04T02:36:31.408610",
+            "last_retested_at_epoch": 1588650366.103764,
+            "last_retested_at_iso": "2020-05-05T03:46:06.103764",
             "status": "INACTIVE"
         },
         "www.addesktop.com": {
@@ -2546,6 +2546,13 @@
             "included_at_iso": "2020-05-03T12:47:10",
             "last_retested_at_epoch": 1588627450.809621,
             "last_retested_at_iso": "2020-05-04T21:24:10.809621",
+            "status": "INACTIVE"
+        },
+        "www.approstar.com": {
+            "included_at_epoch": 1588650574.759367,
+            "included_at_iso": "2020-05-05T03:49:34.759367",
+            "last_retested_at_epoch": 1588650574.759367,
+            "last_retested_at_iso": "2020-05-05T03:49:34.759367",
             "status": "INACTIVE"
         },
         "www.appsdt.com": {
@@ -3643,8 +3650,8 @@
         "www.primaryads.com": {
             "included_at_epoch": 1588413504.0,
             "included_at_iso": "2020-05-02T09:58:24",
-            "last_retested_at_epoch": 1588554158.452832,
-            "last_retested_at_iso": "2020-05-04T01:02:38.452832",
+            "last_retested_at_epoch": 1588650504.989719,
+            "last_retested_at_iso": "2020-05-05T03:48:24.989719",
             "status": "INACTIVE"
         },
         "www.promotion-campaigns.com": {
