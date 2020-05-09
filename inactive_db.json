@@ -1977,8 +1977,8 @@
         "stats.cts-bv.nl": {
             "included_at_epoch": 1588486688.0,
             "included_at_iso": "2020-05-03T06:18:08",
-            "last_retested_at_epoch": 1588778164.344566,
-            "last_retested_at_iso": "2020-05-06T15:16:04.344566",
+            "last_retested_at_epoch": 1589042911.346958,
+            "last_retested_at_iso": "2020-05-09T16:48:31.346958",
             "status": "INACTIVE"
         },
         "stats.directnic.com": {
@@ -2187,8 +2187,8 @@
         "www.ad-balancer.net": {
             "included_at_epoch": 1588503580.0,
             "included_at_iso": "2020-05-03T10:59:40",
-            "last_retested_at_epoch": 1588715396.278169,
-            "last_retested_at_iso": "2020-05-05T21:49:56.278169",
+            "last_retested_at_epoch": 1589043042.704337,
+            "last_retested_at_iso": "2020-05-09T16:50:42.704337",
             "status": "INACTIVE"
         },
         "www.ad-serverparc.nl": {
@@ -3447,8 +3447,8 @@
         "www.moversa.com": {
             "included_at_epoch": 1588483242.0,
             "included_at_iso": "2020-05-03T05:20:42",
-            "last_retested_at_epoch": 1588720315.973929,
-            "last_retested_at_iso": "2020-05-05T23:11:55.973929",
+            "last_retested_at_epoch": 1589043072.900997,
+            "last_retested_at_iso": "2020-05-09T16:51:12.900997",
             "status": "INACTIVE"
         },
         "www.mydas.mobi": {
@@ -3792,6 +3792,13 @@
             "included_at_iso": "2020-05-02T20:23:51",
             "last_retested_at_epoch": 1588991373.230367,
             "last_retested_at_iso": "2020-05-09T02:29:33.230367",
+            "status": "INACTIVE"
+        },
+        "www.rtbidder.net": {
+            "included_at_epoch": 1589043067.546984,
+            "included_at_iso": "2020-05-09T16:51:07.546984",
+            "last_retested_at_epoch": 1589043067.546984,
+            "last_retested_at_iso": "2020-05-09T16:51:07.546984",
             "status": "INACTIVE"
         },
         "www.rtbpop.com": {
@@ -4231,8 +4238,8 @@
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1588483042.0,
             "included_at_iso": "2020-05-03T05:17:22",
-            "last_retested_at_epoch": 1588781774.530264,
-            "last_retested_at_iso": "2020-05-06T16:16:14.530264",
+            "last_retested_at_epoch": 1589042859.592444,
+            "last_retested_at_iso": "2020-05-09T16:47:39.592444",
             "status": "INACTIVE"
         }
     }
