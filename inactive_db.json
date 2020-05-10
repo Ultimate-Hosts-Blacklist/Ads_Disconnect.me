@@ -346,8 +346,8 @@
         "ads.alwayson-network.com": {
             "included_at_epoch": 1588527711.0,
             "included_at_iso": "2020-05-03T17:41:51",
-            "last_retested_at_epoch": 1589023700.143102,
-            "last_retested_at_iso": "2020-05-09T11:28:20.143102",
+            "last_retested_at_epoch": 1589115925.827972,
+            "last_retested_at_iso": "2020-05-10T13:05:25.827972",
             "status": "INACTIVE"
         },
         "ads.aol.com": {
@@ -752,8 +752,8 @@
         "ads.nwsource.com": {
             "included_at_epoch": 1588516099.0,
             "included_at_iso": "2020-05-03T14:28:19",
-            "last_retested_at_epoch": 1589004667.827039,
-            "last_retested_at_iso": "2020-05-09T06:11:07.827039",
+            "last_retested_at_epoch": 1589115634.890315,
+            "last_retested_at_iso": "2020-05-10T13:00:34.890315",
             "status": "INACTIVE"
         },
         "ads.ole.com": {
@@ -815,8 +815,8 @@
         "ads.redtube.com": {
             "included_at_epoch": 1588455679.0,
             "included_at_iso": "2020-05-02T21:41:19",
-            "last_retested_at_epoch": 1588966674.019615,
-            "last_retested_at_iso": "2020-05-08T19:37:54.019615",
+            "last_retested_at_epoch": 1589115673.67821,
+            "last_retested_at_iso": "2020-05-10T13:01:13.678210",
             "status": "INACTIVE"
         },
         "ads.resoom.de": {
@@ -969,8 +969,8 @@
         "ads.wunderground.com": {
             "included_at_epoch": 1588516269.0,
             "included_at_iso": "2020-05-03T14:31:09",
-            "last_retested_at_epoch": 1588981415.218316,
-            "last_retested_at_iso": "2020-05-08T23:43:35.218316",
+            "last_retested_at_epoch": 1589115867.92964,
+            "last_retested_at_iso": "2020-05-10T13:04:27.929640",
             "status": "INACTIVE"
         },
         "ads.yourfreedvds.com": {
@@ -1137,8 +1137,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588527777.0,
             "included_at_iso": "2020-05-03T17:42:57",
-            "last_retested_at_epoch": 1588961767.787648,
-            "last_retested_at_iso": "2020-05-08T18:16:07.787648",
+            "last_retested_at_epoch": 1589115718.52107,
+            "last_retested_at_iso": "2020-05-10T13:01:58.521070",
             "status": "INACTIVE"
         },
         "adtrading.de": {
@@ -1886,8 +1886,8 @@
         "reefaquarium.biz": {
             "included_at_epoch": 1588409060.0,
             "included_at_iso": "2020-05-02T08:44:20",
-            "last_retested_at_epoch": 1589028308.518229,
-            "last_retested_at_iso": "2020-05-09T12:45:08.518229",
+            "last_retested_at_epoch": 1589115953.100654,
+            "last_retested_at_iso": "2020-05-10T13:05:53.100654",
             "status": "INACTIVE"
         },
         "reklama.reflektor.cz": {
@@ -2838,8 +2838,8 @@
         "www.creafi.com": {
             "included_at_epoch": 1588483211.0,
             "included_at_iso": "2020-05-03T05:20:11",
-            "last_retested_at_epoch": 1588986292.292775,
-            "last_retested_at_iso": "2020-05-09T01:04:52.292775",
+            "last_retested_at_epoch": 1589115559.121088,
+            "last_retested_at_iso": "2020-05-10T12:59:19.121088",
             "status": "INACTIVE"
         },
         "www.cybermonitor.com": {
@@ -3153,8 +3153,8 @@
         "www.i1img.com": {
             "included_at_epoch": 1588487157.0,
             "included_at_iso": "2020-05-03T06:25:57",
-            "last_retested_at_epoch": 1588995983.953237,
-            "last_retested_at_iso": "2020-05-09T03:46:23.953237",
+            "last_retested_at_epoch": 1589115816.76482,
+            "last_retested_at_iso": "2020-05-10T13:03:36.764820",
             "status": "INACTIVE"
         },
         "www.iasds01.com": {
@@ -3307,8 +3307,8 @@
         "www.linkshighway.net": {
             "included_at_epoch": 1588530391.0,
             "included_at_iso": "2020-05-03T18:26:31",
-            "last_retested_at_epoch": 1588995980.094029,
-            "last_retested_at_iso": "2020-05-09T03:46:20.094029",
+            "last_retested_at_epoch": 1589115491.833897,
+            "last_retested_at_iso": "2020-05-10T12:58:11.833897",
             "status": "INACTIVE"
         },
         "www.madisonavenue.com": {
@@ -3776,8 +3776,8 @@
         "www.reefaquarium.biz": {
             "included_at_epoch": 1588474780.0,
             "included_at_iso": "2020-05-03T02:59:40",
-            "last_retested_at_epoch": 1589028308.67676,
-            "last_retested_at_iso": "2020-05-09T12:45:08.676760",
+            "last_retested_at_epoch": 1589115953.340451,
+            "last_retested_at_iso": "2020-05-10T13:05:53.340451",
             "status": "INACTIVE"
         },
         "www.reklamer.com.ua": {
@@ -4077,15 +4077,15 @@
         "www.ultramercial.com": {
             "included_at_epoch": 1588512790.0,
             "included_at_iso": "2020-05-03T13:33:10",
-            "last_retested_at_epoch": 1589023515.224801,
-            "last_retested_at_iso": "2020-05-09T11:25:15.224801",
+            "last_retested_at_epoch": 1589115865.824649,
+            "last_retested_at_iso": "2020-05-10T13:04:25.824649",
             "status": "INACTIVE"
         },
         "www.ultsearch.com": {
             "included_at_epoch": 1588516371.0,
             "included_at_iso": "2020-05-03T14:32:51",
-            "last_retested_at_epoch": 1589018569.692308,
-            "last_retested_at_iso": "2020-05-09T10:02:49.692308",
+            "last_retested_at_epoch": 1589115672.645314,
+            "last_retested_at_iso": "2020-05-10T13:01:12.645314",
             "status": "INACTIVE"
         },
         "www.unanimis.co.uk": {
@@ -4231,8 +4231,8 @@
         "www.yieldads.com": {
             "included_at_epoch": 1588450989.0,
             "included_at_iso": "2020-05-02T20:23:09",
-            "last_retested_at_epoch": 1588966852.563547,
-            "last_retested_at_iso": "2020-05-08T19:40:52.563547",
+            "last_retested_at_epoch": 1589115622.849792,
+            "last_retested_at_iso": "2020-05-10T13:00:22.849792",
             "status": "INACTIVE"
         },
         "www.yoc.mobi": {
