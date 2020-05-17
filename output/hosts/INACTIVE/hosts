@@ -10,6 +10,7 @@
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 ad.globe7.com
 0.0.0.0 ad-images.suntimes.com
+0.0.0.0 adk2ads.tictacti.com
 0.0.0.0 adman.in.gr
 0.0.0.0 admob.comadwhirl.com
 0.0.0.0 ad.onad.eu
@@ -47,6 +48,7 @@
 0.0.0.0 adserv.evo-x.de
 0.0.0.0 adserv.gamezone.de
 0.0.0.0 adserv.iafrica.com
+0.0.0.0 adserv.qconline.com
 0.0.0.0 adserv.quality-channel.de
 0.0.0.0 ads.esmas.com
 0.0.0.0 ads.ezboard.com
@@ -69,6 +71,7 @@
 0.0.0.0 ads.newtention.net
 0.0.0.0 ads.nwsource.com
 0.0.0.0 ads.ookla.com
+0.0.0.0 ads.penny-arcade.com
 0.0.0.0 ads.pheedo.com
 0.0.0.0 ads.pkr.com
 0.0.0.0 ads.redtube.com
@@ -76,6 +79,7 @@
 0.0.0.0 ads.resoom.de
 0.0.0.0 ads.returnpath.net
 0.0.0.0 ads.rottentomatoes.com
+0.0.0.0 adsrv.eacdn.com
 0.0.0.0 ads.s3.sitepoint.com
 0.0.0.0 ads.slim.com
 0.0.0.0 ads.spoonfeduk.com
@@ -98,6 +102,8 @@
 0.0.0.0 adverts.carltononline.com
 0.0.0.0 adview.ppro.de
 0.0.0.0 ad.watch.impress.co.jp
+0.0.0.0 adworx.be
+0.0.0.0 adx.gainesvillesun.com
 0.0.0.0 affiliate.7host.com
 0.0.0.0 affiliate.mercola.com
 0.0.0.0 affiliates.internationaljock.com
@@ -137,6 +143,7 @@
 0.0.0.0 fb-promotions.com
 0.0.0.0 fonecta.leiki.com
 0.0.0.0 fragmentserv.iac-online.de
+0.0.0.0 gbanners.hornymatches.com
 0.0.0.0 hit-ranking.de
 0.0.0.0 images.v3.com
 0.0.0.0 jbeet.cjt1.net
@@ -166,6 +173,7 @@
 0.0.0.0 rythmxchange.com
 0.0.0.0 sexaddpro.de
 0.0.0.0 sitebrand.geeks.com
+0.0.0.0 sma.punto.net
 0.0.0.0 smartbase.cdnservices.com
 0.0.0.0 stats.cts-bv.nl
 0.0.0.0 stats.directnic.com
@@ -179,6 +187,8 @@
 0.0.0.0 topbarh.box.sk
 0.0.0.0 t.pusk.ru
 0.0.0.0 tracking.yourfilehost.com
+0.0.0.0 trafficcdn.liveuniversenetwork.com
+0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tvas-c.pw
 0.0.0.0 usmsad.tom.com
 0.0.0.0 wads.webteh.com
@@ -199,11 +209,14 @@
 0.0.0.0 www.adservinginternational.com
 0.0.0.0 www.adsfac.net
 0.0.0.0 www.adsfac.us
+0.0.0.0 www.adsnative.com
 0.0.0.0 www.adsonar.com
 0.0.0.0 www.ad-souk.com
 0.0.0.0 www.adswitcher.com
 0.0.0.0 www.adtoll.com
+0.0.0.0 www.adtrak.net
 0.0.0.0 www.adwitserver.com
+0.0.0.0 www.adworx.be
 0.0.0.0 www.affiliatefuel.com
 0.0.0.0 www.aistat.net
 0.0.0.0 www.alclick.com
@@ -215,6 +228,7 @@
 0.0.0.0 www.appsfire.net
 0.0.0.0 www.arcadebanners.com
 0.0.0.0 www.atwola.com
+0.0.0.0 www.autohits.dk
 0.0.0.0 www.azfront.com
 0.0.0.0 www.btrll.com
 0.0.0.0 www.budsinc.com
@@ -237,10 +251,12 @@
 0.0.0.0 www.displayadsmedia.com
 0.0.0.0 www.domainsteam.de
 0.0.0.0 www.domdex.com
+0.0.0.0 www.ebuzzing.com
 0.0.0.0 www.ethicalads.net
 0.0.0.0 www.exitexchange.com
 0.0.0.0 www.exogripper.com
 0.0.0.0 www.eyeblaster.com
+0.0.0.0 www.eyeviewads.com
 0.0.0.0 www.fb-promotions.com
 0.0.0.0 www.fimc.net
 0.0.0.0 www.globaltakeoff.net
@@ -267,6 +283,7 @@
 0.0.0.0 www.maroonspider.com
 0.0.0.0 www.mdotm.com
 0.0.0.0 www.mediadvertising.ro
+0.0.0.0 www.medialets.com
 0.0.0.0 www.megago.com
 0.0.0.0 www.mixtraffic.com
 0.0.0.0 www.moadnet.com
@@ -292,6 +309,7 @@
 0.0.0.0 www.paypopup.com
 0.0.0.0 www.pgmediaserve.com
 0.0.0.0 www.picadmedia.com
+0.0.0.0 www.playhaven.com
 0.0.0.0 www.pop-under.ru
 0.0.0.0 www.pr5dir.com
 0.0.0.0 www.precisioncounter.com
@@ -314,18 +332,22 @@
 0.0.0.0 www.sitestat.com
 0.0.0.0 www.slopeaota.com
 0.0.0.0 www.snapads.com
+0.0.0.0 www.spywords.com
 0.0.0.0 www.stat.su
 0.0.0.0 www.suavalds.com
 0.0.0.0 www.suptullog.com
+0.0.0.0 www.swissadsolutions.com
 0.0.0.0 www.tacoda.net
 0.0.0.0 www.tailsweep.co.uk
 0.0.0.0 www.theads.me
+0.0.0.0 www.thrnt.com
 0.0.0.0 www.tizers.net
 0.0.0.0 www.top66.ro
 0.0.0.0 www.topsafelist.net
 0.0.0.0 www.trafficspaces.net
 0.0.0.0 www.trafficz.net
 0.0.0.0 www.tvas-c.pw
+0.0.0.0 www.ultramercial.com
 0.0.0.0 www.ultsearch.com
 0.0.0.0 www.vertadnet.com
 0.0.0.0 www.webangel.ru
