@@ -1396,8 +1396,8 @@
         "banners.directnic.com": {
             "included_at_epoch": 1588497091.0,
             "included_at_iso": "2020-05-03T09:11:31",
-            "last_retested_at_epoch": 1589492647.940292,
-            "last_retested_at_iso": "2020-05-14T21:44:07.940292",
+            "last_retested_at_epoch": 1589783416.491884,
+            "last_retested_at_iso": "2020-05-18T06:30:16.491884",
             "status": "INACTIVE"
         },
         "banners.easydns.com": {
@@ -1592,8 +1592,8 @@
         "euro-linkindex.de": {
             "included_at_epoch": 1588446581.0,
             "included_at_iso": "2020-05-02T19:09:41",
-            "last_retested_at_epoch": 1589483358.377495,
-            "last_retested_at_iso": "2020-05-14T19:09:18.377495",
+            "last_retested_at_epoch": 1589783518.797574,
+            "last_retested_at_iso": "2020-05-18T06:31:58.797574",
             "status": "INACTIVE"
         },
         "exchange.bg": {
@@ -3027,15 +3027,15 @@
         "www.euro-linkindex.de": {
             "included_at_epoch": 1588451188.0,
             "included_at_iso": "2020-05-02T20:26:28",
-            "last_retested_at_epoch": 1589483358.376562,
-            "last_retested_at_iso": "2020-05-14T19:09:18.376562",
+            "last_retested_at_epoch": 1589783518.911355,
+            "last_retested_at_iso": "2020-05-18T06:31:58.911355",
             "status": "INACTIVE"
         },
         "www.euroclick.com": {
             "included_at_epoch": 1588409188.0,
             "included_at_iso": "2020-05-02T08:46:28",
-            "last_retested_at_epoch": 1589496937.476161,
-            "last_retested_at_iso": "2020-05-14T22:55:37.476161",
+            "last_retested_at_epoch": 1589783771.243337,
+            "last_retested_at_iso": "2020-05-18T06:36:11.243337",
             "status": "INACTIVE"
         },
         "www.exchange.bg": {
@@ -3608,8 +3608,8 @@
         "www.onclasrv.com": {
             "included_at_epoch": 1588494078.0,
             "included_at_iso": "2020-05-03T08:21:18",
-            "last_retested_at_epoch": 1589523094.916896,
-            "last_retested_at_iso": "2020-05-15T06:11:34.916896",
+            "last_retested_at_epoch": 1589783549.447194,
+            "last_retested_at_iso": "2020-05-18T06:32:29.447194",
             "status": "INACTIVE"
         },
         "www.onewaylinkexchange.net": {
