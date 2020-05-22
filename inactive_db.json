@@ -164,8 +164,8 @@
         "ad.slutload.com": {
             "included_at_epoch": 1588500333.0,
             "included_at_iso": "2020-05-03T10:05:33",
-            "last_retested_at_epoch": 1590061058.400528,
-            "last_retested_at_iso": "2020-05-21T11:37:38.400528",
+            "last_retested_at_epoch": 1590148830.788965,
+            "last_retested_at_iso": "2020-05-22T12:00:30.788965",
             "status": "INACTIVE"
         },
         "ad.tbn.ru": {
@@ -374,8 +374,8 @@
         "ads.batpmturner.com": {
             "included_at_epoch": 1588474575.0,
             "included_at_iso": "2020-05-03T02:56:15",
-            "last_retested_at_epoch": 1590061130.558504,
-            "last_retested_at_iso": "2020-05-21T11:38:50.558504",
+            "last_retested_at_epoch": 1590148979.499152,
+            "last_retested_at_iso": "2020-05-22T12:02:59.499152",
             "status": "INACTIVE"
         },
         "ads.beenetworks.net": {
@@ -647,8 +647,8 @@
         "ads.groundspeak.com": {
             "included_at_epoch": 1588497378.0,
             "included_at_iso": "2020-05-03T09:16:18",
-            "last_retested_at_epoch": 1590060889.030301,
-            "last_retested_at_iso": "2020-05-21T11:34:49.030301",
+            "last_retested_at_epoch": 1590149094.031931,
+            "last_retested_at_iso": "2020-05-22T12:04:54.031931",
             "status": "INACTIVE"
         },
         "ads.hardwaresecrets.com": {
@@ -836,8 +836,8 @@
         "ads.redtube.com": {
             "included_at_epoch": 1588455679.0,
             "included_at_iso": "2020-05-02T21:41:19",
-            "last_retested_at_epoch": 1590060678.002271,
-            "last_retested_at_iso": "2020-05-21T11:31:18.002271",
+            "last_retested_at_epoch": 1590149277.680544,
+            "last_retested_at_iso": "2020-05-22T12:07:57.680544",
             "status": "INACTIVE"
         },
         "ads.resoom.de": {
@@ -1032,8 +1032,8 @@
         "adserv.iafrica.com": {
             "included_at_epoch": 1588497318.0,
             "included_at_iso": "2020-05-03T09:15:18",
-            "last_retested_at_epoch": 1590061159.945045,
-            "last_retested_at_iso": "2020-05-21T11:39:19.945045",
+            "last_retested_at_epoch": 1590149235.852125,
+            "last_retested_at_iso": "2020-05-22T12:07:15.852125",
             "status": "INACTIVE"
         },
         "adserv.qconline.com": {
@@ -1200,8 +1200,8 @@
         "adview.ppro.de": {
             "included_at_epoch": 1588469915.0,
             "included_at_iso": "2020-05-03T01:38:35",
-            "last_retested_at_epoch": 1590061137.757487,
-            "last_retested_at_iso": "2020-05-21T11:38:57.757487",
+            "last_retested_at_epoch": 1590148823.513283,
+            "last_retested_at_iso": "2020-05-22T12:00:23.513283",
             "status": "INACTIVE"
         },
         "adworx.be": {
@@ -1305,22 +1305,22 @@
         "b.engadget.com": {
             "included_at_epoch": 1588494341.0,
             "included_at_iso": "2020-05-03T08:25:41",
-            "last_retested_at_epoch": 1590055670.069623,
-            "last_retested_at_iso": "2020-05-21T10:07:50.069623",
+            "last_retested_at_epoch": 1590149118.311709,
+            "last_retested_at_iso": "2020-05-22T12:05:18.311709",
             "status": "INACTIVE"
         },
         "banner.alphacool.de": {
             "included_at_epoch": 1588479073.0,
             "included_at_iso": "2020-05-03T04:11:13",
-            "last_retested_at_epoch": 1590032313.41349,
-            "last_retested_at_iso": "2020-05-21T03:38:33.413490",
+            "last_retested_at_epoch": 1590149132.445983,
+            "last_retested_at_iso": "2020-05-22T12:05:32.445983",
             "status": "INACTIVE"
         },
         "banner.blogranking.net": {
             "included_at_epoch": 1588455764.0,
             "included_at_iso": "2020-05-02T21:42:44",
-            "last_retested_at_epoch": 1590060902.452757,
-            "last_retested_at_iso": "2020-05-21T11:35:02.452757",
+            "last_retested_at_epoch": 1590148763.227628,
+            "last_retested_at_iso": "2020-05-22T11:59:23.227628",
             "status": "INACTIVE"
         },
         "banner.featuredusers.com": {
@@ -1571,8 +1571,8 @@
         "dnads.directnic.com": {
             "included_at_epoch": 1588500848.0,
             "included_at_iso": "2020-05-03T10:14:08",
-            "last_retested_at_epoch": 1590056100.872075,
-            "last_retested_at_iso": "2020-05-21T10:15:00.872075",
+            "last_retested_at_epoch": 1590149129.3219,
+            "last_retested_at_iso": "2020-05-22T12:05:29.321900",
             "status": "INACTIVE"
         },
         "emonitor.takeit.cz": {
@@ -1627,8 +1627,8 @@
         "fragmentserv.iac-online.de": {
             "included_at_epoch": 1588455762.0,
             "included_at_iso": "2020-05-02T21:42:42",
-            "last_retested_at_epoch": 1590027597.972848,
-            "last_retested_at_iso": "2020-05-21T02:19:57.972848",
+            "last_retested_at_epoch": 1590148898.892983,
+            "last_retested_at_iso": "2020-05-22T12:01:38.892983",
             "status": "INACTIVE"
         },
         "gbanners.hornymatches.com": {
@@ -1725,8 +1725,8 @@
         "mads.aol.com": {
             "included_at_epoch": 1588451296.0,
             "included_at_iso": "2020-05-02T20:28:16",
-            "last_retested_at_epoch": 1590036931.541754,
-            "last_retested_at_iso": "2020-05-21T04:55:31.541754",
+            "last_retested_at_epoch": 1590149209.550247,
+            "last_retested_at_iso": "2020-05-22T12:06:49.550247",
             "status": "INACTIVE"
         },
         "memorix.sdv.fr": {
@@ -1872,8 +1872,8 @@
         "promo1.webcams.nl": {
             "included_at_epoch": 1588441701.0,
             "included_at_iso": "2020-05-02T17:48:21",
-            "last_retested_at_epoch": 1590022378.186146,
-            "last_retested_at_iso": "2020-05-21T00:52:58.186146",
+            "last_retested_at_epoch": 1590148877.654894,
+            "last_retested_at_iso": "2020-05-22T12:01:17.654894",
             "status": "INACTIVE"
         },
         "pub.chez.com": {
@@ -1893,8 +1893,8 @@
         "qwapi.apple.com": {
             "included_at_epoch": 1588464960.0,
             "included_at_iso": "2020-05-03T00:16:00",
-            "last_retested_at_epoch": 1590012380.664035,
-            "last_retested_at_iso": "2020-05-20T22:06:20.664035",
+            "last_retested_at_epoch": 1590148841.55306,
+            "last_retested_at_iso": "2020-05-22T12:00:41.553060",
             "status": "INACTIVE"
         },
         "rad.msn.com": {
@@ -2278,8 +2278,8 @@
         "www.adboost.net": {
             "included_at_epoch": 1588497535.0,
             "included_at_iso": "2020-05-03T09:18:55",
-            "last_retested_at_epoch": 1590027293.898184,
-            "last_retested_at_iso": "2020-05-21T02:14:53.898184",
+            "last_retested_at_epoch": 1590148973.399051,
+            "last_retested_at_iso": "2020-05-22T12:02:53.399051",
             "status": "INACTIVE"
         },
         "www.adbunker.com": {
@@ -2684,8 +2684,8 @@
         "www.atwola.com": {
             "included_at_epoch": 1588469907.0,
             "included_at_iso": "2020-05-03T01:38:27",
-            "last_retested_at_epoch": 1590061032.705692,
-            "last_retested_at_iso": "2020-05-21T11:37:12.705692",
+            "last_retested_at_epoch": 1590149182.764151,
+            "last_retested_at_iso": "2020-05-22T12:06:22.764151",
             "status": "INACTIVE"
         },
         "www.autohits.dk": {
@@ -2845,8 +2845,8 @@
         "www.clickhype.com": {
             "included_at_epoch": 1588486907.0,
             "included_at_iso": "2020-05-03T06:21:47",
-            "last_retested_at_epoch": 1590060936.143033,
-            "last_retested_at_iso": "2020-05-21T11:35:36.143033",
+            "last_retested_at_epoch": 1590148832.402142,
+            "last_retested_at_iso": "2020-05-22T12:00:32.402142",
             "status": "INACTIVE"
         },
         "www.clicksor.com": {
@@ -3041,8 +3041,8 @@
         "www.euroclick.com": {
             "included_at_epoch": 1588409188.0,
             "included_at_iso": "2020-05-02T08:46:28",
-            "last_retested_at_epoch": 1590036900.864086,
-            "last_retested_at_iso": "2020-05-21T04:55:00.864086",
+            "last_retested_at_epoch": 1590148948.297018,
+            "last_retested_at_iso": "2020-05-22T12:02:28.297018",
             "status": "INACTIVE"
         },
         "www.exchange.bg": {
@@ -3356,8 +3356,8 @@
         "www.lightningcast.net": {
             "included_at_epoch": 1588503919.0,
             "included_at_iso": "2020-05-03T11:05:19",
-            "last_retested_at_epoch": 1590051480.467043,
-            "last_retested_at_iso": "2020-05-21T08:58:00.467043",
+            "last_retested_at_epoch": 1590149237.372074,
+            "last_retested_at_iso": "2020-05-22T12:07:17.372074",
             "status": "INACTIVE"
         },
         "www.linkshighway.net": {
@@ -3419,8 +3419,8 @@
         "www.medyanetads.com": {
             "included_at_epoch": 1588506903.0,
             "included_at_iso": "2020-05-03T11:55:03",
-            "last_retested_at_epoch": 1590046300.338643,
-            "last_retested_at_iso": "2020-05-21T07:31:40.338643",
+            "last_retested_at_epoch": 1590148913.78917,
+            "last_retested_at_iso": "2020-05-22T12:01:53.789170",
             "status": "INACTIVE"
         },
         "www.megago.com": {
@@ -3552,8 +3552,8 @@
         "www.nedstat.com": {
             "included_at_epoch": 1588486801.0,
             "included_at_iso": "2020-05-03T06:20:01",
-            "last_retested_at_epoch": 1590042029.129923,
-            "last_retested_at_iso": "2020-05-21T06:20:29.129923",
+            "last_retested_at_epoch": 1590148864.357378,
+            "last_retested_at_iso": "2020-05-22T12:01:04.357378",
             "status": "INACTIVE"
         },
         "www.nedstat.nl": {
@@ -3979,8 +3979,8 @@
         "www.snapads.com": {
             "included_at_epoch": 1588465461.0,
             "included_at_iso": "2020-05-03T00:24:21",
-            "last_retested_at_epoch": 1590007288.956826,
-            "last_retested_at_iso": "2020-05-20T20:41:28.956826",
+            "last_retested_at_epoch": 1590148774.775901,
+            "last_retested_at_iso": "2020-05-22T11:59:34.775901",
             "status": "INACTIVE"
         },
         "www.spywords.com": {
@@ -4056,8 +4056,8 @@
         "www.tizers.net": {
             "included_at_epoch": 1588460352.0,
             "included_at_iso": "2020-05-02T22:59:12",
-            "last_retested_at_epoch": 1590002286.729553,
-            "last_retested_at_iso": "2020-05-20T19:18:06.729553",
+            "last_retested_at_epoch": 1590149206.261741,
+            "last_retested_at_iso": "2020-05-22T12:06:46.261741",
             "status": "INACTIVE"
         },
         "www.top-casting-termine.de": {
@@ -4273,8 +4273,8 @@
         "www.yabuka.com": {
             "included_at_epoch": 1588465135.0,
             "included_at_iso": "2020-05-03T00:18:55",
-            "last_retested_at_epoch": 1590061123.594555,
-            "last_retested_at_iso": "2020-05-21T11:38:43.594555",
+            "last_retested_at_epoch": 1590149016.330329,
+            "last_retested_at_iso": "2020-05-22T12:03:36.330329",
             "status": "INACTIVE"
         },
         "www.yesads.com": {
@@ -4287,8 +4287,8 @@
         "www.yesadvertising.com": {
             "included_at_epoch": 1588455594.0,
             "included_at_iso": "2020-05-02T21:39:54",
-            "last_retested_at_epoch": 1590060841.323905,
-            "last_retested_at_iso": "2020-05-21T11:34:01.323905",
+            "last_retested_at_epoch": 1590149310.842354,
+            "last_retested_at_iso": "2020-05-22T12:08:30.842354",
             "status": "INACTIVE"
         },
         "www.yieldads.com": {
