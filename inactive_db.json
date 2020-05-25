@@ -360,8 +360,8 @@
         "ads.aol.com": {
             "included_at_epoch": 1588483335.0,
             "included_at_iso": "2020-05-03T05:22:15",
-            "last_retested_at_epoch": 1590288026.847505,
-            "last_retested_at_iso": "2020-05-24T02:40:26.847505",
+            "last_retested_at_epoch": 1590431378.395313,
+            "last_retested_at_iso": "2020-05-25T18:29:38.395313",
             "status": "INACTIVE"
         },
         "ads.asia1.com.sg": {
@@ -374,8 +374,8 @@
         "ads.batpmturner.com": {
             "included_at_epoch": 1588474575.0,
             "included_at_iso": "2020-05-03T02:56:15",
-            "last_retested_at_epoch": 1590328070.385715,
-            "last_retested_at_iso": "2020-05-24T13:47:50.385715",
+            "last_retested_at_epoch": 1590430831.483821,
+            "last_retested_at_iso": "2020-05-25T18:20:31.483821",
             "status": "INACTIVE"
         },
         "ads.beenetworks.net": {
@@ -1018,8 +1018,8 @@
         "adserv.evo-x.de": {
             "included_at_epoch": 1588483179.0,
             "included_at_iso": "2020-05-03T05:19:39",
-            "last_retested_at_epoch": 1590270326.74377,
-            "last_retested_at_iso": "2020-05-23T21:45:26.743770",
+            "last_retested_at_epoch": 1590430991.025335,
+            "last_retested_at_iso": "2020-05-25T18:23:11.025335",
             "status": "INACTIVE"
         },
         "adserv.gamezone.de": {
@@ -1144,8 +1144,8 @@
         "adserver1.ogilvy-interactive.de": {
             "included_at_epoch": 1588486785.0,
             "included_at_iso": "2020-05-03T06:19:45",
-            "last_retested_at_epoch": 1590266229.503191,
-            "last_retested_at_iso": "2020-05-23T20:37:09.503191",
+            "last_retested_at_epoch": 1590430820.063386,
+            "last_retested_at_iso": "2020-05-25T18:20:20.063386",
             "status": "INACTIVE"
         },
         "adserver2.popdata.de": {
@@ -1645,6 +1645,13 @@
             "last_retested_at_iso": "2020-05-25T06:31:48.573241",
             "status": "INACTIVE"
         },
+        "gpr.hu": {
+            "included_at_epoch": 1590431049.162805,
+            "included_at_iso": "2020-05-25T18:24:09.162805",
+            "last_retested_at_epoch": 1590431049.162805,
+            "last_retested_at_iso": "2020-05-25T18:24:09.162805",
+            "status": "INACTIVE"
+        },
         "hit-ranking.de": {
             "included_at_epoch": 1588441911.0,
             "included_at_iso": "2020-05-02T17:51:51",
@@ -1844,8 +1851,8 @@
         "partner.topcities.com": {
             "included_at_epoch": 1588507034.0,
             "included_at_iso": "2020-05-03T11:57:14",
-            "last_retested_at_epoch": 1590257465.008968,
-            "last_retested_at_iso": "2020-05-23T18:11:05.008968",
+            "last_retested_at_epoch": 1590430890.511181,
+            "last_retested_at_iso": "2020-05-25T18:21:30.511181",
             "status": "INACTIVE"
         },
         "perf.weborama.fr": {
@@ -3164,6 +3171,13 @@
             "last_retested_at_iso": "2020-05-24T23:54:16.060203",
             "status": "INACTIVE"
         },
+        "www.gpr.hu": {
+            "included_at_epoch": 1590431046.51983,
+            "included_at_iso": "2020-05-25T18:24:06.519830",
+            "last_retested_at_epoch": 1590431046.51983,
+            "last_retested_at_iso": "2020-05-25T18:24:06.519830",
+            "status": "INACTIVE"
+        },
         "www.grafstat.ro": {
             "included_at_epoch": 1588490482.0,
             "included_at_iso": "2020-05-03T07:21:22",
@@ -3601,8 +3615,8 @@
         "www.offerfusion.com": {
             "included_at_epoch": 1588497456.0,
             "included_at_iso": "2020-05-03T09:17:36",
-            "last_retested_at_epoch": 1590288052.435854,
-            "last_retested_at_iso": "2020-05-24T02:40:52.435854",
+            "last_retested_at_epoch": 1590431200.999754,
+            "last_retested_at_iso": "2020-05-25T18:26:40.999754",
             "status": "INACTIVE"
         },
         "www.olivebrandresponse.com": {
