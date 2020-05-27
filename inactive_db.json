@@ -136,8 +136,8 @@
         "ad.onad.eu": {
             "included_at_epoch": 1588465457.0,
             "included_at_iso": "2020-05-03T00:24:17",
-            "last_retested_at_epoch": 1590379489.276333,
-            "last_retested_at_iso": "2020-05-25T04:04:49.276333",
+            "last_retested_at_epoch": 1590551454.421334,
+            "last_retested_at_iso": "2020-05-27T03:50:54.421334",
             "status": "INACTIVE"
         },
         "ad.playground.ru": {
@@ -563,8 +563,8 @@
         "ads.expedia.com": {
             "included_at_epoch": 1588479442.0,
             "included_at_iso": "2020-05-03T04:17:22",
-            "last_retested_at_epoch": 1590461452.637427,
-            "last_retested_at_iso": "2020-05-26T02:50:52.637427",
+            "last_retested_at_epoch": 1590551739.594762,
+            "last_retested_at_iso": "2020-05-27T03:55:39.594762",
             "status": "INACTIVE"
         },
         "ads.ezboard.com": {
@@ -962,8 +962,8 @@
         "ads.tripod.spray.se": {
             "included_at_epoch": 1588506618.0,
             "included_at_iso": "2020-05-03T11:50:18",
-            "last_retested_at_epoch": 1590411706.019468,
-            "last_retested_at_iso": "2020-05-25T13:01:46.019468",
+            "last_retested_at_epoch": 1590551700.823874,
+            "last_retested_at_iso": "2020-05-27T03:55:00.823874",
             "status": "INACTIVE"
         },
         "ads.v3.com": {
@@ -1134,6 +1134,13 @@
             "last_retested_at_iso": "2020-05-25T22:26:56.673734",
             "status": "INACTIVE"
         },
+        "adserver.yahoo.com": {
+            "included_at_epoch": 1590551930.453141,
+            "included_at_iso": "2020-05-27T03:58:50.453141",
+            "last_retested_at_epoch": 1590551930.453141,
+            "last_retested_at_iso": "2020-05-27T03:58:50.453141",
+            "status": "INACTIVE"
+        },
         "adserver1.mokono.com": {
             "included_at_epoch": 1588486890.0,
             "included_at_iso": "2020-05-03T06:21:30",
@@ -1214,8 +1221,8 @@
         "adx.gainesvillesun.com": {
             "included_at_epoch": 1588414008.0,
             "included_at_iso": "2020-05-02T10:06:48",
-            "last_retested_at_epoch": 1590461492.240914,
-            "last_retested_at_iso": "2020-05-26T02:51:32.240914",
+            "last_retested_at_epoch": 1590551958.780222,
+            "last_retested_at_iso": "2020-05-27T03:59:18.780222",
             "status": "INACTIVE"
         },
         "affiliate.7host.com": {
@@ -1550,8 +1557,8 @@
         "creative.ak.facebook.com": {
             "included_at_epoch": 1588483421.0,
             "included_at_iso": "2020-05-03T05:23:41",
-            "last_retested_at_epoch": 1590445938.996961,
-            "last_retested_at_iso": "2020-05-25T22:32:18.996961",
+            "last_retested_at_epoch": 1590551641.672907,
+            "last_retested_at_iso": "2020-05-27T03:54:01.672907",
             "status": "INACTIVE"
         },
         "creatives.as4x.tmcs.net": {
@@ -1599,8 +1606,8 @@
         "eur.a1.yimg.com": {
             "included_at_epoch": 1588465197.0,
             "included_at_iso": "2020-05-03T00:19:57",
-            "last_retested_at_epoch": 1590451134.407081,
-            "last_retested_at_iso": "2020-05-25T23:58:54.407081",
+            "last_retested_at_epoch": 1590551586.16689,
+            "last_retested_at_iso": "2020-05-27T03:53:06.166890",
             "status": "INACTIVE"
         },
         "euro-linkindex.de": {
@@ -2537,8 +2544,8 @@
         "www.adswitcher.com": {
             "included_at_epoch": 1588519475.0,
             "included_at_iso": "2020-05-03T15:24:35",
-            "last_retested_at_epoch": 1590441001.449495,
-            "last_retested_at_iso": "2020-05-25T21:10:01.449495",
+            "last_retested_at_epoch": 1590551874.580741,
+            "last_retested_at_iso": "2020-05-27T03:57:54.580741",
             "status": "INACTIVE"
         },
         "www.adtoll.com": {
@@ -2558,8 +2565,8 @@
         "www.adtrak.net": {
             "included_at_epoch": 1589092307.640085,
             "included_at_iso": "2020-05-10T06:31:47.640085",
-            "last_retested_at_epoch": 1590455899.222428,
-            "last_retested_at_iso": "2020-05-26T01:18:19.222428",
+            "last_retested_at_epoch": 1590551700.575074,
+            "last_retested_at_iso": "2020-05-27T03:55:00.575074",
             "status": "INACTIVE"
         },
         "www.adultmoda.com": {
@@ -2964,8 +2971,8 @@
         "www.deloo.de": {
             "included_at_epoch": 1588479465.0,
             "included_at_iso": "2020-05-03T04:17:45",
-            "last_retested_at_epoch": 1590461628.070832,
-            "last_retested_at_iso": "2020-05-26T02:53:48.070832",
+            "last_retested_at_epoch": 1590551732.293608,
+            "last_retested_at_iso": "2020-05-27T03:55:32.293608",
             "status": "INACTIVE"
         },
         "www.depilflash.tv": {
@@ -3069,8 +3076,8 @@
         "www.euroclick.com": {
             "included_at_epoch": 1588409188.0,
             "included_at_iso": "2020-05-02T08:46:28",
-            "last_retested_at_epoch": 1590455596.808327,
-            "last_retested_at_iso": "2020-05-26T01:13:16.808327",
+            "last_retested_at_epoch": 1590551841.941476,
+            "last_retested_at_iso": "2020-05-27T03:57:21.941476",
             "status": "INACTIVE"
         },
         "www.exchange.bg": {
@@ -3265,8 +3272,8 @@
         "www.iesnare.com": {
             "included_at_epoch": 1588793895.755616,
             "included_at_iso": "2020-05-06T19:38:15.755616",
-            "last_retested_at_epoch": 1590461343.418033,
-            "last_retested_at_iso": "2020-05-26T02:49:03.418033",
+            "last_retested_at_epoch": 1590551524.491507,
+            "last_retested_at_iso": "2020-05-27T03:52:04.491507",
             "status": "INACTIVE"
         },
         "www.ilbanner.com": {
@@ -3370,8 +3377,8 @@
         "www.leadingedgecash.com": {
             "included_at_epoch": 1588506888.0,
             "included_at_iso": "2020-05-03T11:54:48",
-            "last_retested_at_epoch": 1590426338.018908,
-            "last_retested_at_iso": "2020-05-25T17:05:38.018908",
+            "last_retested_at_epoch": 1590552001.496036,
+            "last_retested_at_iso": "2020-05-27T04:00:01.496036",
             "status": "INACTIVE"
         },
         "www.leanoisgo.com": {
