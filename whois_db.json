@@ -2272,7 +2272,7 @@
     "clickzxc.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clicmanager.fr": {
         "epoch": 1600732800.0,
@@ -2700,9 +2700,9 @@
         "state": "future"
     },
     "e-n-t-e-r-n-e-x.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
-        "state": "past"
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
     },
     "e-planning.net": {
         "epoch": 1727049600.0,
@@ -5147,7 +5147,7 @@
     "placeplay.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "planetactive.com": {
         "epoch": 1610496000.0,
