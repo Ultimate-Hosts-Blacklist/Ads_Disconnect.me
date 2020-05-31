@@ -2125,8 +2125,8 @@
         "state": "future"
     },
     "cjlog.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "claria.com": {
@@ -2472,7 +2472,7 @@
     "crispmedia.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "crispwireless.com": {
         "epoch": 1592784000.0,
@@ -4665,8 +4665,8 @@
         "state": "future"
     },
     "nastydollars.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "navigator.io": {
