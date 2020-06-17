@@ -171,8 +171,8 @@
         "ad.slutload.com": {
             "included_at_epoch": 1588500333.0,
             "included_at_iso": "2020-05-03T10:05:33",
-            "last_retested_at_epoch": 1592201658.048477,
-            "last_retested_at_iso": "2020-06-15T06:14:18.048477",
+            "last_retested_at_epoch": 1592365874.343934,
+            "last_retested_at_iso": "2020-06-17T03:51:14.343934",
             "status": "INACTIVE"
         },
         "ad.tbn.ru": {
@@ -381,8 +381,8 @@
         "ads.batpmturner.com": {
             "included_at_epoch": 1588474575.0,
             "included_at_iso": "2020-05-03T02:56:15",
-            "last_retested_at_epoch": 1592207201.146751,
-            "last_retested_at_iso": "2020-06-15T07:46:41.146751",
+            "last_retested_at_epoch": 1592365891.306487,
+            "last_retested_at_iso": "2020-06-17T03:51:31.306487",
             "status": "INACTIVE"
         },
         "ads.beenetworks.net": {
@@ -1116,8 +1116,8 @@
         "adserver.flossiemediagroup.com": {
             "included_at_epoch": 1588460332.0,
             "included_at_iso": "2020-05-02T22:58:52",
-            "last_retested_at_epoch": 1592179957.71729,
-            "last_retested_at_iso": "2020-06-15T00:12:37.717290",
+            "last_retested_at_epoch": 1592365696.412754,
+            "last_retested_at_iso": "2020-06-17T03:48:16.412754",
             "status": "INACTIVE"
         },
         "adserver.freenet.de": {
@@ -3190,6 +3190,13 @@
             "included_at_iso": "2020-05-02T23:00:23",
             "last_retested_at_epoch": 1592333562.570389,
             "last_retested_at_iso": "2020-06-16T18:52:42.570389",
+            "status": "INACTIVE"
+        },
+        "www.eclickz.com": {
+            "included_at_epoch": 1592365979.805056,
+            "included_at_iso": "2020-06-17T03:52:59.805056",
+            "last_retested_at_epoch": 1592365979.805056,
+            "last_retested_at_iso": "2020-06-17T03:52:59.805056",
             "status": "INACTIVE"
         },
         "www.edgeio.com": {
