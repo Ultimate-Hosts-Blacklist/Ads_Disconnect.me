@@ -1515,8 +1515,8 @@
         "bravenet.com.invalid": {
             "included_at_epoch": 1588490680.0,
             "included_at_iso": "2020-05-03T07:24:40",
-            "last_retested_at_epoch": 1592169300.404403,
-            "last_retested_at_iso": "2020-06-14T21:15:00.404403",
+            "last_retested_at_epoch": 1592402536.62072,
+            "last_retested_at_iso": "2020-06-17T14:02:16.620720",
             "status": "INVALID"
         },
         "c.compete.com": {
@@ -1816,8 +1816,8 @@
         "memorix.sdv.fr": {
             "included_at_epoch": 1588500730.0,
             "included_at_iso": "2020-05-03T10:12:10",
-            "last_retested_at_epoch": 1592157580.978751,
-            "last_retested_at_iso": "2020-06-14T17:59:40.978751",
+            "last_retested_at_epoch": 1592402453.573821,
+            "last_retested_at_iso": "2020-06-17T14:00:53.573821",
             "status": "INACTIVE"
         },
         "moadnet.com": {
@@ -4112,8 +4112,8 @@
         "www.rtbidder.net": {
             "included_at_epoch": 1589043067.546984,
             "included_at_iso": "2020-05-09T16:51:07.546984",
-            "last_retested_at_epoch": 1590802901.713846,
-            "last_retested_at_iso": "2020-05-30T01:41:41.713846",
+            "last_retested_at_epoch": 1592402522.574185,
+            "last_retested_at_iso": "2020-06-17T14:02:02.574185",
             "status": "INACTIVE"
         },
         "www.rtbpop.com": {
