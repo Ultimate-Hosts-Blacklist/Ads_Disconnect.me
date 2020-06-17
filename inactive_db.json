@@ -24,8 +24,8 @@
         "a.collective-media.net": {
             "included_at_epoch": 1588474512.0,
             "included_at_iso": "2020-05-03T02:55:12",
-            "last_retested_at_epoch": 1592168875.227603,
-            "last_retested_at_iso": "2020-06-14T21:07:55.227603",
+            "last_retested_at_epoch": 1592378041.759067,
+            "last_retested_at_iso": "2020-06-17T07:14:01.759067",
             "status": "INACTIVE"
         },
         "a32.g.a.yimg.com": {
@@ -815,8 +815,8 @@
         "ads.ookla.com": {
             "included_at_epoch": 1588506933.0,
             "included_at_iso": "2020-05-03T11:55:33",
-            "last_retested_at_epoch": 1592168923.859128,
-            "last_retested_at_iso": "2020-06-14T21:08:43.859128",
+            "last_retested_at_epoch": 1592378454.11148,
+            "last_retested_at_iso": "2020-06-17T07:20:54.111480",
             "status": "INACTIVE"
         },
         "ads.penny-arcade.com": {
@@ -920,8 +920,8 @@
         "ads.stationplay.com": {
             "included_at_epoch": 1588490638.0,
             "included_at_iso": "2020-05-03T07:23:58",
-            "last_retested_at_epoch": 1592114893.737969,
-            "last_retested_at_iso": "2020-06-14T06:08:13.737969",
+            "last_retested_at_epoch": 1592378286.455084,
+            "last_retested_at_iso": "2020-06-17T07:18:06.455084",
             "status": "INACTIVE"
         },
         "ads.struq.com": {
