@@ -934,8 +934,8 @@
         "ads.t-online.de": {
             "included_at_epoch": 1588441758.0,
             "included_at_iso": "2020-05-02T17:49:18",
-            "last_retested_at_epoch": 1592130306.599585,
-            "last_retested_at_iso": "2020-06-14T10:25:06.599585",
+            "last_retested_at_epoch": 1592383469.466913,
+            "last_retested_at_iso": "2020-06-17T08:44:29.466913",
             "status": "INACTIVE"
         },
         "ads.techweb.com": {
@@ -1165,8 +1165,8 @@
         "adserver.startnow.com": {
             "included_at_epoch": 1588482985.0,
             "included_at_iso": "2020-05-03T05:16:25",
-            "last_retested_at_epoch": 1592135473.384029,
-            "last_retested_at_iso": "2020-06-14T11:51:13.384029",
+            "last_retested_at_epoch": 1592383799.274543,
+            "last_retested_at_iso": "2020-06-17T08:49:59.274543",
             "status": "INACTIVE"
         },
         "adserver.yahoo.com": {
@@ -2243,8 +2243,8 @@
         "tsms-ad.tsms.com": {
             "included_at_epoch": 1588500416.0,
             "included_at_iso": "2020-05-03T10:06:56",
-            "last_retested_at_epoch": 1592201684.618713,
-            "last_retested_at_iso": "2020-06-15T06:14:44.618713",
+            "last_retested_at_epoch": 1592383598.222951,
+            "last_retested_at_iso": "2020-06-17T08:46:38.222951",
             "status": "INACTIVE"
         },
         "tvas-a.pw": {
