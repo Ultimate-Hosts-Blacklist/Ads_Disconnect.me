@@ -381,8 +381,8 @@
         "ads.batpmturner.com": {
             "included_at_epoch": 1588474575.0,
             "included_at_iso": "2020-05-03T02:56:15",
-            "last_retested_at_epoch": 1592365891.306487,
-            "last_retested_at_iso": "2020-06-17T03:51:31.306487",
+            "last_retested_at_epoch": 1592491488.825322,
+            "last_retested_at_iso": "2020-06-18T14:44:48.825322",
             "status": "INACTIVE"
         },
         "ads.beenetworks.net": {
@@ -612,8 +612,8 @@
         "ads.foxkidseurope.net": {
             "included_at_epoch": 1588469579.0,
             "included_at_iso": "2020-05-03T01:32:59",
-            "last_retested_at_epoch": 1592329830.631154,
-            "last_retested_at_iso": "2020-06-16T17:50:30.631154",
+            "last_retested_at_epoch": 1592491441.070719,
+            "last_retested_at_iso": "2020-06-18T14:44:01.070719",
             "status": "INACTIVE"
         },
         "ads.ft.com": {
@@ -1130,8 +1130,8 @@
         "adserver.freenet.de": {
             "included_at_epoch": 1588500836.0,
             "included_at_iso": "2020-05-03T10:13:56",
-            "last_retested_at_epoch": 1592329988.883412,
-            "last_retested_at_iso": "2020-06-16T17:53:08.883412",
+            "last_retested_at_epoch": 1592491967.867271,
+            "last_retested_at_iso": "2020-06-18T14:52:47.867271",
             "status": "INACTIVE"
         },
         "adserver.hardwareanalysis.com": {
@@ -1172,8 +1172,8 @@
         "adserver.startnow.com": {
             "included_at_epoch": 1588482985.0,
             "included_at_iso": "2020-05-03T05:16:25",
-            "last_retested_at_epoch": 1592383799.274543,
-            "last_retested_at_iso": "2020-06-17T08:49:59.274543",
+            "last_retested_at_epoch": 1592491423.052628,
+            "last_retested_at_iso": "2020-06-18T14:43:43.052628",
             "status": "INACTIVE"
         },
         "adserver.yahoo.com": {
@@ -1459,8 +1459,8 @@
         "banners.audioholics.com": {
             "included_at_epoch": 1588519450.0,
             "included_at_iso": "2020-05-03T15:24:10",
-            "last_retested_at_epoch": 1592354362.790011,
-            "last_retested_at_iso": "2020-06-17T00:39:22.790011",
+            "last_retested_at_epoch": 1592492143.113915,
+            "last_retested_at_iso": "2020-06-18T14:55:43.113915",
             "status": "INACTIVE"
         },
         "banners.babylon-x.com": {
@@ -1529,8 +1529,8 @@
         "bravenet.com.invalid": {
             "included_at_epoch": 1588490680.0,
             "included_at_iso": "2020-05-03T07:24:40",
-            "last_retested_at_epoch": 1592402536.62072,
-            "last_retested_at_iso": "2020-06-17T14:02:16.620720",
+            "last_retested_at_epoch": 1592491900.731999,
+            "last_retested_at_iso": "2020-06-18T14:51:40.731999",
             "status": "INVALID"
         },
         "c.compete.com": {
@@ -2194,8 +2194,8 @@
         "textads.opera.com": {
             "included_at_epoch": 1588503907.0,
             "included_at_iso": "2020-05-03T11:05:07",
-            "last_retested_at_epoch": 1592330588.494665,
-            "last_retested_at_iso": "2020-06-16T18:03:08.494665",
+            "last_retested_at_epoch": 1592491900.224502,
+            "last_retested_at_iso": "2020-06-18T14:51:40.224502",
             "status": "INACTIVE"
         },
         "tfag.de": {
@@ -2257,8 +2257,8 @@
         "tsms-ad.tsms.com": {
             "included_at_epoch": 1588500416.0,
             "included_at_iso": "2020-05-03T10:06:56",
-            "last_retested_at_epoch": 1592383598.222951,
-            "last_retested_at_iso": "2020-06-17T08:46:38.222951",
+            "last_retested_at_epoch": 1592491592.258659,
+            "last_retested_at_iso": "2020-06-18T14:46:32.258659",
             "status": "INACTIVE"
         },
         "tvas-a.pw": {
@@ -3979,8 +3979,8 @@
         "www.politads.com": {
             "included_at_epoch": 1588530332.0,
             "included_at_iso": "2020-05-03T18:25:32",
-            "last_retested_at_epoch": 1592331726.403461,
-            "last_retested_at_iso": "2020-06-16T18:22:06.403461",
+            "last_retested_at_epoch": 1592491740.336308,
+            "last_retested_at_iso": "2020-06-18T14:49:00.336308",
             "status": "INACTIVE"
         },
         "www.pop-under.ru": {
