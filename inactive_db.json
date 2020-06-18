@@ -514,8 +514,8 @@
         "ads.datinggold.com": {
             "included_at_epoch": 1588494306.0,
             "included_at_iso": "2020-05-03T08:25:06",
-            "last_retested_at_epoch": 1592350179.2534,
-            "last_retested_at_iso": "2020-06-16T23:29:39.253400",
+            "last_retested_at_epoch": 1592475109.926576,
+            "last_retested_at_iso": "2020-06-18T10:11:49.926576",
             "status": "INACTIVE"
         },
         "ads.datingyes.com": {
@@ -733,6 +733,13 @@
             "included_at_iso": "2020-05-03T07:20:15",
             "last_retested_at_epoch": 1592445683.382345,
             "last_retested_at_iso": "2020-06-18T02:01:23.382345",
+            "status": "INACTIVE"
+        },
+        "ads.mediaturf.net": {
+            "included_at_epoch": 1592475003.913377,
+            "included_at_iso": "2020-06-18T10:10:03.913377",
+            "last_retested_at_epoch": 1592475003.913377,
+            "last_retested_at_iso": "2020-06-18T10:10:03.913377",
             "status": "INACTIVE"
         },
         "ads.moceanads.com": {
@@ -983,8 +990,8 @@
         "ads.tripod.spray.se": {
             "included_at_epoch": 1588506618.0,
             "included_at_iso": "2020-05-03T11:50:18",
-            "last_retested_at_epoch": 1592332385.743424,
-            "last_retested_at_iso": "2020-06-16T18:33:05.743424",
+            "last_retested_at_epoch": 1592475764.889629,
+            "last_retested_at_iso": "2020-06-18T10:22:44.889629",
             "status": "INACTIVE"
         },
         "ads.v3.com": {
@@ -2117,8 +2124,8 @@
         "stat.tudou.com": {
             "included_at_epoch": 1588490660.0,
             "included_at_iso": "2020-05-03T07:24:20",
-            "last_retested_at_epoch": 1592328765.692348,
-            "last_retested_at_iso": "2020-06-16T17:32:45.692348",
+            "last_retested_at_epoch": 1592475644.426913,
+            "last_retested_at_iso": "2020-06-18T10:20:44.426913",
             "status": "INACTIVE"
         },
         "stats.cts-bv.nl": {
@@ -2145,8 +2152,8 @@
         "stats.surfaid.ihost.com": {
             "included_at_epoch": 1588522020.0,
             "included_at_iso": "2020-05-03T16:07:00",
-            "last_retested_at_epoch": 1592331672.385566,
-            "last_retested_at_iso": "2020-06-16T18:21:12.385566",
+            "last_retested_at_epoch": 1592475550.563833,
+            "last_retested_at_iso": "2020-06-18T10:19:10.563833",
             "status": "INACTIVE"
         },
         "suavalds.com": {
@@ -3202,8 +3209,8 @@
         "www.eclickz.com": {
             "included_at_epoch": 1592365979.805056,
             "included_at_iso": "2020-06-17T03:52:59.805056",
-            "last_retested_at_epoch": 1592365979.805056,
-            "last_retested_at_iso": "2020-06-17T03:52:59.805056",
+            "last_retested_at_epoch": 1592475498.680769,
+            "last_retested_at_iso": "2020-06-18T10:18:18.680769",
             "status": "INACTIVE"
         },
         "www.edgeio.com": {
@@ -3727,8 +3734,8 @@
         "www.mobilewithsms.net": {
             "included_at_epoch": 1588493943.0,
             "included_at_iso": "2020-05-03T08:19:03",
-            "last_retested_at_epoch": 1592330988.203146,
-            "last_retested_at_iso": "2020-06-16T18:09:48.203146",
+            "last_retested_at_epoch": 1592475723.06035,
+            "last_retested_at_iso": "2020-06-18T10:22:03.060350",
             "status": "INACTIVE"
         },
         "www.mocean.mobi": {
