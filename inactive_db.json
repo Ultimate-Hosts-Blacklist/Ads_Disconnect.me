@@ -682,8 +682,8 @@
         "ads.hideyourarms.com": {
             "included_at_epoch": 1588506725.0,
             "included_at_iso": "2020-05-03T11:52:05",
-            "last_retested_at_epoch": 1592426346.530926,
-            "last_retested_at_iso": "2020-06-17T20:39:06.530926",
+            "last_retested_at_epoch": 1592572935.350628,
+            "last_retested_at_iso": "2020-06-19T13:22:15.350628",
             "status": "INACTIVE"
         },
         "ads.iafrica.com": {
@@ -1571,8 +1571,8 @@
         "clients.tbo.com": {
             "included_at_epoch": 1588524922.0,
             "included_at_iso": "2020-05-03T16:55:22",
-            "last_retested_at_epoch": 1592470096.20938,
-            "last_retested_at_iso": "2020-06-18T08:48:16.209380",
+            "last_retested_at_epoch": 1592572521.592867,
+            "last_retested_at_iso": "2020-06-19T13:15:21.592867",
             "status": "INACTIVE"
         },
         "cmpstar.com": {
@@ -1697,8 +1697,8 @@
         "fonecta.leiki.com": {
             "included_at_epoch": 1588474627.0,
             "included_at_iso": "2020-05-03T02:57:07",
-            "last_retested_at_epoch": 1592420716.197972,
-            "last_retested_at_iso": "2020-06-17T19:05:16.197972",
+            "last_retested_at_epoch": 1592572946.816926,
+            "last_retested_at_iso": "2020-06-19T13:22:26.816926",
             "status": "INACTIVE"
         },
         "fragmentserv.iac-online.de": {
@@ -1963,8 +1963,8 @@
         "partner.topcities.com": {
             "included_at_epoch": 1588507034.0,
             "included_at_iso": "2020-05-03T11:57:14",
-            "last_retested_at_epoch": 1592452544.030013,
-            "last_retested_at_iso": "2020-06-18T03:55:44.030013",
+            "last_retested_at_epoch": 1592572887.608793,
+            "last_retested_at_iso": "2020-06-19T13:21:27.608793",
             "status": "INACTIVE"
         },
         "perf.weborama.fr": {
@@ -2124,8 +2124,8 @@
         "stat.tudou.com": {
             "included_at_epoch": 1588490660.0,
             "included_at_iso": "2020-05-03T07:24:20",
-            "last_retested_at_epoch": 1592475644.426913,
-            "last_retested_at_iso": "2020-06-18T10:20:44.426913",
+            "last_retested_at_epoch": 1592572604.392621,
+            "last_retested_at_iso": "2020-06-19T13:16:44.392621",
             "status": "INACTIVE"
         },
         "stats.cts-bv.nl": {
@@ -2418,8 +2418,8 @@
         "www.adboost.net": {
             "included_at_epoch": 1588497535.0,
             "included_at_iso": "2020-05-03T09:18:55",
-            "last_retested_at_epoch": 1592458711.31154,
-            "last_retested_at_iso": "2020-06-18T05:38:31.311540",
+            "last_retested_at_epoch": 1592572716.095755,
+            "last_retested_at_iso": "2020-06-19T13:18:36.095755",
             "status": "INACTIVE"
         },
         "www.adbunker.com": {
@@ -3125,8 +3125,8 @@
         "www.deloo.de": {
             "included_at_epoch": 1588479465.0,
             "included_at_iso": "2020-05-03T04:17:45",
-            "last_retested_at_epoch": 1592470067.257227,
-            "last_retested_at_iso": "2020-06-18T08:47:47.257227",
+            "last_retested_at_epoch": 1592573328.210599,
+            "last_retested_at_iso": "2020-06-19T13:28:48.210599",
             "status": "INACTIVE"
         },
         "www.depilflash.tv": {
@@ -3636,8 +3636,8 @@
         "www.mdotm.com": {
             "included_at_epoch": 1588441554.0,
             "included_at_iso": "2020-05-02T17:45:54",
-            "last_retested_at_epoch": 1592446108.636251,
-            "last_retested_at_iso": "2020-06-18T02:08:28.636251",
+            "last_retested_at_epoch": 1592573083.291487,
+            "last_retested_at_iso": "2020-06-19T13:24:43.291487",
             "status": "INACTIVE"
         },
         "www.mediadvertising.ro": {
@@ -4035,8 +4035,8 @@
         "www.quarterserver.de": {
             "included_at_epoch": 1588474445.0,
             "included_at_iso": "2020-05-03T02:54:05",
-            "last_retested_at_epoch": 1592432631.911074,
-            "last_retested_at_iso": "2020-06-17T22:23:51.911074",
+            "last_retested_at_epoch": 1592573066.164864,
+            "last_retested_at_iso": "2020-06-19T13:24:26.164864",
             "status": "INACTIVE"
         },
         "www.quigo.com": {
@@ -4595,8 +4595,8 @@
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1588483042.0,
             "included_at_iso": "2020-05-03T05:17:22",
-            "last_retested_at_epoch": 1592486200.39815,
-            "last_retested_at_iso": "2020-06-18T13:16:40.398150",
+            "last_retested_at_epoch": 1592573298.725713,
+            "last_retested_at_iso": "2020-06-19T13:28:18.725713",
             "status": "INACTIVE"
         }
     }
