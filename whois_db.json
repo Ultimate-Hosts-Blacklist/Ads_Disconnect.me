@@ -2477,7 +2477,7 @@
     "crispwireless.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "criteo.com": {
         "epoch": 1623888000.0,
@@ -3732,7 +3732,7 @@
     "intergi.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "internetfuel.com": {
         "epoch": 1595203200.0,
