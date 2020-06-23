@@ -3715,8 +3715,8 @@
         "state": "future"
     },
     "instantmadness.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "intelliads.com": {
@@ -4352,7 +4352,7 @@
     "mindmemobile.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mintrace.com": {
         "epoch": 1599436800.0,
