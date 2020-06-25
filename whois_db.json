@@ -2997,7 +2997,7 @@
     "f5biz.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "fast-adv.it": {
         "epoch": 1616630400.0,
@@ -5262,7 +5262,7 @@
     "precisioncounter.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "predictad.com": {
         "epoch": 1663804800.0,
@@ -6755,8 +6755,8 @@
         "state": "future"
     },
     "valuesponsor.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "vdopia.com": {
