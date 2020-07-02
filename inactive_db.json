@@ -850,8 +850,8 @@
         "ads.penny-arcade.com": {
             "included_at_epoch": 1588497199.0,
             "included_at_iso": "2020-05-03T09:13:19",
-            "last_retested_at_epoch": 1593526894.790271,
-            "last_retested_at_iso": "2020-06-30T14:21:34.790271",
+            "last_retested_at_epoch": 1593667873.298917,
+            "last_retested_at_iso": "2020-07-02T05:31:13.298917",
             "status": "INACTIVE"
         },
         "ads.pheedo.com": {
@@ -1025,8 +1025,8 @@
         "ads.tripod.lycos.de": {
             "included_at_epoch": 1592898897.825311,
             "included_at_iso": "2020-06-23T07:54:57.825311",
-            "last_retested_at_epoch": 1592898897.825311,
-            "last_retested_at_iso": "2020-06-23T07:54:57.825311",
+            "last_retested_at_epoch": 1593667251.525803,
+            "last_retested_at_iso": "2020-07-02T05:20:51.525803",
             "status": "INACTIVE"
         },
         "ads.tripod.lycos.es": {
@@ -1277,8 +1277,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588527777.0,
             "included_at_iso": "2020-05-03T17:42:57",
-            "last_retested_at_epoch": 1593527438.266532,
-            "last_retested_at_iso": "2020-06-30T14:30:38.266532",
+            "last_retested_at_epoch": 1593667328.356791,
+            "last_retested_at_iso": "2020-07-02T05:22:08.356791",
             "status": "INACTIVE"
         },
         "adtrading.de": {
@@ -2054,8 +2054,8 @@
         "perf.weborama.fr": {
             "included_at_epoch": 1588417780.0,
             "included_at_iso": "2020-05-02T11:09:40",
-            "last_retested_at_epoch": 1593523197.552072,
-            "last_retested_at_iso": "2020-06-30T13:19:57.552072",
+            "last_retested_at_epoch": 1593668031.356119,
+            "last_retested_at_iso": "2020-07-02T05:33:51.356119",
             "status": "INACTIVE"
         },
         "pixel.jumptap.com": {
@@ -2096,8 +2096,8 @@
         "qwapi.apple.com": {
             "included_at_epoch": 1588464960.0,
             "included_at_iso": "2020-05-03T00:16:00",
-            "last_retested_at_epoch": 1593523962.694131,
-            "last_retested_at_iso": "2020-06-30T13:32:42.694131",
+            "last_retested_at_epoch": 1593667933.984587,
+            "last_retested_at_iso": "2020-07-02T05:32:13.984587",
             "status": "INACTIVE"
         },
         "rad.msn.com": {
@@ -2922,8 +2922,8 @@
         "www.appsfire.net": {
             "included_at_epoch": 1588446618.0,
             "included_at_iso": "2020-05-02T19:10:18",
-            "last_retested_at_epoch": 1593540254.464873,
-            "last_retested_at_iso": "2020-06-30T18:04:14.464873",
+            "last_retested_at_epoch": 1593667585.592224,
+            "last_retested_at_iso": "2020-07-02T05:26:25.592224",
             "status": "INACTIVE"
         },
         "www.arcadebanners.com": {
@@ -3111,8 +3111,8 @@
         "www.cecash.com": {
             "included_at_epoch": 1588500818.0,
             "included_at_iso": "2020-05-03T10:13:38",
-            "last_retested_at_epoch": 1593540775.173155,
-            "last_retested_at_iso": "2020-06-30T18:12:55.173155",
+            "last_retested_at_epoch": 1593667479.048128,
+            "last_retested_at_iso": "2020-07-02T05:24:39.048128",
             "status": "INACTIVE"
         },
         "www.chestionar.ro": {
@@ -3888,8 +3888,8 @@
         "www.mojiva.com": {
             "included_at_epoch": 1588469687.0,
             "included_at_iso": "2020-05-03T01:34:47",
-            "last_retested_at_epoch": 1593571378.385727,
-            "last_retested_at_iso": "2020-07-01T02:42:58.385727",
+            "last_retested_at_epoch": 1593667890.024797,
+            "last_retested_at_iso": "2020-07-02T05:31:30.024797",
             "status": "INACTIVE"
         },
         "www.moolahmedia.com": {
@@ -4457,6 +4457,13 @@
             "included_at_iso": "2020-05-03T04:16:00",
             "last_retested_at_epoch": 1593622341.300528,
             "last_retested_at_iso": "2020-07-01T16:52:21.300528",
+            "status": "INACTIVE"
+        },
+        "www.tangerinenet.biz": {
+            "included_at_epoch": 1593667711.84187,
+            "included_at_iso": "2020-07-02T05:28:31.841870",
+            "last_retested_at_epoch": 1593667711.84187,
+            "last_retested_at_iso": "2020-07-02T05:28:31.841870",
             "status": "INACTIVE"
         },
         "www.tapjoyads.com": {
