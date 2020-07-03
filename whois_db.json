@@ -3310,8 +3310,8 @@
         "state": "future"
     },
     "gtsads.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "gtsmobi.com": {
@@ -3980,9 +3980,9 @@
         "state": "future"
     },
     "linkbuddies.com": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
-        "state": "past"
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "state": "future"
     },
     "linkexchange.com": {
         "epoch": 1609977600.0,
@@ -5820,9 +5820,9 @@
         "state": "future"
     },
     "sexlist.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
     },
     "sextracker.com": {
         "epoch": 1614988800.0,
