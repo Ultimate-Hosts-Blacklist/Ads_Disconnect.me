@@ -1805,8 +1805,8 @@
         "state": "future"
     },
     "blogherads.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "blogrush.com": {
@@ -4750,8 +4750,8 @@
         "state": "future"
     },
     "netincap.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "netmng.com": {
@@ -5162,7 +5162,7 @@
     "play4traffic.com": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "playhaven.com": {
         "epoch": 1606867200.0,
