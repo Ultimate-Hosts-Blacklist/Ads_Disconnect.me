@@ -374,8 +374,8 @@
         "ads.alwayson-network.com": {
             "included_at_epoch": 1588527711.0,
             "included_at_iso": "2020-05-03T17:41:51",
-            "last_retested_at_epoch": 1595067543.267009,
-            "last_retested_at_iso": "2020-07-18T10:19:03.267009",
+            "last_retested_at_epoch": 1595229392.027455,
+            "last_retested_at_iso": "2020-07-20T07:16:32.027455",
             "status": "INACTIVE"
         },
         "ads.aol.com": {
@@ -675,8 +675,8 @@
         "ads.groundspeak.com": {
             "included_at_epoch": 1588497378.0,
             "included_at_iso": "2020-05-03T09:16:18",
-            "last_retested_at_epoch": 1595099812.202432,
-            "last_retested_at_iso": "2020-07-18T19:16:52.202432",
+            "last_retested_at_epoch": 1595229417.150994,
+            "last_retested_at_iso": "2020-07-20T07:16:57.150994",
             "status": "INACTIVE"
         },
         "ads.hardwaresecrets.com": {
@@ -1158,8 +1158,8 @@
         "adserv.quality-channel.de": {
             "included_at_epoch": 1588483277.0,
             "included_at_iso": "2020-05-03T05:21:17",
-            "last_retested_at_epoch": 1595133279.914538,
-            "last_retested_at_iso": "2020-07-19T04:34:39.914538",
+            "last_retested_at_epoch": 1595229841.097769,
+            "last_retested_at_iso": "2020-07-20T07:24:01.097769",
             "status": "INACTIVE"
         },
         "adserver-live.yoc.mobi": {
@@ -1221,8 +1221,8 @@
         "adserver.portalofevil.com": {
             "included_at_epoch": 1588497335.0,
             "included_at_iso": "2020-05-03T09:15:35",
-            "last_retested_at_epoch": 1595108505.057969,
-            "last_retested_at_iso": "2020-07-18T21:41:45.057969",
+            "last_retested_at_epoch": 1595229058.232957,
+            "last_retested_at_iso": "2020-07-20T07:10:58.232957",
             "status": "INACTIVE"
         },
         "adserver.portugalmail.pt": {
@@ -1284,8 +1284,8 @@
         "adsrv.eacdn.com": {
             "included_at_epoch": 1588527777.0,
             "included_at_iso": "2020-05-03T17:42:57",
-            "last_retested_at_epoch": 1595133104.485383,
-            "last_retested_at_iso": "2020-07-19T04:31:44.485383",
+            "last_retested_at_epoch": 1595229561.594122,
+            "last_retested_at_iso": "2020-07-20T07:19:21.594122",
             "status": "INACTIVE"
         },
         "adtrading.de": {
@@ -1788,8 +1788,8 @@
         "fb-promotions.com": {
             "included_at_epoch": 1588413773.0,
             "included_at_iso": "2020-05-02T10:02:53",
-            "last_retested_at_epoch": 1595138376.017557,
-            "last_retested_at_iso": "2020-07-19T05:59:36.017557",
+            "last_retested_at_epoch": 1595229698.63614,
+            "last_retested_at_iso": "2020-07-20T07:21:38.636140",
             "status": "INACTIVE"
         },
         "fonecta.leiki.com": {
@@ -2285,8 +2285,8 @@
         "stats.surfaid.ihost.com": {
             "included_at_epoch": 1588522020.0,
             "included_at_iso": "2020-05-03T16:07:00",
-            "last_retested_at_epoch": 1595123172.278005,
-            "last_retested_at_iso": "2020-07-19T01:46:12.278005",
+            "last_retested_at_epoch": 1595229148.910623,
+            "last_retested_at_iso": "2020-07-20T07:12:28.910623",
             "status": "INACTIVE"
         },
         "suavalds.com": {
@@ -2810,8 +2810,8 @@
         "www.adspace.ro": {
             "included_at_epoch": 1593833496.865164,
             "included_at_iso": "2020-07-04T03:31:36.865164",
-            "last_retested_at_epoch": 1595096861.538436,
-            "last_retested_at_iso": "2020-07-18T18:27:41.538436",
+            "last_retested_at_epoch": 1595229416.440936,
+            "last_retested_at_iso": "2020-07-20T07:16:56.440936",
             "status": "INACTIVE"
         },
         "www.adsrevenue.net": {
@@ -2838,8 +2838,8 @@
         "www.adtoll.com": {
             "included_at_epoch": 1588971357.770781,
             "included_at_iso": "2020-05-08T20:55:57.770781",
-            "last_retested_at_epoch": 1595138862.315148,
-            "last_retested_at_iso": "2020-07-19T06:07:42.315148",
+            "last_retested_at_epoch": 1595229092.827012,
+            "last_retested_at_iso": "2020-07-20T07:11:32.827012",
             "status": "INACTIVE"
         },
         "www.adtrading.de": {
@@ -3482,8 +3482,8 @@
         "www.fb-promotions.com": {
             "included_at_epoch": 1588413773.0,
             "included_at_iso": "2020-05-02T10:02:53",
-            "last_retested_at_epoch": 1595138376.032837,
-            "last_retested_at_iso": "2020-07-19T05:59:36.032837",
+            "last_retested_at_epoch": 1595229698.612717,
+            "last_retested_at_iso": "2020-07-20T07:21:38.612717",
             "status": "INACTIVE"
         },
         "www.fimc.net": {
@@ -4217,8 +4217,8 @@
         "www.politads.com": {
             "included_at_epoch": 1588530332.0,
             "included_at_iso": "2020-05-03T18:25:32",
-            "last_retested_at_epoch": 1595133564.002778,
-            "last_retested_at_iso": "2020-07-19T04:39:24.002778",
+            "last_retested_at_epoch": 1595229452.936421,
+            "last_retested_at_iso": "2020-07-20T07:17:32.936421",
             "status": "INACTIVE"
         },
         "www.pop-under.ru": {
@@ -4427,8 +4427,8 @@
         "www.servedbyopenx.com": {
             "included_at_epoch": 1592980524.654639,
             "included_at_iso": "2020-06-24T06:35:24.654639",
-            "last_retested_at_epoch": 1595078674.442837,
-            "last_retested_at_iso": "2020-07-18T13:24:34.442837",
+            "last_retested_at_epoch": 1595229523.293245,
+            "last_retested_at_iso": "2020-07-20T07:18:43.293245",
             "status": "INACTIVE"
         },
         "www.sexaddpro.de": {
@@ -4875,8 +4875,8 @@
         "www.yoc.mobi": {
             "included_at_epoch": 1588525070.0,
             "included_at_iso": "2020-05-03T16:57:50",
-            "last_retested_at_epoch": 1595104596.61129,
-            "last_retested_at_iso": "2020-07-18T20:36:36.611290",
+            "last_retested_at_epoch": 1595229093.931807,
+            "last_retested_at_iso": "2020-07-20T07:11:33.931807",
             "status": "INACTIVE"
         },
         "www.zenkreka.com": {
