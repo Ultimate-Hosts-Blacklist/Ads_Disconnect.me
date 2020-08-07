@@ -130,8 +130,8 @@
         "state": "future"
     },
     "7bpeople.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1659830400.0,
+        "expiration_date": "07-aug-2022",
         "state": "future"
     },
     "7search.com": {
@@ -2747,7 +2747,7 @@
     "ecircle-ag.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "eclickz.com": {
         "epoch": 1705017600.0,
