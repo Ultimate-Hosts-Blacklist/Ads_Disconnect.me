@@ -906,8 +906,8 @@
         "ads.redtube.com": {
             "included_at_epoch": 1588455679.0,
             "included_at_iso": "2020-05-02T21:41:19",
-            "last_retested_at_epoch": 1597380592.261224,
-            "last_retested_at_iso": "2020-08-14T04:49:52.261224",
+            "last_retested_at_epoch": 1597642377.533514,
+            "last_retested_at_iso": "2020-08-17T05:32:57.533514",
             "status": "INACTIVE"
         },
         "ads.resoom.de": {
@@ -1011,8 +1011,8 @@
         "ads.telegraph.co.uk": {
             "included_at_epoch": 1588465331.0,
             "included_at_iso": "2020-05-03T00:22:11",
-            "last_retested_at_epoch": 1597447258.015966,
-            "last_retested_at_iso": "2020-08-14T23:20:58.015966",
+            "last_retested_at_epoch": 1597642615.378526,
+            "last_retested_at_iso": "2020-08-17T05:36:55.378526",
             "status": "INACTIVE"
         },
         "ads.theglobeandmail.com": {
@@ -2180,8 +2180,8 @@
         "pagerank-submitter.com": {
             "included_at_epoch": 1588486719.0,
             "included_at_iso": "2020-05-03T06:18:39",
-            "last_retested_at_epoch": 1597441181.118794,
-            "last_retested_at_iso": "2020-08-14T21:39:41.118794",
+            "last_retested_at_epoch": 1597642508.198993,
+            "last_retested_at_iso": "2020-08-17T05:35:08.198993",
             "status": "INACTIVE"
         },
         "pagerank-submitter.de": {
@@ -2425,8 +2425,8 @@
         "stats.directnic.com": {
             "included_at_epoch": 1588469422.0,
             "included_at_iso": "2020-05-03T01:30:22",
-            "last_retested_at_epoch": 1597434541.581402,
-            "last_retested_at_iso": "2020-08-14T19:49:01.581402",
+            "last_retested_at_epoch": 1597642607.699779,
+            "last_retested_at_iso": "2020-08-17T05:36:47.699779",
             "status": "INACTIVE"
         },
         "stats.suite101.com": {
@@ -3251,8 +3251,8 @@
         "www.bannerhost.com": {
             "included_at_epoch": 1591963146.672044,
             "included_at_iso": "2020-06-12T11:59:06.672044",
-            "last_retested_at_epoch": 1597498991.859351,
-            "last_retested_at_iso": "2020-08-15T13:43:11.859351",
+            "last_retested_at_epoch": 1597642666.593197,
+            "last_retested_at_iso": "2020-08-17T05:37:46.593197",
             "status": "INACTIVE"
         },
         "www.baypops.com": {
@@ -3440,8 +3440,8 @@
         "www.clickzxc.com": {
             "included_at_epoch": 1590769418.907437,
             "included_at_iso": "2020-05-29T16:23:38.907437",
-            "last_retested_at_epoch": 1597434776.753038,
-            "last_retested_at_iso": "2020-08-14T19:52:56.753038",
+            "last_retested_at_epoch": 1597642069.513127,
+            "last_retested_at_iso": "2020-08-17T05:27:49.513127",
             "status": "INACTIVE"
         },
         "www.cmpstar.com": {
@@ -3489,8 +3489,8 @@
         "www.crispwireless.com": {
             "included_at_epoch": 1595412841.954786,
             "included_at_iso": "2020-07-22T10:14:01.954786",
-            "last_retested_at_epoch": 1597428025.517748,
-            "last_retested_at_iso": "2020-08-14T18:00:25.517748",
+            "last_retested_at_epoch": 1597642676.575413,
+            "last_retested_at_iso": "2020-08-17T05:37:56.575413",
             "status": "INACTIVE"
         },
         "www.cybermonitor.com": {
@@ -4210,8 +4210,8 @@
         "www.mixtraffic.com": {
             "included_at_epoch": 1588487112.0,
             "included_at_iso": "2020-05-03T06:25:12",
-            "last_retested_at_epoch": 1597481889.698819,
-            "last_retested_at_iso": "2020-08-15T08:58:09.698819",
+            "last_retested_at_epoch": 1597642824.249681,
+            "last_retested_at_iso": "2020-08-17T05:40:24.249681",
             "status": "INACTIVE"
         },
         "www.mmismm.com": {
@@ -4322,8 +4322,8 @@
         "www.nbjmp.com": {
             "included_at_epoch": 1588500453.0,
             "included_at_iso": "2020-05-03T10:07:33",
-            "last_retested_at_epoch": 1597470672.920074,
-            "last_retested_at_iso": "2020-08-15T05:51:12.920074",
+            "last_retested_at_epoch": 1597642398.276533,
+            "last_retested_at_iso": "2020-08-17T05:33:18.276533",
             "status": "INACTIVE"
         },
         "www.nedstat.com": {
@@ -4462,8 +4462,8 @@
         "www.pagerank-submitter.com": {
             "included_at_epoch": 1588486719.0,
             "included_at_iso": "2020-05-03T06:18:39",
-            "last_retested_at_epoch": 1597441180.970622,
-            "last_retested_at_iso": "2020-08-14T21:39:40.970622",
+            "last_retested_at_epoch": 1597642508.198078,
+            "last_retested_at_iso": "2020-08-17T05:35:08.198078",
             "status": "INACTIVE"
         },
         "www.pagerank-submitter.de": {
@@ -4959,15 +4959,15 @@
         "www.thrnt.com": {
             "included_at_epoch": 1588483527.0,
             "included_at_iso": "2020-05-03T05:25:27",
-            "last_retested_at_epoch": 1597415803.794082,
-            "last_retested_at_iso": "2020-08-14T14:36:43.794082",
+            "last_retested_at_epoch": 1597642625.462408,
+            "last_retested_at_iso": "2020-08-17T05:37:05.462408",
             "status": "INACTIVE"
         },
         "www.tizers.net": {
             "included_at_epoch": 1588460352.0,
             "included_at_iso": "2020-05-02T22:59:12",
-            "last_retested_at_epoch": 1597493290.908058,
-            "last_retested_at_iso": "2020-08-15T12:08:10.908058",
+            "last_retested_at_epoch": 1597642306.730631,
+            "last_retested_at_iso": "2020-08-17T05:31:46.730631",
             "status": "INACTIVE"
         },
         "www.top-casting-termine.de": {
@@ -5022,8 +5022,8 @@
         "www.trafficz.net": {
             "included_at_epoch": 1588512776.0,
             "included_at_iso": "2020-05-03T13:32:56",
-            "last_retested_at_epoch": 1597434966.029375,
-            "last_retested_at_iso": "2020-08-14T19:56:06.029375",
+            "last_retested_at_epoch": 1597642404.42866,
+            "last_retested_at_iso": "2020-08-17T05:33:24.428660",
             "status": "INACTIVE"
         },
         "www.trhunt.com": {
