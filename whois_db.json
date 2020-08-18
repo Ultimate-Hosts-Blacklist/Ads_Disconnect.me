@@ -2512,7 +2512,7 @@
     "cybermonitor.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dakic-ia-300.com": {
         "epoch": 1615420800.0,
@@ -6832,7 +6832,7 @@
     "visistat.com": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "visual-pagerank.fr": {
         "epoch": 1597968000.0,
