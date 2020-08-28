@@ -2500,8 +2500,8 @@
         "state": "future"
     },
     "cubics.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
         "state": "future"
     },
     "cyberbounty.com": {
@@ -3622,7 +3622,7 @@
     "imprese.cz": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "impressionmedia.cz": {
         "epoch": 1690070400.0,
@@ -5107,7 +5107,7 @@
     "phizzle.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "phluant.com": {
         "epoch": 1626048000.0,
