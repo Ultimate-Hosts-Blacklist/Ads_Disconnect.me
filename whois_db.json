@@ -4722,7 +4722,7 @@
     "net-filter.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "netaffiliation.com": {
         "epoch": 1622246400.0,
@@ -5667,7 +5667,7 @@
     "roxr.net": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "rtbidder.net": {
         "epoch": 1611878400.0,
@@ -6017,7 +6017,7 @@
     "spywarenuker.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "spywords.com": {
         "epoch": 1627257600.0,
