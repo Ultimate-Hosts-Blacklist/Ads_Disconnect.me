@@ -1,38 +1,15 @@
 {
-    "current_stats": {
-        "builds": 2871,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 3881,
-        "whitelisted.list": 3880
-    },
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-04T10:57:05.658594",
-    "end_epoch": 1583232132.058888,
-    "last_autosave_datetime": "2020-03-04T10:57:05.658609",
-    "last_autosave_epoch": 1583228474.168987,
-    "name": "Ads_Disconnect.me",
-    "previous_stats": {
-        "builds": 12,
-        "clean.list": 3880,
-        "counter": {
-            "down": 448,
-            "invalid": 4,
-            "tested": 4332,
-            "up": 3880
-        },
-        "domains.list": 4332,
-        "ip.list": 0,
-        "volatile.list": 3881,
-        "whitelisted.list": 3880
+    "end_datetime": "2021-03-01T00:56:52.633158",
+    "end_epoch": 1614556612.633158,
+    "name": "acklist_Ads_Disconnect.me_master",
+    "previous_end_datetime": "2020-02-29T18:15:21.909278",
+    "previous_end_epoch": 1582996521.909282,
+    "previous_start_datetime": "2020-02-29T18:15:21.909268",
+    "previous_start_epoch": 1582996521.90928,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
     "start_datetime": "2020-03-04T10:57:07.283885",

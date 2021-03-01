@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "c3fa0fa7c956f76eeef74d3bed85ac854829506ffff240cf0590e663",
+    "line_number": 4340,
+    "output_dir": "/var/lib/jenkins/workspace/acklist_Ads_Disconnect.me_master/output/domains.list",
+    "previous_hash": "c3fa0fa7c956f76eeef74d3bed85ac854829506ffff240cf0590e663",
+    "session_id": "8cf51115db7c11bb81845e98",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
