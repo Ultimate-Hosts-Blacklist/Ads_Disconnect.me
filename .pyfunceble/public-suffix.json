@@ -972,7 +972,6 @@
         "awsglobalaccelerator.com",
         "awsmppl.com",
         "balena-devices.com",
-        "barsy.uk",
         "barsycenter.com",
         "barsyonline.com",
         "beta.bounty-full.com",
@@ -4736,6 +4735,9 @@
         "dweb.link",
         "mypep.link"
     ],
+    "live": [
+        "hlx.live"
+    ],
     "lk": [
         "ac.lk",
         "assn.lk",
@@ -6858,7 +6860,9 @@
         "under.one"
     ],
     "online": [
-        "barsy.online"
+        "barsy.online",
+        "eero-stage.online",
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
@@ -7053,6 +7057,8 @@
         "sld.pa"
     ],
     "page": [
+        "hlx.page",
+        "hlx3.page",
         "magnet.page",
         "pdns.page",
         "plesk.page",
@@ -8135,6 +8141,7 @@
         "ac.uk",
         "adimo.co.uk",
         "barsy.co.uk",
+        "barsy.uk",
         "barsyonline.co.uk",
         "blogspot.co.uk",
         "co.uk",
