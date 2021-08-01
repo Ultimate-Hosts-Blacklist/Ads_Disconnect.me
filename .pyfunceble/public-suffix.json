@@ -1812,9 +1812,6 @@
         "gov.gd",
         "nom.gd"
     ],
-    "gdn": [
-        "cnpy.gdn"
-    ],
     "ge": [
         "com.ge",
         "edu.ge",
@@ -5541,6 +5538,7 @@
         "aero.mv",
         "biz.mv",
         "com.mv",
+        "coop.mv",
         "edu.mv",
         "gov.mv",
         "info.mv",
@@ -6334,7 +6332,6 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
-        "org.sz",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -6891,6 +6888,7 @@
         "cloud.fedoraproject.org",
         "cloudns.org",
         "cn.eu.org",
+        "cnpy.gdn",
         "collegefan.org",
         "couchpotatofries.org",
         "cy.eu.org",
@@ -7850,7 +7848,6 @@
     "sz": [
         "ac.sz",
         "co.sz",
-        "coop.mv",
         "org.sz"
     ],
     "tc": [
