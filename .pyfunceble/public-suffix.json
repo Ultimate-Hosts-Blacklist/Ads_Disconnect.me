@@ -748,6 +748,7 @@
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
+        "instances.spawn.cc",
         "myphotos.cc",
         "scrapping.cc",
         "twmail.cc"
@@ -813,7 +814,6 @@
         "diadem.cloud",
         "elementor.cloud",
         "es-1.axarnet.cloud",
-        "from-tn.com",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
         "jele.cloud",
@@ -1109,6 +1109,7 @@
         "from-ri.com",
         "from-sc.com",
         "from-sd.com",
+        "from-tn.com",
         "from-tx.com",
         "from-ut.com",
         "from-va.com",
@@ -7011,7 +7012,8 @@
         "webredirect.org",
         "wmcloud.org",
         "wmflabs.org",
-        "za.org"
+        "za.org",
+        "zapto.org"
     ],
     "ovh": [
         "nerdpol.ovh"
@@ -8487,10 +8489,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--p1acf": [
-        "xn--41a.xn--p1acf",
-        "zapto.org"
     ],
     "xyz": [
         "blogsite.xyz",
