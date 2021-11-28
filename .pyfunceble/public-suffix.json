@@ -750,6 +750,7 @@
     "cc": [
         "cloudns.cc",
         "csx.cc",
+        "dyndns.dappnode.io",
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
@@ -2182,7 +2183,6 @@
         "devices.resinstaging.io",
         "drud.io",
         "dyn53.io",
-        "dyndns.dappnode.io",
         "editorx.io",
         "fh-muenster.io",
         "g.vbrplsbx.io",
@@ -4181,6 +4181,7 @@
         "tamatsukuri.ibaraki.jp",
         "tamayu.shimane.jp",
         "tamba.hyogo.jp",
+        "tanabe.kyoto.jp",
         "tanabe.wakayama.jp",
         "tanagura.fukushima.jp",
         "tanohata.iwate.jp",
@@ -5455,7 +5456,6 @@
         "svizzera.museum",
         "sweden.museum",
         "sydney.museum",
-        "tanabe.kyoto.jp",
         "tank.museum",
         "tcm.museum",
         "technology.museum",
@@ -5849,7 +5849,6 @@
         "web.ni"
     ],
     "nl": [
-        "amsw.nl",
         "blogspot.nl",
         "cistron.nl",
         "co.nl",
@@ -5857,8 +5856,7 @@
         "hosting-cluster.nl",
         "khplay.nl",
         "myspreadshop.nl",
-        "transurl.nl",
-        "virtueeldomein.nl"
+        "transurl.nl"
     ],
     "no": [
         "aa.no",
