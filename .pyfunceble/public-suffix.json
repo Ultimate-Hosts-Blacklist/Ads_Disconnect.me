@@ -4361,7 +4361,6 @@
         "taishi.hyogo.jp",
         "taishi.osaka.jp",
         "taishin.fukushima.jp",
-        "taito.tokyo.jp",
         "taiwa.miyagi.jp",
         "tajimi.gifu.jp",
         "tajiri.osaka.jp",
@@ -5115,6 +5114,7 @@
         "site.transip.me",
         "soundcast.me",
         "synology.me",
+        "taito.tokyo.jp",
         "tbits.me",
         "tcp4.me",
         "vp4.me",
@@ -8599,7 +8599,6 @@
         "lib.mn.us",
         "lib.mo.us",
         "lib.ms.us",
-        "lib.mt.us",
         "lib.nc.us",
         "lib.nd.us",
         "lib.ne.us",
@@ -8782,6 +8781,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--o3cw4h": [
+        "lib.mt.us",
+        "xn--o3cyx2a.xn--o3cw4h"
     ],
     "xyz": [
         "blogsite.xyz",
