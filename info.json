@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2022-10-20T06:33:52.949548",
-    "end_epoch": 1666247632.949548,
+    "end_datetime": "2022-10-21T08:12:23.125898",
+    "end_epoch": 1666339943.125898,
     "name": "Ads_Disconnect.me",
     "previous_end_datetime": "2022-10-20T06:33:52.949548",
     "previous_end_epoch": 1666247632.949548,
