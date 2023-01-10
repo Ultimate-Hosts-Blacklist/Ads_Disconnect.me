@@ -526,7 +526,7 @@ ads.wiezoekje.nl                                                                
 ads.wikia.nocookie.net                                                                               ACTIVE      COLLECTION Unknown           404        AVAILABILITY 
 ads.wineenthusiast.com                                                                               ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
 ads.wwe.biz                                                                                          ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
-ads.xhamster.com                                                                                     ACTIVE      COLLECTION Unknown           301        AVAILABILITY 
+ads.xhamster.com                                                                                     ACTIVE      DNSLOOKUP  Unknown           301        AVAILABILITY 
 ads.xtra.co.nz                                                                                       ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
 ads.yimg.com                                                                                         ACTIVE      COLLECTION Unknown           404        AVAILABILITY 
 ads.yldmgrimg.net                                                                                    ACTIVE      COLLECTION Unknown           404        AVAILABILITY 
@@ -572,7 +572,7 @@ adserve.ams.rhythmxchange.com                                                   
 adserver.43plc.com                                                                                   ACTIVE      COLLECTION Unknown           404        AVAILABILITY 
 adserver.71i.de                                                                                      ACTIVE      COLLECTION Unknown           200        AVAILABILITY 
 adserver.adultfriendfinder.com                                                                       ACTIVE      COLLECTION Unknown           200        AVAILABILITY 
-adserver.aol.fr                                                                                      ACTIVE      COLLECTION Unknown           200        AVAILABILITY 
+adserver.aol.fr                                                                                      ACTIVE      COLLECTION Unknown           204        AVAILABILITY 
 adserver.barrapunto.com                                                                              ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
 adserver.beggarspromo.com                                                                            ACTIVE      COLLECTION Unknown           303        AVAILABILITY 
 adserver.betandwin.de                                                                                ACTIVE      COLLECTION Unknown           301        AVAILABILITY 
