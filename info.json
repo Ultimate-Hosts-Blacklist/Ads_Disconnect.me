@@ -1,17 +1,17 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2024-08-02T07:03:25.262809",
     "end_epoch": 1722582205.262809,
     "name": "Ads_Disconnect.me",
-    "previous_end_datetime": "2024-08-01T15:34:54.519049",
-    "previous_end_epoch": 1722526494.519049,
-    "previous_start_datetime": "2024-08-01T11:35:50.980873",
-    "previous_start_epoch": 1722512150.980873,
+    "previous_end_datetime": "2024-08-02T07:03:25.262809",
+    "previous_end_epoch": 1722582205.262809,
+    "previous_start_datetime": "2024-08-02T03:33:20.352093",
+    "previous_start_epoch": 1722569600.352093,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
-    "start_datetime": "2024-08-02T03:33:20.352093",
-    "start_epoch": 1722569600.352093
+    "start_datetime": "2024-08-03T01:45:14.684801",
+    "start_epoch": 1722649514.684801
 }
